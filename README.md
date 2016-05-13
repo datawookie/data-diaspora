@@ -63,3 +63,14 @@ time the call enters the VRU.
 15. ser_exit (6 digits): Time of end of service by agent.
 16. ser_time (1 to 3 digits): Service duration in seconds (calculated by ser_exit – ser_start).
 17. Server (text): Name of the agent who served the call. This field is NO_SERVER, if no service was provided.
+
+# Beer
+
+Monthly beer production in Australia from January 1956 to August 1995. The data includes ale and stout but excludes beverages with less than 1.15% alcohol. The data were downloaded from [DataMarket](https://datamarket.com/data/set/22xr/monthly-beer-production-in-australia-megalitres-includes-ale-and-stout-does-not-include-beverages-with-alcohol-percentage-less-than-115-jan-1956-aug-1995) on 12 May 2016.
+
+## Data Structure
+
+The data are composed of a single record per month. Each record has 2 fields.
+
+1. Month
+2. BeerMegaLitre: Volume of beer produced in Ml.
