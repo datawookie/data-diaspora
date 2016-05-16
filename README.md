@@ -1,3 +1,9 @@
+# Harvard Sentences
+
+https://en.wikipedia.org/wiki/Harvard_sentences
+
+Data were downloaded from http://www.cs.cmu.edu/afs/cs.cmu.edu/project/fgdata/Recorder.app/utterances/Type1/harvsents.txt on 16 May 2016.
+
 # Call Centre
 
 These data were retrieved as monthly zip files from http://ie.technion.ac.il/serveng/callcenterdata/index.html and then aggregated into a single CSV file.
