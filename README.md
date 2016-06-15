@@ -1,3 +1,7 @@
+# Bike Sharing
+
+https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset.
+
 # Harvard Sentences
 
 https://en.wikipedia.org/wiki/Harvard_sentences
