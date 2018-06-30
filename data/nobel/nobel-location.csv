@@ -1,0 +1,934 @@
+id,city,country_id
+1,'s Graveland,80
+2,&#346;eteniai,107
+3,Aarberg,118
+4,Aarhus,37
+5,Abeokuta,82
+6,Aberdeen,129
+7,Aberdeen,113
+8,Aberdeen, WA,130
+9,Adelaide,3
+10,Agnetendorf (Jagniatków),52
+11,Agrigento, Sicily,67
+12,Ainay-le-Château,45
+13,Akron, OH,130
+14,Aldea Chimel,57
+15,Ålesund,85
+16,Alice, TX,130
+17,Alliston,28
+18,Almora,62
+19,Altenberg; Grünau im Almtal,4
+20,Alton,129
+21,Amherst, NS,28
+22,Amoy,30
+23,Amsterdam,80
+24,Ängelholm,117
+25,Ann Arbor, MI,130
+26,Aracataca,31
+27,Arad,101
+28,Arequipa,90
+29,Argonne, IL,130
+30,Arlington, SD,130
+31,Arlington, VA,130
+32,Arnhem,80
+33,Ascona,118
+34,Ashburn, VA,130
+35,Ashland, NH,130
+36,Athens,55
+37,Atherton,3
+38,Atlanta, GA,130
+39,Auburn, AL,130
+40,Augsburg,50
+41,Aurich,38
+42,Austin, TX,130
+43,Autun,45
+44,Avanca,96
+45,Ayot St. Lawrence,129
+46,Azinhaga,96
+47,Bad Cannstatt,50
+48,Bad Homburg vor der Höhe,50
+49,Bad Kissingen,50
+50,Bad Kreuznach,43
+51,Bad Salzbrunn,97
+52,Baden-Baden,50
+53,Bahia Blanca,2
+54,Baku,103
+55,Baltimore, MD,130
+56,Banbury,129
+57,Bandol,45
+58,Bangalore,62
+59,Bar Harbor, ME,130
+60,Barbizon,45
+61,Barger-Compascuum,80
+62,Basel,118
+63,Batavia, IL,130
+64,Batley,129
+65,Bayonne,45
+66,Bearsden,129
+67,Beckenham,129
+68,Beijing,30
+69,Belfast,83
+70,Belgrade,136
+71,Bellême,45
+72,Belmont, MA,130
+73,Benzonia, MI,130
+74,Bergamo,67
+75,Bergen,85
+76,Berkeley, CA,130
+77,Berlin,97
+78,Berlin,50
+79,Berlin,134
+80,Berlin,39
+81,Berlin,43
+82,Berlin-Dahlem,50
+83,Bern,118
+84,Berne,118
+85,Berne, IN,130
+86,Bethesda, MD,130
+87,Beverly, MA,130
+88,Big Sur, CA,130
+89,Bilthoven,80
+90,Birmingham,129
+91,Blackpool,129
+92,Blacksburg, VA,130
+93,Blankenburg,50
+94,Blockley,129
+95,Bloomington, IL,130
+96,Bloomington, IN,130
+97,Bloomsburg, PA,130
+98,Blue Point, NY,130
+99,Bluefield, WV,130
+100,Bnin (Kórnik),92
+101,Bochum,50
+102,Bodmin,129
+103,Bogotá,31
+104,Bologna,67
+105,Bombay,22
+106,Bonn,50
+107,Bonn,43
+108,Bordeaux,45
+109,Bornheim-Merten,134
+110,Boston, MA,130
+111,Boulder, CO,130
+112,Bourne,129
+113,Bradford,129
+114,Bradford, MA,130
+115,Breisgau,50
+116,Breisgau,43
+117,Bremen,50
+118,Bremerhaven-Lehe,50
+119,Breslau (Wroclaw),98
+120,Breslau (Wroclaw),52
+121,Brest Litovsk,104
+122,Bridgetown,16
+123,Briesen,97
+124,Brighton,129
+125,Brisbane,3
+126,Bristol,129
+127,Brive-Corrèze,45
+128,Bronx, NY,130
+129,Brookline, MA,130
+130,Brooklyn, NY,130
+131,Brussels,18
+132,Buchs,118
+133,Bucksburn (Scotland),129
+134,Buczacz (Buchach),12
+135,Budapest,9
+136,Budapest,59
+137,Buenos Aires,2
+138,Buffalo, NY,130
+139,Bulawayo,115
+140,Burgberg,134
+141,Burlingame, KS,130
+142,Burlington, MA,130
+143,Burnham-on-Sea,129
+144,Byhalia, MS,130
+145,Cairo,41
+146,Calais,45
+147,Calcutta,62
+148,Calw,50
+149,Cambridge,129
+150,Cambridge, MA,130
+151,Canberra,3
+152,Cannes,45
+153,Canterbury,129
+154,Canton, MA,130
+155,Canton, SD,130
+156,Cape Town,114
+157,Caracas,131
+158,Carcassonne,45
+159,Cardiff,129
+160,Carlops,113
+161,Casablanca,79
+162,Casteldàwson,83
+163,Castillon-du-Gard,45
+164,Castries,25
+165,Castries,111
+166,Catanzaro,67
+167,Cedarville, IL,130
+168,Chabris,45
+169,Champaign-Urbana, IL,130
+170,Champaign, IL,130
+171,Changchun,30
+172,Chapel Hill, NC,130
+173,Charleston, SC,130
+174,Charlottenburg,50
+175,Charlottesville, VA,130
+176,Châtenay,45
+177,Cheetham Hill, near Manchester,129
+178,Cherbourg,45
+179,Chester, VT,130
+180,Chesterfield, MO,130
+181,Chicago, IL,130
+182,Chidambaram, Tamil Nadu,62
+183,Chiran,69
+184,Chittagong,21
+185,Chorley,129
+186,Clamecy,45
+187,Clausthal (Clausthal-Zellerfeld),50
+188,Cleveland, OH,130
+189,Clinton, NY,130
+190,Cluny,113
+191,Cold Spring Harbor, NY,130
+192,College Park, MD,130
+193,College Station, TX,130
+194,Cologne,50
+195,Cologne,134
+196,Cologne,43
+197,Concord, MA,130
+198,Constantine,47
+199,Contra,118
+200,Copenhagen,37
+201,Coral Gables, FL,130
+202,Corona del Mar, CA,130
+203,Corteno,67
+204,Corvallis, OR,130
+205,Council, ID,130
+206,Cresco, IA,130
+207,Cresskill, NJ,130
+208,Croydon,129
+209,Dabrovica,92
+210,Dallas, TX,130
+211,Damanhur,41
+212,Danby, VT,130
+213,Danzig (Gdansk),46
+214,Deerfield, MA,130
+215,Del Mar, CA,130
+216,Delaware, OH,130
+217,Den Helder,80
+218,Denver, CO,130
+219,Derby,129
+220,Des Moines, IA,130
+221,Detroit, MI,130
+222,Dewsbury,129
+223,Dieppe,45
+224,Dijon,45
+225,Dili,40
+226,Dinant,18
+227,Dippenhall,129
+228,Djursholm,117
+229,Dolac,19
+230,Dordrecht,80
+231,Drexel Hill, PA,130
+232,Dublin,65
+233,Duluth, MN,130
+234,Dungarvan,65
+235,Durham, NC,130
+236,Eastbourne,129
+237,Echternach,75
+238,Edinburgh,129
+239,Edinburgh,113
+240,Edzell,113
+241,El Cerrito, CA,130
+242,Elizabeth, NJ,130
+243,Enterprise, OR,130
+244,Épernay,45
+245,Etterbeek,18
+246,Eugene, OR,130
+247,Euskirchen,97
+248,Evanston, IL,130
+249,Fairfax, VA,130
+250,Fallston, MD,130
+251,Falmouth, KY,130
+252,Falmouth, MA,130
+253,Fareham,129
+254,Farnborough,129
+255,Farsø,37
+256,Fleräng,117
+257,Fleurier,118
+258,Focsani,101
+259,Fort Worth, TX,130
+260,Fosnavåg,85
+261,Fowey,129
+262,Frankfurt-on-the-Main,50
+263,Frankfurt-on-the-Main,134
+264,Frankfurt-on-the-Main,43
+265,Frauenfeld,118
+266,Fredericia,37
+267,Freiburg,50
+268,Freiburg im Breisgau,50
+269,Freiburg im Breisgau,134
+270,Fukuoka,69
+271,Fulda,58
+272,Fürth,50
+273,Gaffken (Parusnoye),99
+274,Gaithersburg, MD,130
+275,Ganzhou,30
+276,Gaomi,30
+277,Garching,50
+278,Garding,112
+279,Gary, IN,130
+280,Gelsenkirchen,50
+281,Geneva,118
+282,Genoa,67
+283,Germantown, PA,130
+284,Germiston,114
+285,Ghent,18
+286,Gjesdal,85
+287,Gladwyne, PA,130
+288,Glasgow,113
+289,Glencorse,113
+290,Glens Falls, NY,130
+291,Goldschmieden, near Breslau,52
+292,Gorizia,67
+293,Görlitz,97
+294,Gothenburg,117
+295,Göttingen,50
+296,Göttingen,134
+297,Göttingen,43
+298,Grand Valley, CO,130
+299,Gränichen,118
+300,Grantchester,129
+301,Gravesend,129
+302,Graz,4
+303,Great Barrington, MA,130
+304,Great Missenden,129
+305,Greenbelt, MD,130
+306,Greenville, SC,130
+307,Greenwich, CT,130
+308,Greifswald,50
+309,Grenå,37
+310,Grenoble,45
+311,Grimstad,85
+312,Groningen,80
+313,Guatemala City,57
+314,Guebwiller,51
+315,Haifa,24
+316,Haifa,66
+317,Halifax,28
+318,Halifax,129
+319,Halle,50
+320,Halmstad,117
+321,Hamadan,64
+322,Hamamatsu,69
+323,Hamburg,50
+324,Hämeenkyrö,105
+325,Hamilton, Ontario,28
+326,Hampstead,129
+327,Hanoi,132
+328,Hanover,50
+329,Hansdorf (Lawice),98
+330,Harborne,129
+331,Harlow,129
+332,Harrison, NY,130
+333,Hartford, CT,130
+334,Harwell, Berkshire,129
+335,Haverhill, MA,130
+336,Heidelberg,50
+337,Heidelberg,134
+338,Heidelberg,43
+339,Heiden,118
+340,Helsa,50
+341,Helsinki,105
+342,Helsinki,44
+343,Hempstead, NY,130
+344,Henan,30
+345,Heredia,32
+346,Hertfordshire,129
+347,Higashimatsuyama,69
+348,High Wycombe,129
+349,Hildesheim,50
+350,Hillsboro, WV,130
+351,Hobart, Tasmania,3
+352,Hoechst,50
+353,Hofei, Anhwei,30
+354,Holbeach,129
+355,Hollerich,75
+356,Holmdel, NJ,130
+357,Hong Kong,30
+358,Honolulu, HI,130
+359,Hoquiam, WA,130
+360,Houston, TX,130
+361,Hsinchu,119
+362,Hume, IL,130
+363,Huntington, NY,130
+364,Hyannis, MA,130
+365,Iasi,101
+366,Ikata,69
+367,Imperia,67
+368,Indianapolis, IN,130
+369,Innsbruck,4
+370,Ipswich,129
+371,Iráklion,33
+372,Iria Flavia,116
+373,Irvine, CA,130
+374,Ishpeming, MI,130
+375,Istanbul,123
+376,Ithaca, NY,130
+377,Ivano-Frankivsk,125
+378,J&uuml;lich,50
+379,Jamaica Plain, MA (Boston),130
+380,Jämshög,117
+381,Jefferson City, MO,130
+382,Jena,50
+383,Jerusalem,23
+384,Jerusalem,66
+385,Jhang Maghi&#257;na,63
+386,Johannesburg,114
+387,Jönköping,117
+388,Kalgoorlie,3
+389,Kalundborg,37
+390,Karcag,59
+391,Karlbo,117
+392,Karlsruhe,50
+393,Kashiwa,69
+394,Kattowitz (Katowice),52
+395,Kaysersberg,51
+396,Kermanshah,89
+397,Ketchum, ID,130
+398,Kharkov (Kharkiv),110
+399,Kibbutz Sde-Nahum,23
+400,Kiel,112
+401,Kiel,134
+402,Kiel,50
+403,Kiel,43
+404,Kilmaurs,113
+405,Kingston,28
+406,Kingston Hill,129
+407,Kingston upon Thames,129
+408,Kingston, ON,28
+409,Kislovodsk,102
+410,Klerksdorp,114
+411,Klippan,117
+412,Klotzsche,50
+413,Knokke,18
+414,Kobe,69
+415,Kobiele Wielkie,108
+416,Koenigsberg (Kaliningrad),53
+417,Königshütte (Chorzów),98
+418,Kraków,92
+419,Kristiania (Oslo),85
+420,Kronshtadt,109
+421,Kumasi,54
+422,Kvikne,85
+423,Kyoto,69
+424,La Flèche,45
+425,La Jolla, CA,130
+426,Lafayette, CA,130
+427,Lafayette, IN,130
+428,Lagow,52
+429,Lahore,63
+430,Laibach (Ljubljana),11
+431,Lakeville, CT,130
+432,Lambaréné,48
+433,Landsberg,50
+434,Landskrona,117
+435,Langford Grove, Maldon, Essex,129
+436,Lansing, IA,130
+437,Lanzarote,116
+438,Leeds,129
+439,Leggiuno-Sangiano,67
+440,Leiden,80
+441,Leipzig,50
+442,Lemvig,37
+443,Leningrad,102
+444,Leningrad (Saint Petersburg),102
+445,Leningrad (Saint Petersburg),128
+446,Lennep (Remscheid),97
+447,Lenoir, NC,130
+448,Leoncin,108
+449,Lethbridge, Alberta,28
+450,Leuven,18
+451,Lewes, East Sussex,129
+452,Lexington, KY,130
+453,Lexington, MA,130
+454,Lidingö-Stockholm,117
+455,Liestal,118
+456,Lille,45
+457,Lillehammer,85
+458,Lincoln, MA,130
+459,Linköping,117
+460,Lisbon,96
+461,Little Falls, MN,130
+462,Liverpool,129
+463,Livingston Manor, NY,130
+464,Llangarron,129
+465,Locarno,118
+466,Lochfield,113
+467,Lom,85
+468,London,129
+469,Londonderry,83
+470,Long Island, New York, NY,130
+471,Longlier,18
+472,Lorain, OH,130
+473,Lorenzkirch,50
+474,Los Angeles, CA,130
+475,Los Gatos, CA,130
+476,Louvain,18
+477,Luarca,116
+478,Lübeck,50
+479,Lucerne,118
+480,Ludwigsburg,134
+481,Lund,117
+482,Lyon,45
+483,Maastricht,80
+484,Madison, NJ,130
+485,Madison, WI,130
+486,Madrid,116
+487,Magdeburg,50
+488,Maillane,45
+489,Mainz,43
+490,Manchester,129
+491,Manila,91
+492,Mannheim-Rheinau,50
+493,Mårbacka,117
+494,Marburg,50
+495,Marietta, OH,130
+496,Mart, TX,130
+497,Martinsried,43
+498,Massachusetts, MA,130
+499,Masterton,81
+500,Medford, MA,130
+501,Medicine Hat, Alberta,28
+502,Melbourne,3
+503,Memphis, TN,130
+504,Menin,18
+505,Merriman, NE,130
+506,Messelhausen,50
+507,Methuen, MA,130
+508,Mexico City,78
+509,Miami, FL,130
+510,Middletown, CT,130
+511,Milan,15
+512,Milan,67
+513,Milano,67
+514,Milford, MA,130
+515,Milton Keynes,129
+516,Milwaukee, WI,130
+517,Mingora,88
+518,Minneapolis, MN,130
+519,Minnigaff,113
+520,Missoula, MT,130
+521,Mit Abu al-Kawm,41
+522,Mitcham,129
+523,Modica,67
+524,Moffett Field, CA,130
+525,Moguer,116
+526,Mokpo,72
+527,Mondovi,47
+528,Monessen, PA,130
+529,Monrovia,73
+530,Montagnola,118
+531,Montclair, NJ,130
+532,Montreal,28
+533,Morrison, IL,130
+534,Moscow,102
+535,Moscow,128
+536,Moscow,126
+537,Mount Verno, NY,130
+538,Mountain View, CA,130
+539,Mukawa,69
+540,Mülheim,134
+541,Mülheim/Ruhr,43
+542,Mulhouse,45
+543,Mulrany,65
+544,Munich,17
+545,Munich,50
+546,Munich,134
+547,Munich,43
+548,Munster,50
+549,Murfreesboro, TN,130
+550,Murray Hill, NJ,130
+551,Mürzzuschlag,4
+552,Muskau,50
+553,Næstved,37
+554,Nagoya,69
+555,Nairobi,71
+556,Nam Ha province,132
+557,Nancy,45
+558,Nantes,45
+559,Naples,67
+560,Nara,69
+561,Nashville, TN,130
+562,Ndola,84
+563,Nedlands,3
+564,Needham, MA,130
+565,Neisse (Nysa),52
+566,Nelson,81
+567,Neston,129
+568,Nethen,18
+569,Neuchâtel,118
+570,Neudorf,28
+571,Neuenkirchen,134
+572,Neuilly-sur-Seine,45
+573,New Albany, MS,130
+574,New Brunswick, NJ,130
+575,New Haven, CT,130
+576,New Jersey, NJ,130
+577,New Orleans, LA,130
+578,New York, NY,130
+579,Newark,129
+580,Newburyport, MA,130
+581,Newcastle upon Tyne,129
+582,Newfoundland,28
+583,Newton-le-Willows,129
+584,Niagara Falls,28
+585,Nice,45
+586,Nicosia,34
+587,Nijkerk,80
+588,Nitzkydorf, Banat,101
+589,Nizhny Tagil,102
+590,Norrköping,117
+591,Northampton,129
+592,Northfield, MN,130
+593,Norwich,129
+594,Nottingham,129
+595,Novaya Chigla,102
+596,Nuoro, Sardinia,67
+597,Nyeri,71
+598,Oak Lawn, IL,130
+599,Oak Park, IL,130
+600,Oakland, CA,130
+601,Oceanside, NY,130
+602,Ocho Rios,68
+603,Olshammar,117
+604,Olten,118
+605,Olympus, TN,130
+606,Omaha, NE,130
+607,Orange, CA,130
+608,Orange, NJ,130
+609,Oranienburg,50
+610,Ordrup,37
+611,Örebro,117
+612,Orsay,45
+613,Osaka,69
+614,Oslo,85
+615,Ostend,18
+616,Ottawa,28
+617,Övralid,117
+618,Owosso, MI,130
+619,Oxford,129
+620,Oyster Bay, NY,130
+621,Palm Desert, CA,130
+622,Palma, Majorca,116
+623,Palo Alto, CA,130
+624,Paris,45
+625,Parral,29
+626,Pasadena, CA,130
+627,Paterson, NJ,130
+628,Pavia,67
+629,Peggau,4
+630,Penrhyndeudraeth,129
+631,Peredelkino,102
+632,Perranarworthal,129
+633,Perth,3
+634,Petilla de Aragó,116
+635,Pfaffendorf,50
+636,Pforzheim,50
+637,Philadelphia, PA,130
+638,Pinsk,104
+639,Pittsburgh, PA,130
+640,Plains, GA,130
+641,Platteville, WI,130
+642,Pleasanton, CA,130
+643,Plzen,36
+644,Pointe-à-Pitre,56
+645,Pomona, CA,130
+646,Pongaroa,81
+647,Popowo,92
+648,Portland, OR,130
+649,Possum Trot, KY,130
+650,Potsdam, NY,130
+651,Pottsville, PA,130
+652,Poughkeepsie, NY,130
+653,Poznan,92
+654,Prague,14
+655,Prague,8
+656,Prague,35
+657,Presqu'île-de-Giens,45
+658,Pressburg (Bratislava),60
+659,Pretoria,114
+660,Priluka (Nova Pryluka),110
+661,Princeton, NJ,130
+662,Privolnoye,128
+663,Providence, RI,130
+664,Provo, UT,130
+665,Pusan,72
+666,Putney Heath,129
+667,Putney, VT,130
+668,Qunu,114
+669,Raipur,62
+670,Raleigh, NC,130
+671,Ramelton,65
+672,Randallstown, MD,130
+673,Randolph, NH,130
+674,Rangoon (Yangon),27
+675,Raton, NM,130
+676,Redondo Beach, CA,130
+677,Rehovot,66
+678,Rendcombe,129
+679,Renton, WA,130
+680,Research Triangle Park, NC,130
+681,Reykjavik,61
+682,Richmond, VA,130
+683,Ridgeville, IN,130
+684,Riga,106
+685,Rio de Janeiro,20
+686,Roanoke, VA,130
+687,Rochester, MN,130
+688,Rochester, NY,130
+689,Rockville, MD,130
+690,Roholte,37
+691,Rome,67
+692,Roquebrune-Cap-Martin,45
+693,Rosheim,45
+694,Rostock,77
+695,Rotterdam,80
+696,Rouen,45
+697,Rueil-Malmaison,45
+698,Rufford, near Chesterfield,129
+699,Rüschlikon,118
+700,Ruse,26
+701,Ryazan,102
+702,Rye, NY,130
+703,Rymanow,10
+704,Saco, ME,130
+705,Saint-Cyr-sur-Loire,45
+706,Sainte-Foy-lès-Lyon,45
+707,Salamanca,116
+708,Salem, NJ,130
+709,Salinas, CA,130
+710,Sallanches,45
+711,Salt Lake City, UT,130
+712,San Diego, CA,130
+713,San Francisco, CA,130
+714,San José, CA,130
+715,San Juan,100
+716,San Marino, CA,130
+717,Santa Barbara, CA,130
+718,Santiago,29
+719,Santiniketan,62
+720,Sapporo,69
+721,Sarajevo,6
+722,Saratov,102
+723,Sauk Centre, MN,130
+724,Savur,123
+725,Schenectady, NY,130
+726,Schickenhof,50
+727,Schopfheim,134
+728,Schroda,49
+729,Seattle, WA,130
+730,Semarang,70
+731,Sens,45
+732,Sevilla,116
+733,Sèvres,45
+734,Shanghai,30
+735,Sheffield,129
+736,Shipston-on-Stour,129
+737,Sidney, OH,130
+738,Sighet,101
+739,Silkeborg,37
+740,Sioux City, IA,130
+741,Skattungbyn,117
+742,Skedsmo,85
+743,Smyrna (Izmir),87
+744,Sochi,102
+745,Soignies,18
+746,Sorau (Zory),52
+747,South Bend, IN,130
+748,South Norwalk, CT,130
+749,Springfield, MA,130
+750,Springs,114
+751,St. Columb Minor,129
+752,St. Louis, MO,130
+753,St. Paul, MN,130
+754,St. Petersburg,102
+755,St. Petersburg,109
+756,Stainforth,129
+757,Stanford, CA,130
+758,Stanger,114
+759,Starnberg,50
+760,Staunton, VA,130
+761,Stavanger,85
+762,Stenstorp,117
+763,Sterling, IL,130
+764,Stockholm,117
+765,Stoughton, WI,130
+766,Strasbourg,1
+767,Strasbourg,45
+768,Strassburg (Strasbourg),51
+769,Strehlen (Strzelin),98
+770,Strelno (Strzelno),98
+771,Stroud,129
+772,Stuttgart,133
+773,Stuttgart,50
+774,Stuttgart,43
+775,Sumter, SC,130
+776,Superior, WI,130
+777,Surfside, FL,130
+778,Svartbjörnsbyn,117
+779,Swanage,129
+780,Swansea,129
+781,Sydney,3
+782,Sydney,28
+783,Syosset, NY,130
+784,Syracuse, NY,130
+785,Szeged,59
+786,Ta'izz,135
+787,Tabuse,69
+788,Taktser,120
+789,Tallahassee, FL,130
+790,Tananarive (Antananarivo),76
+791,Tardebigg,129
+792,Taunton, MA,130
+793,Taylorville, IL,130
+794,Tel Aviv,23
+795,Tel Aviv,66
+796,Tempe, AZ,130
+797,Thames Ditton,129
+798,the Hague,80
+799,Thieuloy-Saint-Antoine,45
+800,Thorshavn,42
+801,Timmins, ON,28
+802,Tiruchirappalli,62
+803,Tivoli,67
+804,Todmorden,129
+805,Tokyo,69
+806,Tonbridge,129
+807,Torino,67
+808,Toronto,28
+809,Toulouse,45
+810,Tours,45
+811,Toyama City,69
+812,Toyohashi,69
+813,Tramelan,118
+814,Traralgon,3
+815,Traunstein,134
+816,Trelleck,129
+817,Trieste,67
+818,Troitse-Lykovo,102
+819,Tromsø,85
+820,Trondheim,85
+821,Trönö,117
+822,Troyes,45
+823,Truro, NS,28
+824,Tsukuba,69
+825,Tübingen,43
+826,Tucson, AZ,130
+827,Tunbridge Wells,129
+828,Tunis,122
+829,Tunis,137
+830,Turin,67
+831,Twin Falls, ID,130
+832,Uchiko,69
+833,Uddingston,113
+834,Ulm,50
+835,Uniontown, PA,130
+836,Unkel,50
+837,Uppsala,117
+838,Urbana, IL,130
+839,Uskup (Skopje),86
+840,Usman,128
+841,Utrecht,80
+842,Val di Castello,124
+843,Vålådalen,117
+844,Vancouver,28
+845,Växjö,117
+846,Verona,67
+847,Veshenskaya,102
+848,Veshenskaya,126
+849,Vevey,118
+850,Vézelay,45
+851,Victoria, BC,28
+852,Vicuña,29
+853,Vidisha,62
+854,Vienna,4
+855,Vienna,13
+856,Vienna,5
+857,Viipuri (Vyborg),44
+858,Vik,117
+859,Visalia, CA,130
+860,Vishneva,93
+861,Vitebsk, Belorussia,127
+862,Vladivostok,102
+863,Voronezh,102
+864,Vukovar,7
+865,Waalwijk,80
+866,Wahoo, NE,130
+867,Wailacama,40
+868,Wakulla Springs State Park, FL,130
+869,Walkerton, IN,130
+870,Waltersdorf (Niegoslawice),52
+871,Waltham, MA,130
+872,Warsaw,108
+873,Warsaw,92
+874,Warwick,129
+875,Washington, DC,130
+876,Waterford, CT,130
+877,Wayland, MA,130
+878,Weimar,50
+879,Wels,4
+880,West Berlin,134
+881,West Berlin,50
+882,West Hartford, CT,130
+883,West Lafayette, IN,130
+884,Weston Creek,3
+885,White Plains, NY,130
+886,Whiting, IN,130
+887,Wichita, KS,130
+888,Wickenberg, AZ,130
+889,Widnes,129
+890,Wigton,129
+891,Wilkes-Barre, PA,130
+892,Willesden,129
+893,Wilmette, IL,130
+894,Wilmington, DE,130
+895,Wilno (Vilnius),94
+896,Winchester,129
+897,Winchester, MA,130
+898,Windsor, ON,28
+899,Wingham,28
+900,Winterthur,118
+901,Wisbech,129
+902,Wloclawek,92
+903,Wola Okrzejska,92
+904,Wollerau,118
+905,Woods Hole, MA,130
+906,Woodstock,129
+907,Wooster, OH,130
+908,Worcester, MA,130
+909,Worms,50
+910,Würzburg,50
+911,Yakima, WA,130
+912,Yamanashi Prefecture,69
+913,Yonkers, NY,130
+914,York, PA,130
+915,Yorktown Heights, NY,130
+916,Yukon, FL,130
+917,Zamora,78
+918,Zelvas,74
+919,Zhejiang Ningbo,30
+920,Zloczov,95
+921,Zonnemaire,80
+922,Zurich,118
+923,Zusamaltheim,50
+924,Zushi,69
+925,NA,137
+926,NA,121
+927,NA,30
+928,NA,80
+929,NA,45
+930,NA,129
+931,NA,130
+932,NA,67
+933,NA,126

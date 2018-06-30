@@ -1,0 +1,905 @@
+id,name,sex,birth_date,death_date,birth_location_id,death_location_id
+1,Wilhelm Conrad Röntgen,M,1845-03-27,1923-02-10,446,545
+2,Hendrik Antoon Lorentz,M,1853-07-18,1928-02-04,32,928
+3,Pieter Zeeman,M,1865-05-25,1943-10-09,921,23
+4,Antoine Henri Becquerel,M,1852-12-15,1908-08-25,624,929
+5,Pierre Curie,M,1859-05-15,1906-04-19,624,624
+6,Marie Curie, née Sklodowska,F,1867-11-07,1934-07-04,872,710
+8,Lord Rayleigh (John William Strutt),M,1842-11-12,1919-06-30,435,930
+9,Philipp Eduard Anton von Lenard,M,1862-06-07,1947-05-20,658,506
+10,Joseph John Thomson,M,1856-12-18,1940-08-30,177,149
+11,Albert Abraham Michelson,M,1852-12-19,1931-05-09,770,626
+12,Gabriel Lippmann,M,1845-08-16,1921-07-13,355,925
+13,Guglielmo Marconi,M,1874-04-25,1937-07-20,104,691
+14,Karl Ferdinand Braun,M,1850-06-06,1918-04-20,271,130
+15,Johannes Diderik van der Waals,M,1837-11-23,1923-03-08,440,23
+16,Wilhelm Wien,M,1864-01-13,1928-08-30,273,545
+17,Nils Gustaf Dalén,M,1869-11-30,1937-12-09,762,764
+18,Heike Kamerlingh Onnes,M,1853-09-21,1926-02-21,312,440
+19,Max von Laue,M,1879-10-09,1960-04-23,635,79
+20,Sir William Henry Bragg,M,1862-07-02,1942-03-12,890,468
+21,William Lawrence Bragg,M,1890-03-31,1971-07-01,9,370
+22,Charles Glover Barkla,M,1877-06-07,1944-10-23,889,239
+23,Max Karl Ernst Ludwig Planck,M,1858-04-23,1947-10-04,400,296
+24,Johannes Stark,M,1874-04-15,1957-06-21,726,815
+25,Charles Edouard Guillaume,M,1861-02-15,1938-06-13,257,733
+26,Albert Einstein,M,1879-03-14,1955-04-18,834,661
+27,Niels Henrik David Bohr,M,1885-10-07,1962-11-18,200,200
+28,Robert Andrews Millikan,M,1868-03-22,1953-12-19,533,716
+29,Karl Manne Georg Siegbahn,M,1886-12-03,1978-09-26,481,24
+30,James Franck,M,1882-08-26,1964-05-21,323,296
+31,Gustav Ludwig Hertz,M,1887-07-22,1975-10-30,323,80
+32,Jean Baptiste Perrin,M,1870-09-30,1942-04-17,456,578
+33,Arthur Holly Compton,M,1892-09-10,1962-03-15,907,76
+34,Charles Thomson Rees Wilson,M,1869-02-14,1959-11-15,289,160
+35,Owen Willans Richardson,M,1879-04-26,1959-02-15,222,20
+36,Prince Louis-Victor Pierre Raymond de Broglie,M,1892-08-15,1987-03-19,223,624
+37,Sir Chandrasekhara Venkata Raman,M,1888-11-07,1970-11-21,802,58
+38,Werner Karl Heisenberg,M,1901-12-05,1976-02-01,910,546
+39,Erwin Schrödinger,M,1887-08-12,1961-01-04,854,854
+40,Paul Adrien Maurice Dirac,M,1902-08-08,1984-10-20,126,789
+41,James Chadwick,M,1891-10-20,1974-07-24,490,149
+42,Victor Franz Hess,M,1883-06-24,1964-12-17,629,537
+43,Carl David Anderson,M,1905-09-03,1991-01-11,578,716
+44,Clinton Joseph Davisson,M,1881-10-22,1958-02-01,95,175
+45,George Paget Thomson,M,1892-05-03,1975-09-10,149,149
+46,Enrico Fermi,M,1901-09-29,1954-11-28,691,181
+47,Ernest Orlando Lawrence,M,1901-08-08,1958-08-27,155,623
+48,Otto Stern,M,1888-02-17,1969-08-17,746,76
+49,Isidor Isaac Rabi,M,1898-07-29,1988-01-11,703,578
+50,Wolfgang Pauli,M,1900-04-25,1958-12-15,854,922
+51,Percy Williams Bridgman,M,1882-04-21,1961-08-20,150,673
+52,Sir Edward Victor Appleton,M,1892-09-06,1965-04-21,113,239
+53,Patrick Maynard Stuart Blackett,M,1897-11-18,1974-07-13,468,468
+54,Hideki Yukawa,M,1907-01-23,1981-09-08,805,423
+55,Cecil Frank Powell,M,1903-12-05,1969-08-09,806,932
+56,Sir John Douglas Cockcroft,M,1897-05-27,1967-09-18,804,149
+57,Ernest Thomas Sinton Walton,M,1903-10-06,1995-06-25,234,69
+58,Felix Bloch,M,1905-10-23,1983-09-10,922,922
+59,Edward Mills Purcell,M,1912-08-30,1997-03-07,793,150
+60,Frits Zernike,M,1888-07-16,1966-03-10,23,312
+61,Max Born,M,1882-12-11,1970-01-05,120,296
+62,Walther Bothe,M,1891-01-08,1957-02-08,609,337
+63,Willis Eugene Lamb,M,1913-07-12,2008-05-15,474,826
+64,Polykarp Kusch,M,1911-01-26,1993-03-20,93,210
+65,William Bradford Shockley,M,1910-02-13,1989-08-12,468,623
+66,John Bardeen,M,1908-05-23,1991-01-30,485,110
+67,Walter Houser Brattain,M,1902-02-10,1987-10-13,22,729
+68,Chen Ning Yang,M,1922-09-22,NA,353,925
+69,Tsung-Dao (T.D.) Lee,M,1926-11-24,NA,734,925
+70,Pavel Alekseyevich Cherenkov,M,1904-07-28,1990-01-06,595,933
+71,Igor Yevgenyevich Tamm,M,1895-07-08,1971-04-12,862,535
+72,Emilio Gino Segrè,M,1905-02-01,1989-04-22,803,426
+73,Owen Chamberlain,M,1920-07-10,2006-02-28,713,76
+74,Donald Arthur Glaser,M,1926-09-21,2013-02-28,188,76
+75,Robert Hofstadter,M,1915-02-05,1990-11-17,578,757
+76,Rudolf Ludwig Mössbauer,M,1929-01-31,2011-09-14,545,925
+77,Lev Davidovich Landau,M,1908-01-22,1968-04-01,54,535
+78,Eugene Paul Wigner,M,1902-11-17,1995-01-01,135,661
+79,Maria Goeppert Mayer,F,1906-06-28,1972-02-20,394,712
+80,J. Hans D. Jensen,M,1907-06-25,1973-02-11,323,337
+81,Charles Hard Townes,M,1915-07-28,2015-01-27,306,76
+82,Nicolay Gennadiyevich Basov,M,1922-12-14,2001-07-01,840,534
+83,Aleksandr Mikhailovich Prokhorov,M,1916-07-11,2002-01-08,37,534
+84,Sin-Itiro Tomonaga,M,1906-03-31,1979-07-08,423,805
+85,Julian Schwinger,M,1918-02-12,1994-07-16,578,474
+86,Richard P. Feynman,M,1918-05-11,1988-02-15,578,474
+87,Alfred Kastler,M,1902-05-03,1984-01-07,314,57
+88,Hans Albrecht Bethe,M,1906-07-02,2005-03-06,768,376
+89,Luis Walter Alvarez,M,1911-06-13,1988-09-01,713,76
+90,Murray Gell-Mann,M,1929-09-15,NA,578,925
+91,Hannes Olof Gösta Alfvén,M,1908-05-30,1995-04-02,590,228
+92,Louis Eugène Félix Néel,M,1904-11-22,2000-11-17,482,127
+93,Dennis Gabor,M,1900-06-05,1979-02-08,136,468
+95,Leon Neil Cooper,M,1930-02-28,NA,578,925
+96,John Robert Schrieffer,M,1931-05-31,NA,599,925
+97,Leo Esaki,M,1925-03-12,NA,613,925
+98,Ivar Giaever,M,1929-04-05,NA,75,925
+99,Brian David Josephson,M,1940-01-04,NA,159,925
+100,Sir Martin Ryle,M,1918-09-27,1984-10-14,124,149
+101,Antony Hewish,M,1924-05-11,NA,261,925
+102,Aage Niels Bohr,M,1922-06-19,2009-09-08,200,200
+103,Ben Roy Mottelson,M,1926-07-09,NA,181,925
+104,Leo James Rainwater,M,1917-12-09,1986-03-31,205,913
+105,Burton Richter,M,1931-03-22,NA,130,925
+106,Samuel Chao Chung Ting,M,1936-01-27,NA,25,925
+107,Philip Warren Anderson,M,1923-12-13,NA,368,925
+108,Sir Nevill Francis Mott,M,1905-09-30,1996-08-08,438,515
+109,John Hasbrouck van Vleck,M,1899-03-13,1980-10-27,510,150
+110,Pyotr Leonidovich Kapitsa,M,1894-07-09,1984-04-08,420,535
+111,Arno Allan Penzias,M,1933-04-26,NA,545,925
+112,Robert Woodrow Wilson,M,1936-01-10,NA,360,925
+113,Sheldon Lee Glashow,M,1932-12-05,NA,578,925
+114,Abdus Salam,M,1926-01-29,1996-11-21,385,619
+115,Steven Weinberg,M,1933-05-03,NA,578,925
+116,James Watson Cronin,M,1931-09-29,2016-08-25,181,753
+117,Val Logsdon Fitch,M,1923-03-10,2015-02-05,505,661
+118,Nicolaas Bloembergen,M,1920-03-11,NA,230,925
+119,Arthur Leonard Schawlow,M,1921-05-05,1999-04-28,537,623
+120,Kai M. Siegbahn,M,1918-04-20,2007-07-20,481,24
+121,Kenneth G. Wilson,M,1936-06-08,2013-06-15,871,704
+122,Subramanyan Chandrasekhar,M,1910-10-19,1995-08-21,429,181
+123,William Alfred Fowler,M,1911-08-09,1995-03-14,639,626
+124,Carlo Rubbia,M,1934-03-31,NA,292,281
+125,Simon van der Meer,M,1925-11-24,2011-03-04,798,281
+126,Klaus von Klitzing,M,1943-06-28,NA,728,925
+127,Ernst Ruska,M,1906-12-25,1988-05-27,336,881
+128,Gerd Binnig,M,1947-07-20,NA,263,925
+129,Heinrich Rohrer,M,1933-06-06,2013-05-16,132,904
+130,J. Georg Bednorz,M,1950-05-16,NA,571,925
+131,K. Alexander Müller,M,1927-04-20,NA,62,925
+132,Leon M. Lederman,M,1922-07-15,NA,578,925
+133,Melvin Schwartz,M,1932-11-02,2006-08-28,578,831
+134,Jack Steinberger,M,1921-05-25,NA,49,925
+135,Norman F. Ramsey,M,1915-08-27,2011-11-04,875,877
+136,Hans G. Dehmelt,M,1922-09-09,NA,293,925
+137,Wolfgang Paul,M,1913-08-10,1993-12-07,473,106
+138,Jerome I. Friedman,M,1930-03-28,NA,181,925
+139,Henry W. Kendall,M,1926-12-09,1999-02-15,110,868
+140,Richard E. Taylor,M,1929-11-02,NA,501,925
+141,Pierre-Gilles de Gennes,M,1932-10-24,2007-05-18,624,612
+142,Georges Charpak,M,1924-08-01,2010-09-29,209,624
+143,Russell A. Hulse,M,1950-11-28,NA,578,925
+144,Joseph H. Taylor Jr.,M,1941-03-29,NA,637,925
+145,Bertram N. Brockhouse,M,1918-07-15,2003-10-13,449,325
+146,Clifford G. Shull,M,1915-09-23,2001-03-31,639,500
+147,Martin L. Perl,M,1927-06-24,2014-09-30,578,623
+148,Frederick Reines,M,1918-03-16,1998-08-26,627,607
+149,David M. Lee,M,1931-01-20,NA,702,925
+150,Douglas D. Osheroff,M,1945-08-01,NA,8,925
+151,Robert C. Richardson,M,1937-06-26,2013-02-19,875,376
+152,Steven Chu,M,1948-02-28,NA,752,925
+153,Claude Cohen-Tannoudji,M,1933-04-01,NA,198,925
+154,William D. Phillips,M,1948-11-05,NA,891,925
+155,Robert B. Laughlin,M,1950-11-01,NA,859,925
+156,Horst L. Störmer,M,1949-04-06,NA,263,925
+157,Daniel C. Tsui,M,1939-02-28,NA,344,925
+158,Gerardus 't Hooft,M,1946-07-05,NA,217,925
+159,Martinus J.G. Veltman,M,1931-06-27,NA,865,925
+160,Jacobus Henricus van 't Hoff,M,1852-08-30,1911-03-01,695,78
+161,Hermann Emil Fischer,M,1852-10-09,1919-07-15,247,78
+162,Svante August Arrhenius,M,1859-02-19,1927-10-02,858,764
+163,Sir William Ramsay,M,1852-10-02,1916-07-23,288,348
+164,Johann Friedrich Wilhelm Adolf von Baeyer,M,1835-10-31,1917-08-20,77,759
+165,Henri Moissan,M,1852-09-28,1907-02-20,624,624
+166,Eduard Buchner,M,1860-05-20,1917-08-13,544,258
+167,Ernest Rutherford,M,1871-08-30,1937-10-19,566,149
+168,Wilhelm Ostwald,M,1853-09-02,1932-04-04,684,441
+169,Otto Wallach,M,1847-03-27,1931-02-26,416,295
+172,Victor Grignard,M,1871-05-06,1935-12-13,178,482
+173,Paul Sabatier,M,1854-11-05,1941-08-14,158,809
+174,Alfred Werner,M,1866-12-12,1919-11-15,542,922
+175,Theodore William Richards,M,1868-01-31,1928-04-02,283,150
+176,Richard Martin Willstätter,M,1872-08-13,1942-08-03,392,465
+177,Fritz Haber,M,1868-12-09,1934-01-29,119,62
+178,Walther Hermann Nernst,M,1864-06-25,1941-11-18,123,552
+179,Frederick Soddy,M,1877-09-02,1956-09-22,236,124
+180,Francis William Aston,M,1877-09-01,1945-11-20,330,149
+181,Fritz Pregl,M,1869-09-03,1930-12-13,430,302
+182,Richard Adolf Zsigmondy,M,1865-04-01,1929-09-24,855,295
+183,The (Theodor) Svedberg,M,1884-08-30,1971-02-25,256,611
+184,Heinrich Otto Wieland,M,1877-06-04,1957-08-05,636,546
+185,Adolf Otto Reinhold Windaus,M,1876-12-25,1959-06-09,78,296
+186,Arthur Harden,M,1865-10-12,1940-06-17,490,112
+187,Hans Karl August Simon von Euler-Chelpin,M,1873-02-15,1964-11-06,40,764
+188,Hans Fischer,M,1881-07-27,1945-03-31,352,545
+189,Carl Bosch,M,1874-08-27,1940-04-26,194,336
+190,Friedrich Bergius,M,1884-10-11,1949-03-30,291,137
+191,Irving Langmuir,M,1881-01-31,1957-08-16,130,252
+192,Harold Clayton Urey,M,1893-04-29,1981-01-05,869,425
+193,Frédéric Joliot,M,1900-03-19,1958-08-14,624,624
+194,Irène Joliot-Curie,F,1897-09-12,1956-03-17,624,624
+195,Petrus (Peter) Josephus Wilhelmus Debye,M,1884-03-24,1966-11-02,483,376
+196,Walter Norman Haworth,M,1883-03-19,1950-03-19,185,90
+197,Paul Karrer,M,1889-04-21,1971-06-18,534,922
+198,Richard Kuhn,M,1900-12-03,1967-07-31,856,337
+199,Adolf Friedrich Johann Butenandt,M,1903-03-24,1995-01-18,118,545
+200,Leopold Ruzicka,M,1887-09-13,1976-09-26,864,922
+201,George de Hevesy,M,1885-08-01,1966-07-05,135,269
+202,Otto Hahn,M,1879-03-08,1968-07-28,262,296
+203,Artturi Ilmari Virtanen,M,1895-01-15,1973-11-11,341,342
+204,James Batcheller Sumner,M,1887-11-19,1955-08-12,154,138
+205,John Howard Northrop,M,1891-07-05,1987-05-27,913,888
+206,Wendell Meredith Stanley,M,1904-08-16,1971-06-15,683,707
+207,Sir Robert Robinson,M,1886-09-13,1975-02-08,698,304
+208,Arne Wilhelm Kaurin Tiselius,M,1902-08-10,1971-10-29,764,837
+209,William Francis Giauque,M,1895-05-12,1982-03-28,584,76
+210,Otto Paul Hermann Diels,M,1876-01-23,1954-03-07,323,401
+211,Kurt Alder,M,1902-07-10,1958-06-20,417,195
+212,Edwin Mattison McMillan,M,1907-09-18,1991-09-07,676,241
+213,Glenn Theodore Seaborg,M,1912-04-19,1999-02-25,374,426
+214,Archer John Porter Martin,M,1910-03-01,2002-07-28,468,464
+215,Richard Laurence Millington Synge,M,1914-10-28,1994-08-18,462,593
+216,Hermann Staudinger,M,1881-03-23,1965-09-08,909,269
+217,Linus Carl Pauling,M,1901-02-28,1994-08-19,648,88
+218,Vincent du Vigneaud,M,1901-05-18,1978-12-11,181,885
+219,Sir Cyril Norman Hinshelwood,M,1897-05-19,1967-10-09,468,468
+220,Nikolay Nikolaevich Semenov,M,1896-04-03,1986-09-25,722,536
+221,Lord (Alexander R.) Todd,M,1907-10-02,1997-01-10,288,149
+222,Frederick Sanger,M,1918-08-13,2013-11-19,678,149
+223,Jaroslav Heyrovsky,M,1890-12-20,1967-03-27,655,656
+224,Willard Frank Libby,M,1908-12-17,1980-09-08,298,474
+225,Melvin Calvin,M,1911-04-08,1997-01-08,753,76
+226,Max Ferdinand Perutz,M,1914-05-19,2002-02-06,854,149
+227,John Cowdery Kendrew,M,1917-03-24,1997-08-23,619,149
+228,Karl Ziegler,M,1898-11-26,1973-08-12,340,540
+229,Giulio Natta,M,1903-02-26,1979-05-02,367,74
+230,Dorothy Crowfoot Hodgkin,F,1910-05-12,1994-07-29,145,736
+231,Robert Burns Woodward,M,1917-04-10,1979-07-08,110,150
+232,Robert S. Mulliken,M,1896-06-07,1986-10-31,580,31
+233,Manfred Eigen,M,1927-05-09,NA,101,925
+234,Ronald George Wreyford Norrish,M,1897-11-09,1978-06-07,149,149
+235,George Porter,M,1920-12-06,2002-08-31,756,153
+236,Lars Onsager,M,1903-11-27,1976-10-05,419,201
+237,Derek H. R. Barton,M,1918-09-08,1998-03-16,301,193
+238,Odd Hassel,M,1897-05-17,1981-05-11,419,614
+239,Luis F. Leloir,M,1906-09-06,1987-12-02,624,137
+240,Gerhard Herzberg,M,1904-12-25,1999-03-03,323,616
+241,Christian B. Anfinsen,M,1916-03-26,1995-05-14,528,672
+242,Stanford Moore,M,1913-09-04,1982-08-23,181,578
+243,William H. Stein,M,1911-06-25,1980-02-02,578,578
+244,Ernst Otto Fischer,M,1918-11-10,2007-07-23,545,545
+245,Geoffrey Wilkinson,M,1921-07-14,1996-09-26,804,468
+246,Paul J. Flory,M,1910-06-19,1985-09-08,763,88
+247,John Warcup Cornforth,M,1917-09-07,2013-12-08,781,925
+248,Vladimir Prelog,M,1906-07-23,1998-01-07,721,922
+249,William N. Lipscomb,M,1919-12-09,2011-04-14,188,150
+250,Ilya Prigogine,M,1917-01-25,2003-05-28,534,131
+251,Peter D. Mitchell,M,1920-09-29,1992-04-10,522,102
+252,Herbert C. Brown,M,1912-05-22,2004-12-19,468,427
+253,Georg Wittig,M,1897-06-16,1987-08-26,78,337
+254,Paul Berg,M,1926-06-30,NA,578,925
+255,Walter Gilbert,M,1932-03-21,NA,110,925
+257,Kenichi Fukui,M,1918-10-04,1998-01-09,560,423
+258,Roald Hoffmann,M,1937-07-18,NA,920,925
+259,Aaron Klug,M,1926-08-11,NA,918,925
+260,Henry Taube,M,1915-11-30,2005-11-16,570,757
+261,Robert Bruce Merrifield,M,1921-07-15,2006-05-14,259,207
+262,Herbert A. Hauptman,M,1917-02-14,2011-10-23,578,138
+263,Jerome Karle,M,1918-06-18,2013-06-06,578,925
+264,Dudley R. Herschbach,M,1932-06-18,NA,714,925
+265,Yuan T. Lee,M,1936-11-19,NA,361,925
+266,John C. Polanyi,M,1929-01-23,NA,78,925
+267,Donald J. Cram,M,1919-04-22,2001-06-17,179,621
+268,Jean-Marie Lehn,M,1939-09-30,NA,693,925
+269,Charles J. Pedersen,M,1904-10-03,1989-10-26,665,708
+270,Johann Deisenhofer,M,1943-09-30,NA,923,925
+271,Robert Huber,M,1937-02-20,NA,545,925
+272,Hartmut Michel,M,1948-07-18,NA,480,925
+273,Sidney Altman,M,1939-05-07,NA,532,925
+274,Thomas R. Cech,M,1947-12-08,NA,181,925
+275,Elias James Corey,M,1928-07-12,NA,507,925
+276,Richard R. Ernst,M,1933-08-14,NA,900,925
+277,Rudolph A. Marcus,M,1923-07-21,NA,532,925
+278,Kary B. Mullis,M,1944-12-28,NA,447,925
+279,Michael Smith,M,1932-04-26,2000-10-04,91,844
+280,George A. Olah,M,1927-05-22,NA,136,925
+281,Paul J. Crutzen,M,1933-12-03,NA,23,925
+282,Mario J. Molina,M,1943-03-19,NA,508,925
+283,F. Sherwood Rowland,M,1927-06-28,2012-03-10,216,202
+284,Robert F. Curl Jr.,M,1933-08-23,NA,16,925
+285,Sir Harold W. Kroto,M,1939-10-07,2016-04-30,901,451
+286,Richard E. Smalley,M,1943-06-06,2005-10-28,13,360
+287,Paul D. Boyer,M,1918-07-31,NA,664,925
+288,John E. Walker,M,1941-01-07,NA,318,925
+289,Jens C. Skou,M,1918-10-08,NA,442,925
+290,Walter Kohn,M,1923-03-09,2016-04-19,854,717
+291,John A. Pople,M,1925-10-31,2004-03-15,143,181
+292,Ahmed H. Zewail,M,1946-02-26,2016-08-02,211,925
+293,Emil Adolf von Behring,M,1854-03-15,1917-03-31,329,494
+294,Ronald Ross,M,1857-05-13,1932-09-16,18,666
+295,Niels Ryberg Finsen,M,1860-12-15,1904-09-24,800,200
+296,Ivan Petrovich Pavlov,M,1849-09-14,1936-02-27,701,443
+297,Robert Koch,M,1843-12-11,1910-05-27,187,52
+298,Camillo Golgi,M,1843-07-07,1926-01-21,203,628
+299,Santiago Ramón y Cajal,M,1852-05-01,1934-10-17,634,486
+300,Charles Louis Alphonse Laveran,M,1845-06-18,1922-05-18,624,624
+301,Ilya Ilyich Mechnikov,M,1845-05-15,1916-07-15,398,624
+302,Paul Ehrlich,M,1854-03-14,1915-08-20,769,48
+303,Emil Theodor Kocher,M,1841-08-25,1917-07-27,84,84
+304,Albrecht Kossel,M,1853-09-16,1927-07-05,694,336
+305,Allvar Gullstrand,M,1862-06-05,1930-07-28,434,764
+306,Alexis Carrel,M,1873-06-28,1944-11-05,706,624
+307,Charles Robert Richet,M,1850-08-26,1935-12-04,624,624
+308,Robert Bárány,M,1876-04-22,1936-04-08,854,837
+309,Jules Bordet,M,1870-06-13,1961-04-06,745,131
+310,Schack August Steenberg Krogh,M,1874-11-15,1949-09-13,309,200
+311,Archibald Vivian Hill,M,1886-09-26,1977-06-03,126,149
+312,Otto Fritz Meyerhof,M,1884-04-12,1951-10-06,328,637
+313,Frederick Grant Banting,M,1891-11-14,1941-02-21,17,582
+314,John James Rickard Macleod,M,1876-09-06,1935-03-16,190,7
+315,Willem Einthoven,M,1860-05-21,1927-09-29,730,440
+316,Johannes Andreas Grib Fibiger,M,1867-04-23,1928-01-30,739,200
+317,Julius Wagner-Jauregg,M,1857-03-07,1940-09-27,879,854
+318,Charles Jules Henri Nicolle,M,1866-09-21,1936-02-28,696,828
+319,Christiaan Eijkman,M,1858-08-11,1930-11-05,587,841
+320,Sir Frederick Gowland Hopkins,M,1861-06-20,1947-05-16,236,149
+321,Karl Landsteiner,M,1868-06-14,1943-06-26,855,578
+322,Otto Heinrich Warburg,M,1883-10-08,1970-08-01,268,880
+323,Sir Charles Scott Sherrington,M,1857-11-27,1952-03-04,468,236
+324,Edgar Douglas Adrian,M,1889-11-30,1977-08-08,468,149
+325,Thomas Hunt Morgan,M,1866-09-25,1945-12-04,452,626
+326,George Hoyt Whipple,M,1878-08-28,1976-02-01,35,688
+327,George Richards Minot,M,1885-12-02,1950-02-25,110,129
+328,William Parry Murphy,M,1892-02-06,1987-10-09,765,129
+329,Hans Spemann,M,1869-06-27,1941-09-12,772,268
+330,Sir Henry Hallett Dale,M,1875-06-09,1968-07-23,468,149
+331,Otto Loewi,M,1873-06-03,1961-12-25,262,578
+332,Albert von Szent-Györgyi Nagyrápolt,M,1893-09-16,1986-10-22,135,905
+333,Corneille Jean François Heymans,M,1892-03-28,1968-07-18,285,413
+334,Gerhard Domagk,M,1895-10-30,1964-04-24,428,140
+335,Henrik Carl Peter Dam,M,1895-02-21,1976-04-17,200,200
+336,Edward Adelbert Doisy,M,1893-11-13,1986-10-23,362,752
+337,Joseph Erlanger,M,1874-01-05,1965-12-05,713,752
+338,Herbert Spencer Gasser,M,1888-07-05,1963-05-11,641,578
+339,Sir Alexander Fleming,M,1881-08-06,1955-03-11,466,468
+340,Ernst Boris Chain,M,1906-06-19,1979-08-12,78,543
+341,Sir Howard Walter Florey,M,1898-09-24,1968-02-21,9,619
+342,Hermann Joseph Muller,M,1890-12-21,1967-04-05,578,925
+343,Carl Ferdinand Cori,M,1896-12-05,1984-10-20,655,150
+344,Gerty Theresa Cori, née Radnitz,F,1896-08-15,1957-10-26,655,752
+345,Bernardo Alberto Houssay,M,1887-04-10,1971-09-21,137,137
+346,Paul Hermann Müller,M,1899-01-12,1965-10-12,604,62
+347,Walter Rudolf Hess,M,1881-03-17,1973-08-12,265,33
+348,Antonio Caetano de Abreu Freire Egas Moniz,M,1874-11-29,1955-12-13,44,460
+349,Edward Calvin Kendall,M,1886-03-08,1972-05-04,748,661
+350,Tadeus Reichstein,M,1897-07-20,1996-08-01,902,62
+351,Philip Showalter Hench,M,1896-02-28,1965-03-30,639,602
+352,Max Theiler,M,1899-01-30,1972-08-11,659,575
+353,Selman Abraham Waksman,M,1888-07-22,1973-08-16,660,364
+354,Hans Adolf Krebs,M,1900-08-25,1981-11-22,349,619
+355,Fritz Albert Lipmann,M,1899-06-12,1986-07-24,416,652
+356,John Franklin Enders,M,1897-02-10,1985-09-08,882,876
+357,Thomas Huckle Weller,M,1915-06-15,2008-08-23,25,564
+358,Frederick Chapman Robbins,M,1916-08-25,2003-08-04,39,188
+359,Axel Hugo Theodor Theorell,M,1903-07-06,1982-08-15,459,764
+360,André Frédéric Cournand,M,1895-09-24,1988-02-19,624,303
+361,Werner Forssmann,M,1904-08-29,1979-06-01,78,727
+362,Dickinson W. Richards,M,1895-10-30,1973-02-23,608,431
+363,Daniel Bovet,M,1907-03-23,1992-04-08,569,691
+364,George Wells Beadle,M,1903-10-22,1989-06-09,866,645
+365,Edward Lawrie Tatum,M,1909-12-14,1975-11-05,111,578
+366,Joshua Lederberg,M,1925-05-23,2008-02-02,531,578
+367,Severo Ochoa,M,1905-09-24,1993-11-01,477,486
+368,Arthur Kornberg,M,1918-03-03,2007-10-26,130,757
+369,Sir Frank Macfarlane Burnet,M,1899-09-03,1985-08-31,814,502
+370,Peter Brian Medawar,M,1915-02-28,1987-10-02,685,468
+371,Georg von Békésy,M,1899-06-03,1972-06-13,136,358
+372,Francis Harry Compton Crick,M,1916-06-08,2004-07-28,591,712
+373,James Dewey Watson,M,1928-04-06,NA,181,925
+374,Maurice Hugh Frederick Wilkins,M,1916-12-15,2004-10-05,646,468
+375,Sir John Carew Eccles,M,1903-01-27,1997-05-02,502,199
+376,Alan Lloyd Hodgkin,M,1914-02-05,1998-12-20,56,149
+377,Andrew Fielding Huxley,M,1917-11-22,2012-05-30,326,300
+378,Konrad Bloch,M,1912-01-21,2000-10-15,565,142
+379,Feodor Lynen,M,1911-04-06,1979-08-06,545,545
+380,François Jacob,M,1920-06-17,2013-04-19,557,624
+381,André Lwoff,M,1902-05-08,1994-09-30,12,624
+382,Jacques Monod,M,1910-02-09,1976-05-31,624,152
+383,Peyton Rous,M,1879-10-05,1972-02-16,55,578
+384,Charles Brenton Huggins,M,1901-09-22,1997-01-12,317,181
+385,Ragnar Granit,M,1900-10-30,1991-03-12,341,764
+386,Haldan Keffer Hartline,M,1903-12-22,1983-03-17,97,250
+387,George Wald,M,1906-11-18,1997-04-12,578,150
+388,Robert W. Holley,M,1922-01-28,1993-02-11,838,475
+389,Har Gobind Khorana,M,1922-01-09,2011-11-09,669,197
+390,Marshall W. Nirenberg,M,1927-04-10,2010-01-15,578,578
+391,Max Delbrück,M,1906-09-04,1981-03-09,78,626
+392,Alfred D. Hershey,M,1908-12-04,1997-05-22,618,783
+393,Salvador E. Luria,M,1912-08-13,1991-02-06,807,453
+394,Sir Bernard Katz,M,1911-03-26,2003-04-20,441,468
+395,Ulf von Euler,M,1905-02-07,1983-03-09,764,764
+396,Julius Axelrod,M,1912-05-30,2004-12-29,578,689
+397,Earl W. Sutherland, Jr.,M,1915-11-19,1974-03-09,141,509
+398,Gerald M. Edelman,M,1929-07-01,2014-05-17,578,425
+399,Rodney R. Porter,M,1917-10-08,1985-09-06,583,896
+400,Karl von Frisch,M,1886-11-20,1982-06-12,854,546
+401,Konrad Lorenz,M,1903-11-07,1989-02-27,854,854
+402,Nikolaas Tinbergen,M,1907-04-15,1988-12-21,798,619
+403,Albert Claude,M,1898-08-24,1983-05-22,471,131
+404,Christian de Duve,M,1917-10-02,2013-05-04,797,568
+405,George E. Palade,M,1912-11-19,2008-10-07,365,215
+406,David Baltimore,M,1938-03-07,NA,578,925
+407,Renato Dulbecco,M,1914-02-22,2012-02-19,166,425
+408,Howard Martin Temin,M,1934-12-10,1994-02-09,637,485
+409,Baruch S. Blumberg,M,1925-07-28,2011-04-05,578,524
+410,D. Carleton Gajdusek,M,1923-09-09,2008-12-12,913,819
+411,Roger Guillemin,M,1924-01-11,NA,224,925
+412,Andrew V. Schally,M,1926-11-30,NA,895,925
+413,Rosalyn Yalow,F,1921-07-19,2011-05-30,578,578
+414,Werner Arber,M,1929-06-03,NA,299,925
+415,Daniel Nathans,M,1928-10-30,1999-11-16,894,55
+416,Hamilton O. Smith,M,1931-08-23,NA,578,925
+417,Allan M. Cormack,M,1924-02-23,1998-05-07,386,897
+418,Godfrey N. Hounsfield,M,1919-08-28,2004-08-12,579,407
+419,Baruj Benacerraf,M,1920-10-29,2011-08-02,157,110
+420,Jean Dausset,M,1916-10-19,2009-06-06,809,622
+421,George D. Snell,M,1903-12-19,1996-06-06,114,59
+422,Roger W. Sperry,M,1913-08-20,1994-04-17,333,626
+423,David H. Hubel,M,1926-02-27,2013-09-22,898,458
+424,Torsten N. Wiesel,M,1924-06-03,NA,837,925
+425,Sune K. Bergström,M,1916-01-10,2004-08-15,764,764
+426,Bengt I. Samuelsson,M,1934-05-21,NA,320,925
+427,John R. Vane,M,1927-03-29,2004-11-19,791,254
+428,Barbara McClintock,F,1902-06-16,1992-09-02,333,363
+429,Niels K. Jerne,M,1911-12-23,1994-10-07,468,163
+430,Georges J.F. Köhler,M,1946-04-17,1995-03-01,545,268
+431,César Milstein,M,1927-10-08,2002-03-24,53,149
+432,Michael S. Brown,M,1941-04-13,NA,578,925
+433,Joseph L. Goldstein,M,1940-04-18,NA,775,925
+434,Stanley Cohen,M,1922-11-17,NA,130,925
+435,Rita Levi-Montalcini,F,1909-04-22,2012-12-30,830,691
+436,Susumu Tonegawa,M,1939-09-06,NA,554,925
+437,Sir James W. Black,M,1924-06-14,2010-03-21,833,925
+438,Gertrude B. Elion,F,1918-01-23,1999-02-21,578,172
+439,George H. Hitchings,M,1905-04-18,1998-02-27,359,172
+440,J. Michael Bishop,M,1936-02-22,NA,914,925
+441,Harold E. Varmus,M,1939-12-18,NA,601,925
+442,Joseph E. Murray,M,1919-04-01,2012-11-26,514,110
+443,E. Donnall Thomas,M,1920-03-15,2012-10-20,496,729
+444,Erwin Neher,M,1944-03-20,NA,433,925
+445,Bert Sakmann,M,1942-06-12,NA,773,925
+446,Edmond H. Fischer,M,1920-04-06,NA,734,925
+447,Edwin G. Krebs,M,1918-06-06,2009-12-21,436,729
+448,Richard J. Roberts,M,1943-09-06,NA,219,925
+449,Phillip A. Sharp,M,1944-06-06,NA,251,925
+450,Alfred G. Gilman,M,1941-07-01,2015-12-23,575,210
+451,Martin Rodbell,M,1925-12-01,1998-12-07,55,172
+452,Edward B. Lewis,M,1918-05-20,2004-07-21,891,626
+453,Christiane Nüsslein-Volhard,F,1942-10-20,NA,487,925
+454,Eric F. Wieschaus,M,1947-06-08,NA,747,925
+455,Peter C. Doherty,M,1940-10-15,NA,125,925
+456,Rolf M. Zinkernagel,M,1944-01-06,NA,62,925
+457,Stanley B. Prusiner,M,1942-05-28,NA,220,925
+458,Robert F. Furchgott,M,1916-06-04,2009-05-19,173,729
+459,Louis J. Ignarro,M,1941-05-31,NA,130,925
+460,Ferid Murad,M,1936-09-14,NA,886,925
+461,Günter Blobel,M,1936-05-21,NA,870,925
+462,Jean Henry Dunant,M,1828-05-08,1910-10-30,281,339
+463,Frédéric Passy,M,1822-05-20,1912-06-12,624,624
+464,Élie Ducommun,M,1833-02-19,1906-12-07,281,83
+465,Charles Albert Gobat,M,1843-05-21,1914-03-16,813,83
+466,William Randal Cremer,M,1828-03-18,1908-07-22,253,468
+467,Institut de droit international (Institute of International Law),,NA,NA,925,925
+468,Baroness Bertha Sophie Felicita von Suttner, née Countess Kinsky von Chinic und Tettau,F,1843-06-09,1914-06-21,654,854
+470,Theodore Roosevelt,M,1858-10-27,1919-01-06,578,620
+471,Ernesto Teodoro Moneta,M,1833-09-20,1918-02-10,511,512
+472,Louis Renault,M,1843-05-21,1918-02-08,43,60
+473,Klas Pontus Arnoldson,M,1844-10-27,1916-02-20,294,764
+474,Fredrik Bajer,M,1837-04-21,1922-01-22,553,200
+475,Auguste Marie François Beernaert,M,1829-07-26,1912-10-06,615,479
+476,Paul Henri Benjamin Balluet d'Estournelles de Constant, Baron de Constant de Rebecque,M,1852-11-22,1924-05-15,424,624
+477,Bureau international permanent de la Paix (Permanent International Peace Bureau),,NA,NA,925,925
+478,Tobias Michael Carel Asser,M,1838-04-28,1913-07-29,23,798
+479,Alfred Hermann Fried,M,1864-11-11,1921-05-05,854,854
+480,Elihu Root,M,1845-02-15,1937-02-07,189,578
+481,Henri La Fontaine,M,1854-04-22,1943-05-14,131,131
+482,Comité international de la Croix Rouge (International Committee of the Red Cross),,NA,NA,925,925
+483,Thomas Woodrow Wilson,M,1856-12-28,1924-02-03,760,875
+484,Léon Victor Auguste Bourgeois,M,1851-05-21,1925-09-29,624,244
+485,Karl Hjalmar Branting,M,1860-11-23,1925-02-24,764,764
+486,Christian Lous Lange,M,1869-09-17,1938-12-11,761,614
+487,Fridtjof Nansen,M,1861-10-10,1930-05-13,419,614
+488,Sir Austen Chamberlain,M,1863-10-16,1937-03-16,90,468
+489,Charles Gates Dawes,M,1865-08-27,1951-04-23,495,248
+490,Aristide Briand,M,1862-03-28,1932-03-07,558,624
+491,Gustav Stresemann,M,1878-05-10,1929-10-03,78,78
+492,Ferdinand Buisson,M,1841-12-20,1932-02-16,624,799
+493,Ludwig Quidde,M,1858-03-23,1941-03-04,117,281
+494,Frank Billings Kellogg,M,1856-12-22,1937-12-21,650,753
+495,Lars Olof Jonathan (Nathan) Söderblom,M,1866-01-15,1931-07-12,821,837
+496,Jane Addams,F,1860-09-06,1935-05-21,167,181
+497,Nicholas Murray Butler,M,1862-04-02,1947-12-07,242,578
+498,Sir Norman Angell (Ralph Lane),M,1872-12-26,1967-10-07,354,208
+499,Arthur Henderson,M,1863-09-13,1935-10-20,288,468
+500,Carl von Ossietzky,M,1889-10-03,1938-05-04,323,78
+501,Carlos Saavedra Lamas,M,1878-11-01,1959-05-05,137,137
+502,Cecil of Chelwood, Viscount (Lord Edgar Algernon Robert Gascoyne Cecil),M,1864-09-14,1958-11-24,468,827
+503,Office international Nansen pour les Réfugiés (Nansen International Office for Refugees),,NA,NA,925,925
+505,Cordell Hull,M,1871-10-02,1955-07-23,605,86
+506,Emily Greene Balch,F,1867-01-08,1961-01-09,379,150
+507,John Raleigh Mott,M,1865-05-25,1955-01-31,463,931
+508,Friends Service Council (The Quakers),,NA,NA,925,925
+509,American Friends Service Committee (The Quakers),,NA,NA,925,925
+510,Lord (John) Boyd Orr of Brechin,M,1880-09-23,1971-06-25,404,240
+511,Ralph Bunche,M,1904-08-07,1971-12-09,221,578
+512,Léon Jouhaux,M,1879-07-01,1954-04-28,624,624
+513,Albert Schweitzer,M,1875-01-14,1965-09-04,395,432
+514,George Catlett Marshall,M,1880-12-31,1959-10-16,835,875
+515,Office of the United Nations High Commissioner for Refugees (UNHCR),,NA,NA,925,925
+516,Lester Bowles Pearson,M,1897-04-23,1972-12-27,808,616
+517,Georges Pire,M,1910-02-10,1969-01-30,226,450
+518,Philip J. Noel-Baker,M,1889-11-01,1982-10-08,468,468
+519,Albert John Lutuli,M,1898-00-00,1967-07-21,139,758
+520,Dag Hjalmar Agne Carl Hammarskjöld,M,1905-07-29,1961-09-18,387,562
+523,Ligue des Sociétés de la Croix-Rouge (League of Red Cross Societies),,NA,NA,925,925
+524,Martin Luther King Jr.,M,1929-01-15,1968-04-04,38,503
+525,United Nations Children's Fund (UNICEF),,NA,NA,925,925
+526,René Cassin,M,1887-10-05,1976-02-20,65,624
+527,International Labour Organization (I.L.O.),,NA,NA,925,925
+528,Norman E. Borlaug,M,1914-03-25,2009-09-12,206,210
+529,Willy Brandt,M,1913-12-18,1992-10-08,478,836
+530,Henry A. Kissinger,M,1923-05-27,NA,272,925
+531,Le Duc Tho,M,1911-10-14,1990-10-13,556,327
+532,Seán MacBride,M,1904-01-26,1988-01-15,624,232
+533,Eisaku Sato,M,1901-03-27,1975-06-03,787,805
+534,Andrei Dmitrievich Sakharov,M,1921-05-21,1989-12-14,534,535
+535,Betty Williams,F,1943-05-22,NA,69,925
+536,Mairead Corrigan,F,1944-01-27,NA,69,925
+537,Amnesty International,,NA,NA,925,925
+538,Mohamed Anwar al-Sadat,M,1918-12-25,1981-10-06,521,145
+539,Menachem Begin,M,1913-08-16,1992-03-09,121,795
+540,Mother Teresa,F,1910-08-26,1997-09-05,839,147
+541,Adolfo Pérez Esquivel,M,1931-11-26,NA,137,925
+543,Alva Myrdal,F,1902-01-31,1986-02-01,837,764
+544,Alfonso García Robles,M,1911-03-20,1991-09-02,917,508
+545,Lech Walesa,M,1943-09-29,NA,647,925
+546,Desmond Mpilo Tutu,M,1931-10-07,NA,410,925
+547,International Physicians for the Prevention of Nuclear War,,NA,NA,925,925
+548,Elie Wiesel,M,1928-09-30,2016-07-02,738,578
+549,Oscar Arias Sánchez,M,1941-09-13,NA,345,925
+550,United Nations Peacekeeping Forces,,NA,NA,925,925
+551,The 14th Dalai Lama (Tenzin Gyatso),M,1935-07-06,NA,788,925
+552,Mikhail Sergeyevich Gorbachev,M,1931-03-02,NA,662,925
+553,Aung San Suu Kyi,F,1945-06-19,NA,674,925
+554,Rigoberta Menchú Tum,F,1959-01-09,NA,14,925
+555,Nelson Mandela,M,1918-07-18,2013-12-05,668,386
+556,Frederik Willem de Klerk,M,1936-03-18,NA,386,925
+557,Yasser Arafat,M,1929-08-24,2004-11-11,145,925
+558,Shimon Peres,M,1923-08-16,2016-09-28,860,795
+559,Yitzhak Rabin,M,1922-03-01,1995-11-04,383,795
+560,Joseph Rotblat,M,1908-11-04,2005-08-31,872,468
+561,Pugwash Conferences on Science and World Affairs,,NA,NA,925,925
+562,Carlos Filipe Ximenes Belo,M,1948-02-03,NA,867,925
+563,José Ramos-Horta,M,1949-12-26,NA,225,925
+564,International Campaign to Ban Landmines (ICBL),,NA,NA,925,925
+565,Jody Williams,F,1950-10-09,NA,667,925
+566,John Hume,M,1937-01-18,NA,469,925
+567,David Trimble,M,1944-10-15,NA,69,925
+568,Médecins Sans Frontières,,NA,NA,925,925
+569,Sully Prudhomme,M,1839-03-16,1907-09-07,624,176
+571,Christian Matthias Theodor Mommsen,M,1817-11-30,1903-11-01,278,174
+572,Bjørnstjerne Martinus Bjørnson,M,1832-12-08,1910-04-26,422,624
+573,Frédéric Mistral,M,1830-09-08,1914-03-25,488,488
+574,José Echegaray y Eizaguirre,M,1832-04-19,1916-09-04,486,486
+575,Henryk Sienkiewicz,M,1846-05-05,1916-11-15,903,849
+576,Giosuè Carducci,M,1835-07-27,1907-02-16,842,104
+577,Rudyard Kipling,M,1865-12-30,1936-01-18,105,468
+578,Rudolf Christoph Eucken,M,1846-01-05,1926-09-14,41,382
+579,Selma Ottilia Lovisa Lagerlöf,F,1858-11-20,1940-03-16,493,493
+580,Paul Johann Ludwig Heyse,M,1830-03-15,1914-04-02,77,545
+581,Count Maurice (Mooris) Polidore Marie Bernhard Maeterlinck,M,1862-08-29,1949-05-06,285,585
+582,Gerhart Johann Robert Hauptmann,M,1862-11-15,1946-06-06,51,10
+583,Rabindranath Tagore,M,1861-05-07,1941-08-07,147,147
+584,Romain Rolland,M,1866-01-29,1944-12-30,186,850
+585,Carl Gustaf Verner von Heidenstam,M,1859-07-06,1940-05-20,603,617
+586,Karl Adolph Gjellerup,M,1857-06-02,1919-10-11,690,412
+587,Henrik Pontoppidan,M,1857-07-24,1943-08-21,266,610
+588,Carl Friedrich Georg Spitteler,M,1845-04-24,1924-12-29,455,479
+589,Knut Pedersen Hamsun,M,1859-08-04,1952-02-19,467,311
+590,Anatole France,M,1844-04-16,1924-10-12,624,705
+592,Jacinto Benavente,M,1866-08-12,1954-07-14,486,486
+593,William Butler Yeats,M,1865-06-13,1939-01-28,232,692
+594,Wladyslaw Stanislaw Reymont,M,1867-05-07,1925-12-05,415,873
+596,George Bernard Shaw,M,1856-07-26,1950-11-02,232,45
+597,Grazia Deledda,F,1871-09-27,1936-08-15,596,691
+600,Henri Bergson,M,1859-10-18,1941-01-04,624,624
+601,Sigrid Undset,F,1882-05-20,1949-06-10,389,457
+602,Thomas Mann,M,1875-06-06,1955-08-12,478,922
+603,Sinclair Lewis,M,1885-02-07,1951-01-10,723,691
+604,Erik Axel Karlfeldt,M,1864-07-20,1931-04-08,391,764
+605,John Galsworthy,M,1867-08-14,1933-01-31,406,468
+606,Ivan Alekseyevich Bunin,M,1870-10-22,1953-11-08,863,624
+607,Luigi Pirandello,M,1867-06-28,1936-12-10,11,691
+608,Eugene Gladstone O'Neill,M,1888-10-16,1953-11-27,578,110
+609,Roger Martin du Gard,M,1881-03-23,1958-08-22,572,71
+610,Pearl Buck,F,1892-06-26,1973-03-06,350,212
+613,Frans Eemil Sillanpää,M,1888-09-16,1964-06-03,324,342
+614,Johannes Vilhelm Jensen,M,1873-01-20,1950-11-25,255,200
+615,Gabriela Mistral,F,1889-04-07,1957-01-10,852,343
+617,Hermann Hesse,M,1877-07-02,1962-08-09,148,530
+618,André Paul Guillaume Gide,M,1869-11-22,1951-02-19,624,624
+619,Thomas Stearns Eliot,M,1888-09-26,1965-01-04,752,468
+620,William Faulkner,M,1897-09-25,1962-07-06,573,144
+621,Earl (Bertrand Arthur William) Russell,M,1872-05-18,1970-02-02,816,630
+622,Pär Fabian Lagerkvist,M,1891-05-23,1974-07-11,845,764
+623,François Mauriac,M,1885-10-11,1970-09-01,108,624
+624,Sir Winston Leonard Spencer Churchill,M,1874-11-30,1965-01-24,906,468
+625,Ernest Miller Hemingway,M,1899-07-21,1961-07-02,599,397
+626,Halldór Kiljan Laxness,M,1902-04-23,1998-02-08,681,681
+627,Juan Ramón Jiménez,M,1881-12-24,1958-05-29,525,715
+628,Albert Camus,M,1913-11-07,1960-01-04,527,731
+629,Boris Leonidovich Pasternak,M,1890-02-10,1960-05-30,534,631
+630,Salvatore Quasimodo,M,1901-08-20,1968-06-14,523,559
+631,Saint-John Perse,M,1887-05-31,1975-09-20,644,657
+633,Ivo Andric,M,1892-10-10,1975-03-13,229,70
+634,John Steinbeck,M,1902-02-27,1968-12-20,709,578
+635,Giorgos Seferis,M,1900-03-13,1971-09-20,743,36
+637,Jean-Paul Sartre,M,1905-06-21,1980-04-15,624,624
+638,Mikhail Aleksandrovich Sholokhov,M,1905-05-24,1984-02-21,847,848
+639,Shmuel Yosef Agnon,M,1888-07-17,1970-02-17,134,677
+640,Nelly Sachs,F,1891-12-10,1970-05-12,78,764
+641,Miguel Angel Asturias,M,1899-10-19,1974-06-09,313,486
+642,Yasunari Kawabata,M,1899-06-11,1972-04-16,613,924
+643,Samuel Beckett,M,1906-04-13,1989-12-22,232,624
+644,Aleksandr Isayevich Solzhenitsyn,M,1918-12-11,2008-08-03,409,818
+645,Pablo Neruda,M,1904-07-12,1973-09-23,625,718
+647,Heinrich Böll,M,1917-12-21,1985-07-16,194,109
+648,Patrick White,M,1912-05-28,1990-09-30,468,781
+649,Eyvind Johnson,M,1900-07-29,1976-08-25,778,764
+650,Harry Martinson,M,1904-05-06,1978-02-11,380,764
+651,Eugenio Montale,M,1896-10-12,1981-09-12,282,512
+652,Saul Bellow,M,1915-06-10,2005-04-05,532,129
+653,Vicente Aleixandre,M,1898-04-26,1984-12-14,732,486
+654,Isaac Bashevis Singer,M,1904-07-14,1991-07-24,448,777
+655,Odysseus Elytis,M,1911-11-02,1996-03-18,371,36
+657,Czeslaw Milosz,M,1911-06-30,2004-08-14,2,418
+658,Elias Canetti,M,1905-07-25,1994-08-14,700,922
+659,Gabriel García Márquez,M,1927-03-06,2014-04-17,26,508
+660,William Golding,M,1911-09-19,1993-06-19,751,632
+661,Jaroslav Seifert,M,1901-09-23,1986-01-10,655,656
+662,Claude Simon,M,1913-10-10,2005-07-06,790,624
+663,Wole Soyinka,M,1934-07-13,NA,5,925
+664,Joseph Brodsky,M,1940-05-24,1996-01-28,445,578
+665,Naguib Mahfouz,M,1911-12-11,2006-08-30,145,145
+666,Camilo José Cela,M,1916-05-11,2002-01-17,372,486
+667,Octavio Paz,M,1914-03-31,1998-04-19,508,508
+668,Nadine Gordimer,F,1923-11-20,2014-07-13,750,386
+669,Derek Walcott,M,1930-01-23,NA,165,925
+670,Toni Morrison,F,1931-02-18,NA,472,925
+671,Kenzaburo Oe,M,1935-01-31,NA,832,925
+672,Seamus Heaney,M,1939-04-13,2013-08-30,162,232
+673,Wislawa Szymborska,F,1923-07-02,2012-02-01,100,418
+674,Dario Fo,M,1926-03-24,2016-10-13,439,513
+675,José Saramago,M,1922-11-16,2010-06-18,46,437
+676,Günter Grass,M,1927-10-16,2015-04-13,213,478
+677,Ragnar Frisch,M,1895-03-03,1973-01-31,614,614
+678,Jan Tinbergen,M,1903-04-12,1994-06-09,798,798
+679,Paul A. Samuelson,M,1915-05-15,2009-12-13,279,72
+680,Simon Kuznets,M,1901-04-30,1985-07-08,638,150
+681,John R. Hicks,M,1904-04-08,1989-05-20,874,94
+682,Kenneth J. Arrow,M,1921-08-23,NA,578,925
+683,Wassily Leontief,M,1906-08-05,1999-02-05,754,578
+684,Gunnar Myrdal,M,1898-12-06,1987-05-17,741,764
+685,Friedrich August von Hayek,M,1899-05-08,1992-03-23,854,267
+686,Leonid Vitaliyevich Kantorovich,M,1912-01-19,1986-04-07,755,535
+687,Tjalling C. Koopmans,M,1910-08-28,1985-02-26,1,575
+688,Milton Friedman,M,1912-07-31,2006-11-16,130,713
+689,Bertil Ohlin,M,1899-04-23,1979-08-03,411,843
+690,James E. Meade,M,1907-06-23,1995-12-22,779,149
+691,Herbert A. Simon,M,1916-06-15,2001-02-09,516,639
+692,Theodore W. Schultz,M,1902-04-30,1998-02-26,30,248
+693,Sir Arthur Lewis,M,1915-01-23,1991-06-15,164,122
+694,Lawrence R. Klein,M,1920-09-14,2013-10-20,606,287
+695,James Tobin,M,1918-03-05,2002-03-11,170,575
+696,George J. Stigler,M,1911-01-17,1991-12-01,679,181
+697,Gerard Debreu,M,1921-07-04,2004-12-31,146,624
+698,Richard Stone,M,1913-08-30,1991-12-06,468,149
+699,Franco Modigliani,M,1918-06-18,2003-09-25,691,150
+700,James M. Buchanan Jr.,M,1919-10-03,2013-01-09,549,92
+701,Robert M. Solow,M,1924-08-23,NA,130,925
+702,Maurice Allais,M,1911-05-31,2010-10-09,624,624
+703,Trygve Haavelmo,M,1911-12-13,1999-07-26,742,614
+704,Harry M. Markowitz,M,1927-08-24,NA,181,925
+705,Merton H. Miller,M,1923-05-16,2000-06-03,110,181
+706,William F. Sharpe,M,1934-06-16,NA,110,925
+707,Ronald H. Coase,M,1910-12-29,2013-09-02,892,181
+708,Gary S. Becker,M,1930-12-02,2014-05-03,651,181
+709,Robert W. Fogel,M,1927-07-01,2013-06-11,578,598
+710,Douglass C. North,M,1920-11-05,2015-11-23,150,73
+711,John C. Harsanyi,M,1920-05-29,2000-08-09,136,76
+712,John F. Nash Jr.,M,1928-06-13,2015-05-23,99,576
+713,Reinhard Selten,M,1930-10-05,2016-08-23,120,653
+714,Robert E. Lucas Jr.,M,1937-09-15,NA,911,925
+715,James A. Mirrlees,M,1936-07-05,NA,519,925
+716,William Vickrey,M,1914-06-21,1996-10-11,851,332
+717,Robert C. Merton,M,1944-07-31,NA,578,925
+718,Myron S. Scholes,M,1941-07-01,NA,801,925
+719,Amartya Sen,M,1933-11-03,NA,719,925
+720,Robert A. Mundell,M,1932-10-24,NA,408,925
+721,Il´ja Mikhailovich Frank,M,1908-10-23,1990-06-22,444,535
+722,Arvid Carlsson,M,1923-01-25,NA,837,925
+723,Paul Greengard,M,1925-12-11,NA,578,925
+724,Eric R. Kandel,M,1929-11-07,NA,854,925
+725,Kim Dae-jung,M,1925-12-03,2009-08-18,526,925
+726,Zhores I. Alferov,M,1930-03-15,NA,861,925
+727,Herbert Kroemer,M,1928-08-25,NA,878,925
+728,Jack S. Kilby,M,1923-11-08,2005-06-20,381,210
+729,Alan J. Heeger,M,1936-01-22,NA,740,925
+730,Alan G. MacDiarmid,M,1927-04-14,2007-02-07,499,231
+731,Hideki Shirakawa,M,1936-08-20,NA,805,925
+732,James J. Heckman,M,1944-04-19,NA,181,925
+733,Daniel L. McFadden,M,1937-07-29,NA,670,925
+734,Gao Xingjian,M,1940-01-04,NA,275,925
+735,Leland H. Hartwell,M,1939-10-30,NA,474,925
+736,Tim Hunt,M,1943-02-19,NA,567,925
+737,Sir Paul M. Nurse,M,1949-01-25,NA,593,925
+738,Eric A. Cornell,M,1961-12-19,NA,623,925
+739,Wolfgang Ketterle,M,1957-10-21,NA,337,925
+740,Carl E. Wieman,M,1951-03-26,NA,204,925
+741,William S. Knowles,M,1917-06-01,2012-06-13,792,180
+742,Ryoji Noyori,M,1938-09-03,NA,414,925
+743,K. Barry Sharpless,M,1941-04-28,NA,637,925
+744,George A. Akerlof,M,1940-06-17,NA,575,925
+745,A. Michael Spence,M,1943-00-00,NA,531,925
+746,Joseph E. Stiglitz,M,1943-02-09,NA,279,925
+747,Sir Vidiadhar Surajprasad Naipaul,M,1932-08-17,NA,926,925
+748,United Nations (U.N.),,NA,NA,925,925
+749,Kofi Annan,M,1938-04-08,NA,421,925
+750,Sydney Brenner,M,1927-01-13,NA,284,925
+751,H. Robert Horvitz,M,1947-05-08,NA,181,925
+752,John E. Sulston,M,1942-03-27,NA,149,925
+753,Raymond Davis Jr.,M,1914-10-14,2006-05-31,875,98
+754,Masatoshi Koshiba,M,1926-09-19,NA,812,925
+755,Riccardo Giacconi,M,1931-10-06,NA,282,925
+756,John B. Fenn,M,1917-06-15,2010-12-10,578,682
+757,Koichi Tanaka,M,1959-08-03,NA,811,925
+758,Kurt Wüthrich,M,1938-10-04,NA,3,925
+759,Daniel Kahneman,M,1934-03-05,NA,794,925
+760,Vernon L. Smith,M,1927-01-01,NA,887,925
+761,Imre Kertész,M,1929-11-09,2016-03-31,136,136
+762,Jimmy Carter,M,1924-10-01,NA,640,925
+763,John M. Coetzee,M,1940-02-09,NA,156,925
+764,Paul C. Lauterbur,M,1929-05-06,2007-03-27,737,838
+765,Sir Peter Mansfield,M,1933-10-09,2017-02-08,468,925
+766,Alexei A. Abrikosov,M,1928-06-25,NA,535,925
+767,Vitaly L. Ginzburg,M,1916-10-04,2009-11-08,534,925
+768,Anthony J. Leggett,M,1938-03-26,NA,468,925
+769,Peter Agre,M,1949-01-30,NA,592,925
+770,Roderick MacKinnon,M,1956-02-19,NA,142,925
+771,Robert F. Engle III,M,1942-11-10,NA,784,925
+772,Clive W.J. Granger,M,1934-09-04,2009-05-27,780,712
+773,Shirin Ebadi,F,1947-06-21,NA,321,925
+774,Richard Axel,M,1946-07-02,NA,578,925
+775,Linda B. Buck,F,1947-01-29,NA,729,925
+776,David J. Gross,M,1941-02-19,NA,875,925
+777,H. David Politzer,M,1949-08-31,NA,578,925
+778,Frank Wilczek,M,1951-05-15,NA,578,925
+779,Aaron Ciechanover,M,1947-10-01,NA,315,925
+780,Avram Hershko,M,1937-12-31,NA,390,925
+781,Irwin Rose,M,1926-07-16,2015-06-03,130,214
+782,Elfriede Jelinek,F,1946-10-20,NA,551,925
+783,Wangari Muta Maathai,F,1940-04-01,2011-09-25,597,555
+786,Finn E. Kydland,M,1943-12-01,NA,286,925
+787,Edward C. Prescott,M,1940-12-26,NA,290,925
+789,Barry J. Marshall,M,1951-09-30,NA,388,925
+790,J. Robin Warren,M,1937-06-11,NA,9,925
+791,Roy J. Glauber,M,1925-09-01,NA,578,925
+792,John L. Hall,M,1934-08-21,NA,218,925
+793,Theodor W. Hänsch,M,1941-10-30,NA,336,925
+794,Yves Chauvin,M,1930-10-10,2015-01-27,504,810
+795,Robert H. Grubbs,M,1942-02-27,NA,649,925
+796,Richard R. Schrock,M,1945-01-04,NA,85,925
+797,International Atomic Energy Agency (IAEA),,NA,NA,925,925
+798,Mohamed ElBaradei,M,1942-06-17,NA,145,925
+799,Robert J. Aumann,M,1930-06-08,NA,262,925
+800,Thomas C. Schelling,M,1921-04-14,2016-12-13,600,86
+801,Harold Pinter,M,1930-10-10,2008-12-24,468,468
+802,Andrew Z. Fire,M,1959-04-27,NA,757,925
+803,Craig C. Mello,M,1960-10-19,NA,575,925
+804,John C. Mather,M,1946-08-07,NA,686,925
+805,George F. Smoot,M,1945-02-20,NA,916,925
+806,Roger D. Kornberg,M,1947-04-24,NA,752,925
+807,Edmund S. Phelps,M,1933-07-26,NA,248,925
+808,Orhan Pamuk,M,1952-06-07,NA,375,925
+809,Muhammad Yunus,M,1940-06-28,NA,184,925
+810,Grameen Bank,,NA,NA,925,925
+811,Mario R. Capecchi,M,1937-10-06,NA,846,925
+812,Sir Martin J. Evans,M,1941-01-01,NA,771,925
+813,Oliver Smithies,M,1925-06-23,2017-01-10,318,172
+814,Albert Fert,M,1938-03-07,NA,158,925
+815,Peter Grünberg,M,1939-05-18,NA,643,925
+816,Gerhard Ertl,M,1936-10-10,NA,47,925
+817,Doris Lessing,F,1919-10-22,2013-11-17,396,468
+818,Intergovernmental Panel on Climate Change (IPCC),,NA,NA,925,925
+819,Albert Arnold (Al) Gore Jr.,M,1948-03-31,NA,875,925
+820,Leonid Hurwicz,M,1917-08-21,2008-06-24,534,518
+821,Eric S. Maskin,M,1950-12-12,NA,578,925
+822,Roger B. Myerson,M,1951-03-29,NA,110,925
+823,Harald zur Hausen,M,1936-03-11,NA,280,925
+824,Françoise Barré-Sinoussi,F,1947-07-30,NA,624,925
+825,Luc Montagnier,M,1932-08-18,NA,168,925
+826,Yoichiro Nambu,M,1921-01-18,2015-07-05,805,613
+827,Makoto Kobayashi,M,1944-04-07,NA,554,925
+828,Toshihide Maskawa,M,1940-02-07,NA,554,925
+829,Osamu Shimomura,M,1928-08-27,NA,423,925
+830,Martin Chalfie,M,1947-01-15,NA,181,925
+831,Roger Y. Tsien,M,1952-02-01,2016-08-24,578,246
+832,Jean-Marie Gustave Le Clézio,M,1940-04-13,NA,585,925
+833,Martti Ahtisaari,M,1937-06-23,NA,857,925
+834,Paul Krugman,M,1953-02-28,NA,578,925
+835,Elizabeth H. Blackburn,F,1948-11-26,NA,351,925
+836,Carol W. Greider,F,1961-04-15,NA,712,925
+837,Jack W. Szostak,M,1952-11-09,NA,468,925
+838,Charles Kuen Kao,M,1933-11-04,NA,734,925
+839,Willard S. Boyle,M,1924-08-19,2011-05-07,21,823
+840,George E. Smith,M,1930-05-10,NA,885,925
+841,Venkatraman Ramakrishnan,M,NA,NA,182,925
+842,Thomas A. Steitz,M,1940-08-23,NA,516,925
+843,Ada E. Yonath,F,1939-06-22,NA,383,925
+844,Herta Müller,F,1953-08-17,NA,588,925
+845,Barack H. Obama,M,1961-08-04,NA,358,925
+846,Elinor Ostrom,F,1933-08-07,2012-06-12,474,96
+847,Oliver E. Williamson,M,1932-09-27,NA,776,925
+848,Robert G. Edwards,M,1925-09-27,2013-04-10,64,149
+849,Andre Geim,M,1958-10-21,NA,744,925
+850,Konstantin Novoselov,M,1974-08-23,NA,589,925
+851,Richard F. Heck,M,1931-08-15,2015-10-09,749,491
+852,Ei-ichi Negishi,M,1935-07-14,NA,171,925
+853,Akira Suzuki,M,1930-09-12,NA,539,925
+854,Mario Vargas Llosa,M,1936-03-28,NA,28,925
+855,Liu Xiaobo,M,1955-12-28,NA,927,925
+856,Peter A. Diamond,M,1940-04-29,NA,578,925
+857,Dale T. Mortensen,M,1939-02-02,2014-01-09,243,893
+858,Christopher A. Pissarides,M,1948-02-20,NA,586,925
+861,Bruce A. Beutler,M,1957-12-29,NA,181,925
+862,Jules A. Hoffmann,M,1941-08-02,NA,237,925
+863,Ralph M. Steinman,M,1943-01-14,2011-09-30,532,925
+864,Saul Perlmutter,M,NA,NA,169,925
+865,Brian P. Schmidt,M,1967-02-24,NA,520,925
+866,Adam G. Riess,M,1969-12-16,NA,875,925
+867,Dan Shechtman,M,1941-01-24,NA,794,925
+868,Tomas Tranströmer,M,1931-04-15,2015-03-26,764,764
+869,Ellen Johnson Sirleaf,F,1938-10-29,NA,529,925
+870,Leymah Gbowee,F,1972-02-01,NA,529,925
+871,Tawakkol Karman,F,1979-02-07,NA,786,925
+872,Thomas J. Sargent,M,1943-07-19,NA,626,925
+873,Christopher A. Sims,M,1942-10-21,NA,875,925
+874,Sir John B. Gurdon,M,1933-10-02,NA,227,925
+875,Shinya Yamanaka,M,1962-09-04,NA,613,925
+876,Serge Haroche,M,1944-09-11,NA,161,925
+877,David J. Wineland,M,1944-02-24,NA,516,925
+878,Robert J. Lefkowitz,M,1943-04-15,NA,578,925
+879,Brian K. Kobilka,M,1955-05-30,NA,461,925
+880,Mo Yan,M,1955-02-02,NA,276,925
+881,European Union (EU),,NA,NA,925,925
+882,Alvin E. Roth,M,1951-12-18,NA,578,925
+883,Lloyd S. Shapley,M,1923-06-02,2016-03-12,150,826
+884,James E. Rothman,M,1950-11-03,NA,335,925
+885,Randy W. Schekman,M,1948-12-30,NA,753,925
+886,Thomas C. Südhof,M,1955-12-22,NA,295,925
+887,François Englert,M,1932-11-06,NA,245,925
+888,Peter W. Higgs,M,1929-05-29,NA,581,925
+889,Martin Karplus,M,1930-03-15,NA,854,925
+890,Michael Levitt,M,1947-05-09,NA,659,925
+891,Arieh Warshel,M,1940-11-20,NA,399,925
+892,Alice Munro,F,1931-07-10,NA,899,925
+893,Organisation for the Prohibition of Chemical Weapons (OPCW),,NA,NA,925,925
+894,Eugene F. Fama,M,1939-02-14,NA,110,925
+895,Lars Peter Hansen,M,1952-10-26,NA,838,925
+896,Robert J. Shiller,M,1946-03-29,NA,221,925
+903,John O'Keefe,M,1939-11-18,NA,578,925
+904,May-Britt Moser,F,1963-01-04,NA,260,925
+905,Edvard I. Moser,M,1962-04-27,NA,15,925
+906,Isamu Akasaki,M,1929-01-30,NA,183,925
+907,Hiroshi Amano,M,1960-09-11,NA,322,925
+908,Shuji Nakamura,M,1954-05-22,NA,366,925
+909,Eric Betzig,M,1960-01-13,NA,25,925
+910,Stefan W. Hell,M,1962-12-23,NA,27,925
+911,William E. Moerner,M,1953-06-24,NA,642,925
+912,Patrick Modiano,M,1945-07-30,NA,624,925
+913,Kailash Satyarthi,M,1954-01-11,NA,853,925
+914,Malala Yousafzai,F,1997-07-12,NA,517,925
+915,Jean Tirole,M,1953-08-09,NA,822,925
+916,William C. Campbell,M,1930-06-28,NA,671,925
+917,Satoshi Ōmura,M,1935-07-12,NA,912,925
+918,Youyou Tu,F,1930-12-30,NA,919,925
+919,Takaaki Kajita,M,1959-03-09,NA,347,925
+920,Arthur B. McDonald,M,1943-08-29,NA,782,925
+921,Tomas Lindahl,M,1938-01-28,NA,764,925
+922,Paul Modrich,M,1946-06-13,NA,675,925
+923,Aziz Sancar,M,1946-09-08,NA,724,925
+924,Svetlana Alexievich,F,1948-05-31,NA,377,925
+925,National Dialogue Quartet,,NA,NA,925,925
+926,Angus Deaton,M,1945-10-19,NA,238,925
+927,Yoshinori Ohsumi,M,1945-02-09,NA,270,925
+928,David J. Thouless,M,1934-09-21,NA,66,925
+929,F. Duncan M. Haldane,M,1951-09-14,NA,468,925
+930,J. Michael Kosterlitz,M,1943-06-22,NA,6,925
+931,Jean-Pierre Sauvage,M,1944-10-21,NA,624,925
+932,Sir J. Fraser Stoddart,M,1942-05-24,NA,238,925
+933,Bernard L. Feringa,M,1951-05-18,NA,61,925
+934,Juan Manuel Santos,M,1951-08-10,NA,103,925
+935,Oliver Hart,M,1948-10-09,NA,468,925
+936,Bengt Holmström,M,1949-04-18,NA,342,925
+937,Bob Dylan,M,1941-05-24,NA,233,925

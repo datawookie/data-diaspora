@@ -1,0 +1,3 @@
+Original data from https://www.kaggle.com/nobelfoundation/nobel-laureates/data.
+
+The prepate-tables.R script will generate a second SQL file. This will populate the tables.
