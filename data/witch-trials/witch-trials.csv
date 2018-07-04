@@ -1,4 +1,4 @@
-Year;Temp;Locus;War;Epidemics;Precip;Flood;witch_trial_frequency
+year;temp;locus;war;epidemics;precip;flood;trials
 1500;-1.5147;0;0;0;188.19;0;0
 1501;-0.5041;0;0;0;200.36;1;0
 1502;-0.6485;0;0;0;155.51;0;0
