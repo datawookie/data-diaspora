@@ -20,3 +20,5 @@ passengers <- read.csv(RAWFILE, skip = 4) %>%
   filter(!is.na(year))
 
 write.csv(passengers, CSVFILE, quote = FALSE, row.names = FALSE)
+
+file.remove(RAWFILE, ZIPFILE)
