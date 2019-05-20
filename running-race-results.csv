@@ -1,0 +1,1794 @@
+position;time;gender;club;race;date;distance;name
+1;01:46:00;Male;Run Walk For Life;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Nhlanhla Khanyile
+2;01:54:51;Male;Chesterville AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Remebius Zondi
+3;01:57:42;Male;Bidvest;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Professor Cele
+4;01:58:10;Male;DHS Old Boys;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Nicholas Barrie-smith
+5;01:58:23;Female;Boxer Superstore AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Khethiwe Memela
+6;02:00:44;Female;DHS Old Boys;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Danielle Van Buddenbrock
+7;02:01:17;Female;Amanzimtoti AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Irene B?hmer
+8;02:01:54;Female;Highway AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Antionette Gibbs
+9;02:02:00;Female;Highway AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Cecily Fraser
+10;02:04:04;Male;Orion AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Rajainlall Dhanlall
+11;02:05:59;Female;Highway AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Janette Cochrane
+12;02:06:02;Female;Kearsney Striders;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Jules Lockhard-ross
+13;02:07:16;Female;PDAC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Rhonda Harrower
+14;00:00:00;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16; 
+15;02:08:02;Female;PDAC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Lindi Voulelis
+16;02:08:13;Female;Highway AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Brigitte Gonggrys
+17;02:10:07;Male;Highway AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Ray Goatley
+18;02:10:31;Female;Highway AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Pamela Von Aulock
+19;02:11:12;Female;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Kerrie Tomlinson
+20;00:00:00;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16; 
+21;02:11:14;Female;Dolphin Coast Striders;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Sonye Lyle
+22;02:11:35;Female;Zululand Multisport AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Amanda Schoeman
+23;02:12:00;Female;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Cindy Thornton
+24;02:13:12;Female;Highway AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Leigh-ann Mckenzie
+25;02:13:48;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Marischen Neefs
+26;02:14:00;Male;Highway AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Victor Deetefs
+27;02:14:01;Female;Amanzimtoti AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Sandra Van Der Merwe
+28;02:14:52;Female;Highway AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Susan Young
+29;02:16:58;Male;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Johann Senkal
+30;02:17:08;Female;Harlequins AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Susan Van Rooyen
+31;02:17:09;Female;Bluff AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Veronica Stander
+32;02:17:10;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Fanie Van Rooyen
+33;02:17:15;Female;Eskom AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Jenny Abrams
+34;02:17:53;Female;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Helen Krouse
+35;02:17:54;Female;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Debby Walker
+36;02:20:36;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Woodview Ac A/c
+37;02:20:41;Male;Orion AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Dhanlall Ballilall
+38;02:22:25;Female;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Barbara Raubenheimer
+39;02:22:54;Female;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Liz Reed
+40;02:23:40;Female;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Glynis Kotze
+41;02:23:41;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Paris Bramdeow
+42;02:23:57;Unknown;Chatsworth AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Obed Khuzwayo
+43;02:24:04;Female;Chatsworth AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Puran Mudaly
+44;02:24:43;Male;Newlands AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Narainsamy Govindasami
+45;00:00:00;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Dq 
+46;02:24:47;Female;Highway AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Ronil Perks
+47;02:25:09;Female;Forest Hills Sports Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Jenny Sin
+48;02:25:26;Male;Highway AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Don Perks
+49;02:25:58;Female;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Bronwyn Mcleon
+50;02:28:18;Male;Highway AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Dave Bennett
+51;02:28:19;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Barry Pazzard
+52;02:28:36;Male;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Brian Jarney-sudan
+53;02:29:57;Female;Alex Wasps AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Adele Govende
+54;02:29:57;Female;Alex Wasps AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Liana Radlyn
+55;02:30:25;Male;Durban AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Mahilal Mistry
+56;02:30:26;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Thabi Khuzwayo
+57;02:31:27;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Linda Seymon
+58;02:31:28;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Carmen O Connor
+59;02:31:41;Female;SAPS Striders;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Sharon Calitz
+60;02:31:55;Female;SAPS Striders;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Adele Bazley
+61;02:31:56;Female;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Paula Van Breda
+62;02:31:57;Female;Athletics North AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Kristy Robertson
+63;02:32:02;Female;PDAC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Liesel Manggos
+64;02:32:02;Female;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Lauren Trott
+65;02:32:07;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Samantha Stevens
+66;02:32:08;Female;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Cindy Navoot
+67;02:34:11;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Di Thunder
+68;02:34:11;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Nathalie Massa
+69;02:34:13;Female;Amanzimtoti AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Jean Rees
+70;02:34:50;Female;Amanzimtoti AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Pamela Yelseth
+71;02:36:37;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Mlu Madnomdo
+72;02:37:01;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Phumlani Ntombela
+73;02:37:01;Male;KZN Striders;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Muzi Hadebe
+74;02:37:02;Female;Highway AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Muriel Doherty
+75;02:37:02;Male;Run Walk For Life;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Dave Nicholls
+76;02:37:03;Female;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Jones Jones
+77;02:37:41;Female;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Marijke Berry
+78;02:37:42;Female;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;M Snyman
+79;02:42:49;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Sarah Galvin
+80;02:43:20;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Bronwyn Aucn
+81;02:43:21;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Sue Griffiths
+82;02:43:23;Female;Zululand Multisport AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Leonora Searle
+83;02:43:43;Female;Orion AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Sithara Jaupersadh
+84;00:00:00;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16; 
+85;02:45:09;Female;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Corrie Spies
+86;02:45:20;Female;Dolphin Coast Striders;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Liesel Marritz
+87;00:00:00;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16; 
+88;02:45:21;Male;Run Walk For Life;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Nigel Harcourt
+89;02:45:21;Female;Woodview AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Prenitha Ramraj
+90;02:50:22;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Michelle Bonfield
+91;02:50:23;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Sue Lees
+92;02:51:17;Unknown;Thembelisha AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Nomvula Chamane
+93;02:51:18;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Carolyn Borchard
+94;00:00:00;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Rick Muller
+95;00:00:00;Female;Midlands AC;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Shiona Jones
+96;00:00:00;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Collene Hall
+97;00:00:00;Unknown;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16; 
+98;00:00:00;Female;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Liz Cartwright
+99;00:00:00;Male;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Russell Cartwright
+100;00:00:00;Male;No Club;Dunlop Kearsney Striders Half Marathon Walk;2012-01-22;16;Ma Bell
+1;01:09:52;Male;Maxed Elite;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Prodigal Khumalo
+2;01:13:02;Male;Bluff AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rabson Chigara
+3;01:16:47;Male;STS Multisport Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sondile Tembetha
+4;01:16:50;Male;1000 Hills AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Siphosakhe Khumalo
+5;01:17:04;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lindokahle Ntuli
+6;01:19:16;Male;Nedbank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bernard Phalatsane
+7;01:20:06;Male;Boxer Superstore AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Zamani Duma
+8;01:22:03;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Hlalazi Shezi
+9;01:23:03;Male;Newlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sithembiso Masikane
+10;01:23:54;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;David Ndlovu
+11;01:24:18;Male;Boxer Superstore AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Thembankosi Gumede
+12;01:27:59;Male;Boxer Superstore AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Willie Majomboz
+13;01:28:11;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jarred Higgins
+14;01:28:40;Male;Thembelisha AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dumisani Cele
+15;01:29:36;Male;Forest Hills Sports Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Petros Chenco
+16;01:29:47;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Paul Worsnip
+17;01:29:59;Male;Nedbank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Nicholas Cekwani
+18;01:30:00;Male;Nedbank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Derek Wasserfall
+19;01:30:15;Male;Spirit Wind AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Siyabonga Mtshali
+20;01:30:36;Male;Saints AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Matthew Kretzmann
+21;01:31:03;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Brendan Mayer
+22;01:31:54;Male;Nedbank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Pan Cannell
+23;01:31:57;Male;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Noel Robert
+24;01:32:10;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jeff Gradwell
+25;01:32:26;Female;Boxer Superstore AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Janene Carey
+26;01:32:39;Male;Thembelisha AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Musa Phewa
+27;01:32:49;Male;1000 Hills AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Thokozani Zuma
+28;01:32:51;Male;Saints AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Owen Bengo
+29;01:32:52;Male;Amanzimtoti AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mark Mccalgan
+30;01:33:04;Male;Boxer Superstore AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bheki Bhengu
+31;01:34:25;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Thembankosi Mbunovka
+32;01:34:25;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Brandon Higgins
+33;01:34:52;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Stephen Ngiba
+34;01:34:58;Male;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Brad Thompson
+35;01:35:18;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Thanda Duma
+36;01:38:14;Female;Yellowwood Park AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Claude Boucher
+37;01:38:18;Male;Saints AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Colin Goosen
+38;01:38:28;Male;Boxer Superstore AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Siyabonga Jali
+39;01:38:43;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Russell Pietersen
+40;01:39:13;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Daryl Hefer
+41;01:39:14;Female;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Nontokozo Mkhize
+42;01:39:55;Male;Mtunzini AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Colin Hohls
+43;01:40:13;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Cliff Robbertze
+44;01:40:23;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Stefan Wilmans
+45;01:40:26;Male;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;James Torlage
+46;01:40:39;Male;Emnambithi Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Anand Ramdhayal
+47;00:00:00;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+48;01:40:53;Female;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Nonsikelelo Mbambo
+49;01:41:28;Male;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Darryn Downing
+50;01:41:59;Male;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Xolani Shoba
+51;01:42:05;Male;Kearsney Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sphamandla Cebekhulu
+52;01:42:35;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Selvan Naidoo
+53;01:42:43;Male;Secunda MC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mike Edgcumbe
+54;01:43:04;Male;Clermont Kwadabeka AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sifiso Busane
+55;01:43:12;Male;Lamontville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sandile Mngoma
+56;01:43:37;Male;Saints AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Duncan Goosen
+57;01:43:50;Male;Amanzimtoti AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dani 
+58;01:43:52;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Nicholas Rowk
+59;01:43:52;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Roy 
+60;01:43:53;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Matthew Would
+61;01:44:07;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Samson Luthuli
+62;01:44:22;Male;Kearsney Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Patrick Kelly
+63;01:44:52;Female;NRB Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Iris Ndlovu
+64;01:44:56;Male;Mtunzini AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Alistar Mcmurray
+65;01:45:01;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lyndon Nash
+66;01:45:12;Male;Sydenham Sports Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sibongiseni Mpisane
+67;01:45:36;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ken Gulverwell
+68;01:45:45;Male;PDAC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Raven Reddy
+69;01:45:49;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Morne Muller
+70;01:46:14;Male;Boxer Superstore AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sibongile Mpanza
+71;01:46:22;Male;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Douglas Couperthwaite
+72;01:46:33;Male;Kingfisher AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bruce Brauteser
+73;01:46:36;Male;Tuks AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Juan Theron
+74;01:46:38;Female;Forest Hills Sports Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Patrick Dammann
+75;01:46:43;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Greg Hardie
+76;01:46:48;Male;Howick AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Stuart Colder
+77;01:46:59;Male;Athletics North AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bongani Ngidi
+78;01:47:30;Male;Saints AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dean Riley
+79;01:47:58;Male;STS Multisport Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Msama Zulu
+80;00:00:00;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+81;01:48:22;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Phetha Luthuli
+82;01:48:24;Female;Jeppe;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kelly Gibb
+83;01:48:32;Female;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Margaret Scharein
+84;01:48:37;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Oliver Lamusse
+85;01:48:49;Male;PDAC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Welcome Mtshali
+86;00:00:00;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+87;01:49:00;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ian Gray
+88;01:49:05;Female;Hilton Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sandy Fismer
+89;01:49:08;Female;Nedbank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Patricia Bahlmann
+90;01:49:09;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Andy Daly
+91;01:49:13;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Pragasen Govender
+92;01:49:21;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Paul Marsh
+93;01:49:31;Male;Dolphin Coast Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ian Sampson
+94;01:49:44;Female;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Debbie De Koning
+95;01:49:50;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Quentin Hurt
+96;01:49:56;Male;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jason Brown
+97;01:50:01;Male;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Les Barnard
+98;01:00:03;Male;Kwadabeka Harriers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Vincent Masuku
+99;01:50:11;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Robert Dlamini
+100;01:50:16;Female;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tammy Dennilly
+101;01:50:22;Male;Run Walk For Life;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Peter Garthwaite
+102;01:50:35;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Trevor Hart-jones
+103;01:50:47;Male;Highway AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Omega Mkhize
+104;01:51:07;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Grant Kerr
+105;01:51:19;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Taryn Ford
+106;01:51:23;Male;Stella AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jason Schefermann
+107;01:51:25;Male;Hilton Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Stuart Ferrer
+108;01:51:29;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bongani Maphumulo
+109;01:51:29;Female;Nedbank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Cary-ann Smith
+110;01:51:30;Male;Nedbank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Blaine Peinaar
+111;01:51:31;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tony Saunderson
+112;01:51:32;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rudi Van Niekerk
+113;01:51:38;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sarah Wilson
+114;01:51:47;Male;Virginia AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lloyd Broughlo
+115;01:51:51;Male;Herbalife Running Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Justin Nel
+116;01:51:56;Male;Kearsney Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bhekizizwe Mobuyo
+117;01:51:56;Male;Nedbank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Pieter De Bruin
+118;01:51:57;Male;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Anthony Albrightson
+119;01:52:00;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mbongeni Mpanza
+120;01:52:00;Female;Mtunzini AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Nicola Mcmurray
+121;00:00:00;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+122;01:52:05;Male;Midlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Garth Cathey
+123;01:52:06;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Craig Dennilly
+124;01:50:32;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Steve Mccarvey
+125;01:52:48;Female;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lindsey Watkeys
+126;01:52:58;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Phil Tozer
+127;01:53:20;Male;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lloyd Duncan
+128;01:53:26;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sifiso Matshoba
+129;01:53:26;Female;Bluff Meats AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Laurence Bluff Ac
+130;01:53:31;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Pragasen Naidu
+131;01:53:34;Female;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sarah Hooper
+132;01:53:35;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lucien Ferndale
+133;01:53:41;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Chris Mortimer
+134;01:53:42;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Luke Mortimer
+135;01:53:47;Male;Mtunzini AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Robert Adams
+136;01:53:51;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Suran Maharaj
+137;01:53:55;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+138;01:53:55;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+139;01:54:05;Male;Kingfisher AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Terry Drummond
+140;01:54:06;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Brett Florens
+141;01:54:11;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Brad Chislett
+142;01:54:11;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Chris Friggens
+143;01:54:25;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Craig Ventuss
+144;01:54:27;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Derrick Weeder
+145;01:54:40;Male;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dean Wight
+146;01:55:00;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+147;01:55:03;Male;Riverside Harriers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ritesh Kooverjey
+148;01:55:04;Female;Stella AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Catherine Potter
+149;01:55:06;Male;Howick AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Paul De Wet
+150;01:55:14;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Peter Ducktt
+151;01:55:15;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Shane Wath
+152;01:55:18;Male;Tongaat Panthers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Reshan Chalithar
+153;01:55:19;Male;DHS Old Boys;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ryan Davidson
+154;01:55:22;Male;Bluff AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;H Niedinger
+155;01:55:24;Female;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Cheron Mcconnell
+156;01:55:29;Male;Correctional Services AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Willie Johnson
+157;01:55:53;Male;Athletics North AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Vincent Zulu
+158;01:55:53;Male;Stella AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;David Gengwa
+159;01:55:54;Male;PDAC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Thulani Mhlonyo
+160;01:55:55;Female;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Shez Lawrenz
+161;01:56:01;Male;Durban AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Malcolm Millar
+162;01:56:12;Male;Mtunzini AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bruce Radley
+163;01:56:29;Male;Newlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mandla Mathonsi
+164;01:56:45;Male;Nedbank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Steven Elliott
+165;01:56:55;Male;PDAC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Brett Gilfillan
+166;01:57:02;Female;Legends Lifestyle Centre;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Maria Wareing
+167;01:57:02;Female;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Christa Du Plessis
+168;01:57:03;Female;Dolphin Coast Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bianca Harris
+169;01:57:03;Male;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ernst Du Plessis
+170;01:57:03;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+171;01:57:04;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+172;01:57:17;Male;Scottburgh AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Enzo Tilli
+173;01:57:17;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jarid Sherwood
+174;01:57:25;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mark Bester
+175;01:57:27;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lucien Quevauvilliers
+176;01:57:28;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Paul Pearce
+177;01:57:29;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mike Rockey
+178;01:57:30;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+179;01:57:35;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Karina Pekelharing
+180;01:57:38;Male;DHS Old Boys;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ross V
+181;01:57:39;Male;Maxed Elite;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mark Roe-scott
+182;01:57:40;Male;Kearsney Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Wayne Sudding
+183;01:57:47;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Derrick Dladla
+184;01:57:48;Male;Fish Hoek AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Andrew Wettergreen
+185;01:57:49;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bruce Thomas
+186;01:57:58;Female;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lauri Kanglar
+187;01:58:07;Male;Newlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Thembinkosi Mzombe
+188;01:58:10;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Cyril Kuppan
+189;01:58:10;Male;Scottburgh AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Riaaj Pillay
+190;01:58:11;Female;Howick AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lindsay Hayward
+191;01:58:12;Male;Kearsney Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Murray Commons
+192;01:58:21;Male;DHS Old Boys;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Greg Williams
+193;01:58:28;Male;Riverside Harriers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Gordon Trubuck
+194;01:58:31;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Donovan Cawdry
+195;01:58:48;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sam Verraan
+196;01:58:52;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Pj Sutherland
+197;01:59:00;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Greg Ewing
+198;01:59:13;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Philani Shabalala
+199;01:59:15;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;John Sage
+200;01:59:20;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Simon Collins
+201;01:59:30;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;D Du Plessis
+202;01:59:31;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+203;01:59:40;Male;Durban AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sean Oellermann
+204;01:59:46;Male;Riverside Harriers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Nicholas 
+205;01:59:54;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dumisani Makhathini
+206;01:59:55;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Brendan Tarpoy
+207;01:59:57;Male;SAPS Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Gavin Bazley
+208;01:59:58;Female;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Meggan Mackenzie
+209;01:59:58;Male;Oasis Crescent Sporting Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ridwaan Kathrada
+210;02:00:14;Male;Yellowwood Park AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mike Thackray
+211;02:00:20;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Yoshuharu Arai
+212;02:00:22;Male;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Daniel Du Toit
+213;02:00:23;Male;Hilton Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Keith Parsons
+214;02:00:27;Male;Bluff AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Creig Tanner
+215;02:00:30;Female;Hilton Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tarryn Blake
+216;02:00:43;Male;Saints AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Graig Maguire
+217;02:00:47;Male;Kearsney Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Keith Bester
+218;02:00:48;Male;Dolphin Coast Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Douglas Orchison
+219;02:00:49;Male;Sandf AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Wally Skinner
+220;02:00:54;Female;PDAC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tracy Ibbetson
+221;02:00:55;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Roy Leisegang
+222;02:00:59;Male;DHS Old Boys;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ryan Warren
+223;02:01:00;Male;Saints AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Graig Speed
+224;02:01:03;Female;Pinetown Old Boys AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dawn Mackay
+225;02:01:04;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Gisbent Vd Kooy
+226;02:01:05;Male;Durban AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Steven Ramasami Pillay
+227;02:01:06;Male;Stella AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lloyd Gondl
+228;02:01:06;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Anthony Yunnie
+229;02:01:07;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Neil Ziiderveld
+230;02:01:08;Female;Jeppe Quondam AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Michelle Dick
+231;02:01:09;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Wiseman Sisni
+232;02:01:13;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;J Baker
+233;02:01:25;Male;DHS Old Boys;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Andrew Wedd
+234;02:01:26;Male;SAPS Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Cyril Simphiwe
+235;02:01:29;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kirsten King
+236;02:01:31;Male;Durban AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;David Isaac
+237;02:01:34;Male;Amanzimtoti AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Chris Strange
+238;02:01:38;Male;Saints AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Shorne Ulyate
+239;02:01:44;Female;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Vanessa Ronald
+240;02:01:45;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mahomed Cassin
+241;02:01:47;Male;DHS Old Boys;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Vernon Anley
+242;02:01:48;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Richard Arnold
+243;02:01:50;Female;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Attie Kruger
+244;02:01:51;Female;Tongaat Panthers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sajeeda Abdool
+245;02:01:52;Male;Highway AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Vivrk Natasen
+246;02:01:53;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Danny Chetty
+247;02:01:54;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Costa Koumantarake
+248;02:02:01;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Khanylihle Mendy
+249;02:02:03;Male;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Shane Crampton
+250;02:02:06;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Luke Wyness
+251;02:02:07;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Shaun Oliver
+252;02:02:08;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Wade Wingfield
+253;02:02:16;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Andre Pentz
+254;02:02:21;Male;uMhlathuze AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mike Brown
+255;02:02:26;Male;SAPS Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Pappa Gounden
+256;02:02:27;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Brad Kavanagi
+257;02:02:28;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Allistair Mcintyre
+258;02:02:31;Female;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Saras Reddy
+259;02:02:32;Male;Highway AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bonga Mavume
+260;02:02:40;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+261;02:02:49;Male;Nedbank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Richard Eksteen
+262;02:02:50;Male;Harlequins AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mike Koning
+263;02:02:58;Male;Stella AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Roger Schaltz
+264;02:03:05;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Hayden Rendan
+265;02:03:10;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jaques Viera
+266;02:03:14;Female;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dale Gait
+267;02:03:29;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Indran Naidoo
+268;02:03:26;Male;SAPS Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dennis Nduli
+269;02:03:38;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tristan Fourie
+270;02:03:39;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Neil Daidoo
+271;02:03:41;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ugendran Govender
+272;02:03:48;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Craig Shiler
+273;02:03:50;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sam Clark
+274;02:03:56;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;R.g Williams
+275;02:04:02;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sandile Mthumbu
+276;02:04:21;Female;Highway AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Roshini Natasen
+277;02:04:25;Male;Transnet AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Molusi Biyela
+278;02:04:29;Male;Maritzburg City AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Thambani Khumalo
+279;02:04:37;Female;Mtunzini AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tanya Dahl
+280;02:04:38;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Thembinkosi Ngcobo
+281;02:04:44;Male;Nedbank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Wesley Neilson
+282;02:04:51;Male;Forest Hills Sports Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Neil Neat
+283;02:04:52;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Pierre Schwayer
+284;02:04:53;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Chevy Smith
+285;02:04:53;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Robin Donaldsa
+286;02:04:54;Male;Wyebank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Thokozani Pena
+287;02:05:07;Female;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Nelisiwe Dlamini
+288;02:05:11;Male;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Christopher Zaayman
+289;02:05:33;Male;Ukhozi;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Thami Ngcobo
+290;02:05:34;Female;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Cathy Patterson
+291;02:05:35;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Justin Patterson
+292;02:05:36;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Gareth Jermyn
+293;02:05:39;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Martens 
+294;02:05:47;Female;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Shanon Mackenzie
+295;02:06:01;Male;Virginia AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Victor Morgira
+296;02:06:06;Male;PDAC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+297;02:06:08;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Steve Hill
+298;02:06:11;Female;Howick AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tookie Tullis
+299;02:06:16;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sarah Brady
+300;02:06:20;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+301;02:06:26;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dan Paliam
+302;02:06:34;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dave Saunders
+303;02:06:37;Male;DHS Old Boys;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rob Howse
+304;02:06:43;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jason Grunow
+305;02:06:44;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+306;02:06:44;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Andrew Dyne
+307;02:06:45;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jon-hendrick Senekal
+308;02:06:50;Male;Durban AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Gokulan Naiker
+309;02:06:54;Female;Virginia AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Heidi Cox
+310;02:06:58;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+311;02:06:59;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;N Drake
+312;02:07:21;Male;Forest Hills Sports Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Henry Nobby Clark
+313;02:07:22;Female;Virginia AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Michelle Coskey
+314;02:07:24;Male;Athletics North AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Neil Carlyle
+315;02:07:28;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Gavin Seidler
+316;02:07:32;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+317;02:07:33;Male;Athletics North AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mark Mccall
+318;02:07:33;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Robyn Greyling
+319;02:07:34;Male;Forest Hills Sports Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Shane Greyling
+320;02:07:35;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Paul Brink
+321;02:07:38;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Don Macleod
+322;02:07:42;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Richard Mack
+323;02:07:42;Female;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Helen Marsh
+324;02:07:43;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+325;02:07:44;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Robert Milne
+326;02:07:45;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Craig Blewett
+327;02:07:46;Female;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mankela Woodrow
+328;02:07:52;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ian Abrams
+329;02:07:53;Male;Howick AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Moray Calder
+330;02:07:54;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Amith Siebalak
+331;02:07:57;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+332;02:07:58;Female;Saints AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bronwyn Goosen
+333;02:07:59;Male;PDAC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Siyabulala Mlingwana
+334;02:08:08;Unknown;Stella AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Thozi Mazibuko
+335;02:08:11;Male;Run Walk For Life;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Pierre Matthee
+336;02:08:17;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;? Naidoo
+337;02:08:22;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Matthew Conradie
+338;02:08:23;Male;Newlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kas Naidoo
+339;02:08:24;Male;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ron Ross
+340;02:08:25;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Andrew Quinlan
+341;02:08:31;Male;PDAC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jan Landman
+342;02:08:37;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Denver 
+343;02:08:45;Unknown;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Renney Govender
+344;02:09:03;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jan Barnard
+345;02:09:03;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Debbie De Villiers
+346;02:09:13;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sue Murray
+347;02:09:13;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mari Rash
+348;02:09:15;Male;Estcourt AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Vincent Manyoni
+349;02:09:20;Female;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Nicole Petzer
+350;02:09:46;Unknown;Harlequins AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Yoshiomi Matsushima
+351;02:09:47;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Wayne Camoin
+352;02:09:52;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Garry Camoin
+353;02:10:29;Male;Midlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tyron Cathey
+354;02:10:30;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Narainsamy Raje
+355;02:10:31;Female;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Chantal Nosworthy
+356;02:10:37;Male;Howick AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Willie Freeman Smith
+357;02:10:43;Female;Forest Hills Sports Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Heidi Paul
+358;02:10:44;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Stuart Cox
+359;02:10:45;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mpumelelo Hadebe
+360;02:10:46;Male;Highway AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Andy Cochrane
+361;02:10:46;Female;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dale Blake
+362;02:10:49;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dean Leathern
+363;02:10:52;Male;DHS Old Boys;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kevin Atkinson
+364;02:10:53;Female;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Angela Boulle
+365;02:10:53;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;John Cummins
+366;02:10:54;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Carl Van Den Berg
+367;02:10:52;Female;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Chantal Van Den Berg
+368;02:11:03;Female;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tilda Tearle
+369;02:11:13;Male;DHS Old Boys;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Stephan Bruwer
+370;02:11:18;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kevin Bradfield
+371;02:11:21;Female;Highway AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Pamela Schulz
+372;02:11:28;Female;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Pam Rasmussen
+373;02:11:32;Female;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bev Hardie
+374;02:11:36;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;A Pieters
+375;02:11:39;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Deon Delport
+376;02:11:40;Male;Phoenix Villagers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Israel Peromm
+377;02:11:51;Male;Dolphin Coast Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Johan Dorflmy
+378;02:11:52;Female;Dolphin Coast Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Shirley Brown
+379;02:11:57;Female;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Zoe Buchan
+380;02:11:58;Female;Howick AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Win De Wet
+381;02:11:59;Male;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lynon Kinloch
+382;02:12:00;Male;Dolphin Coast Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Michael Atkinson
+383;02:12:00;Male;KwaDukuza AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;V Moodliar
+384;02:12:02;Unknown;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Neren Lorrick
+385;02:12:03;Female;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Elize Cilliers
+386;02:12:09;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+387;02:12:13;Male;SABS Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Denesh Naidu
+388;02:12:27;Male;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Stewart Chite
+389;02:12:35;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Anand Sookraj
+390;02:12:36;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Roy Mlambo
+391;02:12:37;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Gonasmedan Nadidu
+392;02:12:38;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Thom Vames
+393;02:12:38;Male;Stella AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ted Liddiati
+394;02:12:39;Female;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Carla Miller
+395;02:12:42;Male;Spirit Wind AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Herald Soloman
+396;02:12:46;Female;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tina Leisggang
+397;02:12:51;Male;South Coast Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Swallish Amogr
+398;02:12:54;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Poobalan Reddy
+399;02:13:06;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Brandon Perry
+400;02:13:08;Male;Newlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Clifford Mkhize
+401;02:13:09;Male;Newlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ronnie Govender
+402;02:13:10;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+403;02:13:10;Male;Dolphin Coast Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Andre Trichardt
+404;02:13:11;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+405;02:13:23;Male;Stella AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Charles Bishop
+406;02:13:26;Female;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Nicky Blewett
+407;02:13:28;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jake Jairam
+408;02:13:29;Female;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Leigh Brandes
+409;02:13:30;Male;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Zaine Shaik
+410;02:13:31;Male;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mark Burnett
+411;02:13:39;Female;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Helen Bentley
+412;02:13:39;Female;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Molly Parasaramah
+413;02:13:40;Female;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Gill Tregenna
+414;02:13:42;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;George Tweedy
+415;02:13:52;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Nicola Lemmon
+416;02:14:00;Male;Pirates AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Alan Lamplough
+417;02:14:06;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Colin Paul
+418;02:14:06;Female;Athletics North AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Melanie Van Grennen
+419;02:14:15;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Robin Rowe
+420;02:14:16;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lloyd Hollins
+421;02:14:17;Female;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lisa Esterhuyse
+422;02:14:18;Male;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lucas Esterhuyse
+423;02:14:19;Male;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Hervs Legans
+424;02:14:23;Male;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Leon Viljoen
+425;02:14:26;Female;DHS Old Boys;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Shelley Cluver
+426;02:14:27;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Colleen Mcloles
+427;02:14:33;Female;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Chantal Ronddl
+428;02:14:43;Male;Newlands Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jeeva Pillay
+429;02:14:49;Female;Kempton RR;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ronel Theron
+430;02:14:50;Female;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Shirley Theva-raso
+431;02:14:54;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Patrick Mtshali
+432;02:14:56;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Philip Bunge
+433;02:15:03;Male;Boxer Superstore AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Alistair Mcleod
+434;02:15:08;Male;Bluff AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;William Neetling
+435;02:15:09;Male;Ladysmith AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tony Clarke
+436;02:15:10;Male;Ladysmith AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Quintin White
+437;02:15:11;Male;Durban AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Youngeson Moodley
+438;02:15:15;Male;PDAC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Titus Ximba
+439;02:15:15;Male;DHS Old Boys;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Craig Adendorff
+440;02:15:16;Female;Correctional Services AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Louise Pretorius
+441;02:15:17;Male;Orion AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jackie Jaulpersadh
+442;02:15:20;Male;Stella AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Brett Terblanche
+443;02:15:26;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Matt Williams
+444;02:15:41;Female;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mandy Fuller
+445;02:15:47;Male;Amanzimtoti AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Martyn Clark
+446;02:15:48;Female;Scottburgh AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Morina Wiggill
+447;02:16:02;Female;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tiffany Callagh
+448;02:16:06;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kathy Scott
+449;02:16:13;Male;Oasis Crescent Sporting Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Shiraz Abdul
+450;02:16:26;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ven Moodley
+451;02:16:29;Female;Howick AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Merrill King
+452;02:16:30;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Zanele Mzimelo
+453;02:16:31;Male;Bluff AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Gareth Van Wyk
+454;02:16:35;Female;Bluff AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Erin Van Wyk
+455;02:16:36;Female;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sihle Kraai
+456;02:16:38;Female;Newlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Gloria Chiluvane
+457;02:16:41;Female;Bluff AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Deborah Stingeer
+458;02:16:41;Female;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Beryl Szucs
+459;02:16:42;Female;Newlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Margaret Rhode
+460;02:16:42;Female;Forest Hills Sports Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tracy Thomson
+461;02:16:44;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rob Thomson
+462;02:16:45;Female;Pinetown Old Boys AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Avril Manfron
+463;02:16:45;Male;Kearsney Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Marco Botha
+464;02:17:13;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Gertje Strachan
+465;02:17:15;Male;Phoenix Villagers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Swank Ramraj
+466;02:17:21;Female;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Chris-anne Currin
+467;02:17:26;Male;Forest Hills Sports Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Martin Dammann
+468;02:17:27;Female;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jandi Hauett
+469;02:17:37;Female;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Katy Moore
+470;02:17:38;Male;Correctional Services AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;S Moonsamy
+471;02:17:44;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+472;02:17:45;Female;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Elsie Bodington
+473;02:17:47;Male;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Michael Manson
+474;02:17:59;Female;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Nicola Centner
+475;02:18:05;Female;Stella AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Zuki Kula
+476;02:18:06;Male;Nedbank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Steven Bolton
+477;02:18:07;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mark Wootton
+478;02:18:24;Female;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Frankie Caldry
+479;02:18:31;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Suraj Sookrat
+480;02:18:34;Male;Highway AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Cliff Hagerman
+481;02:18:35;Female;DHS Old Boys;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mandy Skye
+482;02:18:36;Female;DHS Old Boys;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Roly Ewin
+483;02:18:38;Male;Newlands Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kanan Govender
+484;02:18:39;Male;Saints AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Russell Viljoen
+485;02:18:40;Male;Saints AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Suren Pillay
+486;02:18:51;Male;PDAC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Christopher Botha
+487;02:18:53;Male;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;George Randall
+488;02:19:04;Male;Legends Lifestyle Centre;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Digby Wareing
+489;02:19:04;Male;Oasis Crescent Sporting Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Imran Patel
+490;02:19:05;Male;Saints AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Anthony Evans
+491;02:19:08;Male;Virginia AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jeff Cliff
+492;02:19:16;Female;Boxer Superstore AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Wendy Parry
+493;02:19:20;Female;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Maureen Parry
+494;02:19:24;Male;Yellowwood Park AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Barry Varty
+495;02:19:25;Male;SAPS Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ricky Govender
+496;02:19:28;Male;Durban AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Vis Padayachy
+497;02:19:29;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bruce Pardy
+498;02:19:29;Male;Nedbank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mark Philbin
+499;02:19:31;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kim Selwood
+500;02:19:23;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Anesh Badasi
+501;02:19:34;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Shaun Black
+502;02:19:46;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Joshua Brophx
+503;02:19:47;Female;Maxed Elite;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lisa Van Lelyveld
+504;02:19:47;Female;Saints AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lindy Van Lelyveld
+505;02:19:48;Female;Saints AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Amy Hylton
+506;02:19:58;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Deen Nadaraju
+507;02:20:01;Male;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Robin Edwards
+508;02:20:05;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Nathan Moss
+509;02:20:08;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Danny Ramdeo
+510;02:20:12;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Brandon Sunkel
+511;02:20:13;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bradley Allan
+512;02:20:14;Male;Phumanathi;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lloyd Shabnald
+513;02:20:27;Male;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;David Siepman
+514;02:20:29;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rajen Naidoo
+515;02:20:35;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Trevor Moore
+516;02:20:43;Male;Nedbank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Gs Mardang
+517;02:20:44;Male;Chesterville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Nkulu Mkhwanzi
+518;02:20:45;Female;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lynda Bell
+519;02:20:47;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Elbers Margaretha
+520;02:20:59;Male;Oasis Crescent Sporting Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mohammed Thandal
+521;02:21:18;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mike Jorgensea
+522;02:21:26;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kathy Fennemore
+523;02:21:36;Male;KZN Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Greggory De Bruin
+524;02:21:43;Male;Howick AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kevin Le Roux
+525;02:21:49;Female;Stella AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Pat Freeman-smith
+526;02:21:51;Male;Harlequins AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rod Tarby
+527;02:22:02;Female;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Charmaine Bazley
+528;02:22:03;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Samosh Brademahan
+529;02:22:07;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mxolisi Malimela
+530;02:22:10;Female;Mtunzini AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Haley Dahl
+531;02:22:11;Female;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Robyn Bees
+532;02:22:12;Female;Saints AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lauren Carcoron
+533;02:22:12;Female;Collegians Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Terri Brown
+534;02:22:12;Female;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Stephanie Joyner
+535;02:22:26;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mako Mokhesi
+536;02:22:27;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Charles Janse Van Rensberg
+537;02:22:29;Female;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tiudie Basson
+538;02:22:32;Male;Run Walk For Life;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mac Nair
+539;02:22:43;Female;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kelly Benschop
+540;02:22:52;Female;Verulam AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Joslyn Dabi
+541;02:22:53;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Langa Malimela
+542;02:22:54;Male;Durban AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Domenico Messina
+543;02:23:02;Female;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sharon Smith
+544;02:23:24;Female;DHS Old Boys;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rozanne Anley
+545;02:23:27;Male;Newlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sanjiv Mahabeer
+546;02:23:33;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mark Chareswath
+547;02:23:41;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Nicola Dixon
+548;02:23:47;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Nolan Haskins
+549;02:23:47;Unknown;Newlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rauwl 
+550;02:23:49;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Chuma Jozi
+551;02:23:50;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Finlay Finlay
+552;02:23:51;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dave Walker
+553;02:23:51;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Grant Van Gestel
+554;02:23:56;Female;Riverside Harriers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Julie Calboutin
+555;02:23:57;Female;DHS Old Boys;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Andrea Moroney
+556;02:23:58;Male;Athletics North AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;?datlos Bretl
+557;02:24:00;Male;Run Walk For Life;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Allan Angus
+558;02:24:02;Female;Riverside Harriers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sharon Freese
+559;02:24:03;Male;Riverside Harriers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Juan Freese
+560;02:24:05;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jean Wasserfall
+561;02:24:08;Male;Amanzimtoti AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Renier Fouche
+562;02:24:16;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Asokan Sadayan
+563;02:24:26;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Morgan Sajiinan
+564;02:24:31;Male;Verulam AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Joey Chetty
+565;02:24:31;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Clive Tearle
+566;02:24:35;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Krish Naidoo
+567;02:24:37;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mla 
+568;02:24:38;Male;Maritzburg Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mlungisi Msimang
+569;02:24:39;Female;Umvoti AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Linda Drogemoller
+570;02:24:47;Male;KwaDukuza AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rajen Padayachee
+571;02:24:50;Female;Highway AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Linda Feher
+572;02:24:51;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lionel Howard
+573;02:24:51;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Morag Ryan
+574;02:24:53;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Reg Ryan
+575;02:25:09;Female;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Renee Moodley
+576;02:25:14;Male;uMhlathuze AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Richard Wiggill
+577;02:25:15;Male;Highway AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jason Shaw
+578;02:25:17;Female;uMhlathuze AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Cathy Brown
+579;02:25:18;Female;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Irma Stephens
+580;02:25:18;Female;Run Walk For Life;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Natalie Laynos
+581;02:25:19;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Haley Ralph
+582;02:25:20;Female;Dolphin Coast Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Shelley Altman
+583;02:25:22;Male;Chesterville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sizwe Mkhwamazi
+584;02:25:30;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ettienne Jacobs
+585;02:25:30;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rob Collins
+586;02:25:36;Female;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Elize Herbst
+587;02:25:38;Female;Run Walk For Life;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tanya Erasmus
+588;02:25:38;Female;Boksburg AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Adre Wepener
+589;02:25:44;Female;Virginia AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Brigitte Jordaan
+590;02:25:44;Male;Virginia AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Wayne Jordaan
+591;02:25:45;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tanya Patrick
+592;02:25:46;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Thor Jensen
+593;02:25:47;Male;Oasis Crescent Sporting Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Osman Paruk
+594;02:25:47;Female;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Michelle Kemp
+595;02:25:56;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Frikkie Botes
+596;02:25:57;Male;uBunye AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sifiso Dladla
+597;02:26:03;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dhayalan Moodley
+598;02:26:05;Male;Bluff AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Flippe Niewenhuis
+599;02:26:06;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rorry Pirrie
+600;02:26:13;Female;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Eileen Combes
+601;02:26:20;Male;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Billy Kirkman
+602;02:26:45;Male;Phoenix Villagers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tinke Govender
+603;02:26:47;Male;Richards Bay AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ravis Reddy
+604;02:26:48;Female;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Angela Pinto
+605;02:26:56;Female;Run Walk For Life;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Taryn Heathcote
+606;02:26:58;Female;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Paul Kantha
+607;02:26:59;Female;Run Walk For Life;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sandra Senekal
+608;02:27:01;Female;Run Walk For Life;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Marinda Potgieter
+609;02:27:02;Female;Maxed Elite;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Denise Johansen
+610;02:27:15;Male;uMhlathuze AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Brian O Reilly
+611;02:27:16;Female;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Denise Reynecke
+612;02:27:25;Female;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Daleen Znyman
+613;02:27:33;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Chris Herbst
+614;02:27:34;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+615;02:27:40;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+616;02:27:41;Male;Newlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kamal Mahorag
+617;02:27:48;Female;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Leslie Van Romburgh
+618;02:27:51;Unknown;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Lindo Arbunot
+619;02:27:53;Female;Riverside Harriers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Alison Chadwick
+620;02:27:54;Male;Spar;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rajan Naidoo
+621;02:27:55;Female;Riverside Harriers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Fiona Hoareau
+622;02:27:55;Male;Riverside Harriers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Craig Tibshraen
+623;02:27:59;Female;Stella AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Valentina Chiochi
+624;02:28:00;Female;Forest Hills Sports Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Merryl Duncan
+625;02:28:11;Male;Highway AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Richard Schuzz
+626;02:28:13;Female;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Paula Ramsden
+627;02:28:18;Male;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Quentin Branders
+628;02:28:25;Male;Chiltern AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Stephen Beckerling
+629;02:28:34;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rawee Mavapersad
+630;02:28:40;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rac Rajagopaul
+631;02:28:41;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Hoosen Alli Mohammed
+632;02:28:42;Male;Polokwane AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sakkie Prinsloo
+633;02:28:42;Male;Bluff AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Shaun Neuwenhuis
+634;02:28:44;Male;Ixopo AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Wayne Ryan
+635;02:28:48;Female;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Margaret Botes
+636;02:28:49;Male;Riverside Harriers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jaco Pretorius
+637;02:28:55;Male;Boxer Superstore AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Raymond Coke
+638;02:28:56;Female;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Patsy Clemmans
+639;02:29:05;Female;Bluff AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Trudy Martin
+640;02:29:15;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Raj Dhrocham
+641;02:29:19;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Michael Proome
+642;02:29:33;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jayd Paye
+643;02:29:52;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ronny Motilall
+644;02:30:04;Male;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kobus Cronje
+645;02:30:05;Male;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jani Shau
+646;02:30:06;Male;SAPS Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bala Naidu
+647;02:30:16;Male;PDAC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Michael Voilelis
+648;02:30:17;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+649;02:30:18;Female;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jenny Bartlett
+650;02:30:23;Female;Howick AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Monica Tratschler
+651;02:30:25;Female;Amanzimtoti AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Nicola Ihlenfeldt
+652;02:30:31;Male;Amanzimtoti AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tyron Castle
+653;02:30:48;Male;Newlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kogilan Pillay
+654;02:30:49;Unknown;Saints AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Siya Sithole
+655;02:30:57;Female;Correctional Services AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rika Paulse
+656;02:30:58;Female;Howick AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sally Davies
+657;02:31:02;Male;Correctional Services AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Abraham Zaayman
+658;02:31:04;Male;Forderville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Amri Sewwun
+659;02:31:07;Unknown;Nedbank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jukina Meyer
+660;02:30:08;Female;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Gloria Naidoo
+661;02:31:09;Unknown;STRAGGLERS SAC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Vithagan Rajagopaul
+662;02:30:10;Male;Chesterville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Phumalele Bam
+663;02:31:13;Female;Virginia AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Gladys Naylor
+664;02:31:17;Male;Walmer AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mike Forsyth
+665;02:31:29;Male;Harlequins AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dick Thyssen
+666;02:31:51;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kenneth Hicks
+667;02:32:15;Female;Stella AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Margie Bailing
+668;02:32:46;Female;East Griqualand Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Cathy Maitin-casaus
+669;02:32:51;Female;Kempton RR;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Josephine Gass
+670;02:32:52;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Vikesh Parshad
+671;02:32:53;Male;South Coast Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Farouk Naroth
+672;02:33:23;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tyron Govender
+673;02:33:24;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dermmal Naidoo
+674;02:33:53;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Renate Hanegraaf
+675;02:33:55;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Claire Wilkinson
+676;02:34:23;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Graham Buck
+677;02:34:27;Male;Highway AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Learn Bhendane
+678;02:34:29;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;David Leigh
+679;02:34:31;Male;Highway AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Vuli Nxumalo
+680;02:34:33;Male;Athletics North AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mogambury Pillay
+681;02:34:53;Male;Verulam AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Zakanye Omar
+682;02:34:54;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Pooven Govender
+683;02:35:08;Female;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bronwyn Masson
+684;02:35:33;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jamie Spindlove
+685;02:35:50;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Yusuf Alhroon
+686;02:36:05;Female;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Hazel Sighting
+687;02:36:08;Male;Hillcrest Villagers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Trevor Williams
+688;02:36:10;Male;Boxer Superstore AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Heni Du
+689;02:36:20;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dave Rogers
+690;02:36:35;Unknown;Run Walk For Life;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kiroy Chaterson
+691;02:36:40;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bruce Maitre
+692;02:36:51;Male;Phoenix Villagers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dysan Parasaramah
+693;02:36:52;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tihnagrin Naidoo
+694;02:37:22;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ridwan Essop
+695;02:37:23;Male;Maritzburg City AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tangtam Shelembe
+696;02:37:25;Male;Kempton RR;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Barry Gass
+697;02:37:28;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bangani Qwabe
+698;02:37:46;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1; 
+699;02:37:53;Male;Harlequins AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bill Hogg
+700;02:37:54;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Goorge Govender
+701;02:38:23;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Trevor Majolla
+702;02:38:35;Male;Phoenix Villagers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ritesh Ramraj
+703;02:38:37;Male;Newlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Harvey Narainsamy
+704;02:38:48;Male;Stella AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Peter Thembani
+705;02:38:59;Female;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Asha Dathu
+706;02:39:01;Male;Hilton Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mike Tiston
+707;02:39:22;Female;Kearsney Striders;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Angela Carlson
+708;02:39:44;Female;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Cara Pechey
+709;02:39:55;Female;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Leonie Moxey
+710;02:40:21;Male;uBunye AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Renier Du Toit
+711;02:40:30;Female;Nedbank AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Tracey Abrams
+712;02:40:37;Male;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Immaculate Jwili
+713;02:40:38;Male;Durban AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Warren Barnwell
+714;02:40:42;Female;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Meghan Swan
+715;02:41:08;Male;Newlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ben Jayarajh
+716;02:41:25;Male;Highway AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dumisani Bhengu
+717;02:41:51;Male;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Pregalathan Reddy
+718;02:42:04;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ashil Singh
+719;02:42:06;Female;uMhlathuze AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Wendy O Rielly
+720;02:42:45;Female;Forest Hills Sports Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Joanne Taylor
+721;02:42:50;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Maquet 
+722;02:42:57;Male;Newlands AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Narain Moodley
+723;02:43:00;Female;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Meera Maharaj
+724;02:43:06;Female;Riverside Harriers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Debbie Marshall
+725;02:43:10;Male;Spartan AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Chris Zondi
+726;02:44:05;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rashish Kader
+727;02:44:07;Female;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Michelle Bradfield
+728;02:44:28;Female;Run Walk For Life;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Kerry Johnston
+729;02:44:43;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Barbara Mathandware
+730;02:44:54;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Allen Moodley
+731;02:45:00;Male;Durban AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ron Badal
+732;02:46:02;Male;MARS;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Gareth Britz
+733;02:47:09;Male;MARS;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Dave Atkins
+734;02:47:09;Female;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Telma Jocks
+735;02:48:06;Male;Durban AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mohammed Ali
+736;02:48:15;Male;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Rhynn Lombard
+737;02:48:17;Male;Chatsworth AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Daniel Moodley
+738;02:48:17;Male;Durban AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Roshun Sunker
+739;02:48:19;Male;Durban AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Bharat Vallabh
+740;02:48:43;Male;Durban AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Moss Moss
+741;02:48:53;Female;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Yvonne Hopkinson
+742;02:49:13;Male;UKZN AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;K.p. Singh
+743;02:49:32;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Barati Mogane
+744;02:49:33;Female;Eskom AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Vicki Hicken
+745;02:49:33;Female;Spar;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Thuli Tabudi
+746;02:49:36;Female;Westville AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Debbie Lundin
+747;02:49:57;Female;Natal Carbineers AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Merle Nicholson
+748;02:50:59;Male;Highway AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Xolu Mpela
+749;02:51:20;Male;Stella AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Acari Brunsten
+750;02:51:35;Male;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Jeff Ngcobo
+751;02:51:56;Male;Howick AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Henry Sykes
+752;02:51:57;Female;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sonya Lagane
+753;02:52:43;Female;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Sally Govender
+754;02:53:09;Male;Durban AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Karl Ponnen
+755;02:53:11;Unknown;No Club;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;W.f Cele
+756;02:53:22;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Raj Govender
+757;02:54:55;Male;Woodview AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Ashok Ramraj
+758;02:56:05;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Mvuseni Ngubane
+759;02:56:17;Male;Savages AC;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;George Lucy
+760;02:59:38;Male;Queensburgh Harriers;Dunlop Kearsney Striders Half Marathon;2012-01-22;21.1;Oma Vanramsamy
+1;00:52:00;Male;No Club;The Duke of York;2012-10-28;16;Malibonjowe Dlamini
+2;00:52:04;Male;No Club;The Duke of York;2012-10-28;16;Nhlanhla Tshababa
+3;00:53:12;Male;Boxer Superstore AC;The Duke of York;2012-10-28;16;Thobani Chagwe
+4;00:53:21;Male;Maxed Elite;The Duke of York;2012-10-28;16;Tsepo Shelembe
+5;00:54:53;Male;Phuma KZN;The Duke of York;2012-10-28;16;Philani Mzolo
+6;00:56:26;Male;Phuma KZN;The Duke of York;2012-10-28;16;Nkosikhona Dlamini
+7;00:56:28;Male;No Club;The Duke of York;2012-10-28;16;Lucky Mzobe
+8;00:56:45;Male;Kosibay Athletics Club;The Duke of York;2012-10-28;16;Dumsani Manzini
+9;00:57:27;Male;Phuma KZN;The Duke of York;2012-10-28;16;Paulos Phungula
+10;00:58:25;Male;Gods Golden Acre AC;The Duke of York;2012-10-28;16;Sbonelo Mthembu
+11;00:58:27;Male;Maxed Elite;The Duke of York;2012-10-28;16;Martin Ngwenya
+12;00:59:09;Male;SAPS Ingwenya;The Duke of York;2012-10-28;16;Sithembiso Ntombela
+13;01:00:25;Male;Collegians Harriers;The Duke of York;2012-10-28;16;Harrison Mkhize
+14;01:00:34;Male;Maxed Elite;The Duke of York;2012-10-28;16;Xolani Mthembu
+15;01:01:36;Male;Hulamin AC;The Duke of York;2012-10-28;16;Sanele Khuzwayo
+16;01:01:42;Male;Verulam AC;The Duke of York;2012-10-28;16;Patrick Mkhize
+17;01:01:54;Male;Nedbank AC;The Duke of York;2012-10-28;16;Simon Dlamini
+18;01:02:48;Male;Eskom AC;The Duke of York;2012-10-28;16;Ndumiso Ndlovu
+19;01:03:24;Male;Hammersdale AC;The Duke of York;2012-10-28;16;Ellias Nhlengethwa
+20;01:03:27;Female;Collegians Harriers;The Duke of York;2012-10-28;16;Amanda Bradshaw
+21;01:04:16;Male;Hillcrest Villagers AC;The Duke of York;2012-10-28;16;Jeff Gradwell
+22;01:04:24;Male;No Club;The Duke of York;2012-10-28;16;Velo Dlami
+23;01:04:25;Male;Collegians Harriers;The Duke of York;2012-10-28;16;Skyalapo Senzo
+24;01:04:39;Male;UKZN AC;The Duke of York;2012-10-28;16;George Waswa
+25;01:04:53;Male;Natal Carbineers AC;The Duke of York;2012-10-28;16;Lucas Kruger
+26;01:05:43;Male;No Club;The Duke of York;2012-10-28;16;Siyabonga Tshabalala
+27;01:05:50;Unknown;Phuma KZN;The Duke of York;2012-10-28;16;Enoch Ngubane
+28;01:05:53;Unknown;Eskom AC;The Duke of York;2012-10-28;16;Lesiea Ramatema
+29;01:05:54;Male;Maritzburg City AC;The Duke of York;2012-10-28;16;Johannes Mkize
+30;01:05:57;Female;Boxer Superstore AC;The Duke of York;2012-10-28;16;Debbie Perry
+31;01:06:11;Male;Eskom AC;The Duke of York;2012-10-28;16;Ndumiso Dube
+32;01:06:13;Male;Eskom AC;The Duke of York;2012-10-28;16;Sboniso Ngcobo
+33;01:06:18;Male;KwaMashu AC;The Duke of York;2012-10-28;16;Vukani Shezi
+34;01:06:26;Male;DHS Old Boys;The Duke of York;2012-10-28;16;Alan Sleath
+35;01:06:31;Male;UKZN AC;The Duke of York;2012-10-28;16;Velile Nxumalo
+36;01:07:13;Female;Natal Carbineers AC;The Duke of York;2012-10-28;16;Nonsikelelo Mbambo
+37;01:07:32;Unknown;Gods Golden Acre AC;The Duke of York;2012-10-28;16;Fana Phakathi
+38;01:07:37;Unknown;Hulamin AC;The Duke of York;2012-10-28;16;Sibusiso Mncwabe
+39;01:08:06;Male;No Club;The Duke of York;2012-10-28;16;Kemiso Mosiea
+40;01:08:44;Unknown;Woodview AC;The Duke of York;2012-10-28;16;Phema Luthuli
+41;01:08:48;Unknown;No Club;The Duke of York;2012-10-28;16;Zamokwakhe Khanyile
+42;01:09:05;Unknown;No Club;The Duke of York;2012-10-28;16;Musawenkosi Zuma
+43;01:09:08;Male;Secunda MC;The Duke of York;2012-10-28;16;Mike Edgcumbe
+44;01:09:09;Male;SAPS Ingwenya;The Duke of York;2012-10-28;16;Kwazi Ngubane
+45;01:09:44;Male;Westville AC;The Duke of York;2012-10-28;16;Ken Culverwell
+46;01:09:50;Male;Nedbank AC;The Duke of York;2012-10-28;16;Makhi Macingwade
+47;01:09:56;Female;DHS Old Boys;The Duke of York;2012-10-28;16;Kate Gounaris
+48;01:10:10;Male;Maritzburg City AC;The Duke of York;2012-10-28;16;Johannes Zuma
+49;01:10:11;Male;Maritzburg City AC;The Duke of York;2012-10-28;16;Xolani ? Duma
+50;01:10:15;Female;Estcourt AC;The Duke of York;2012-10-28;16;Clare Kent
+51;01:10:15;Male;DHS Old Boys;The Duke of York;2012-10-28;16;Stu Ferrer
+52;01:10:19;Male;No Club;The Duke of York;2012-10-28;16;Dylan Losev
+53;01:10:32;Unknown;Woodview AC;The Duke of York;2012-10-28;16;Mbongeni Mpawza
+54;01:10:47;Male;DHS Old Boys;The Duke of York;2012-10-28;16;Andrew Wettergreen
+55;01:11:26;Male;Hilton Harriers;The Duke of York;2012-10-28;16;Robin Gardner
+56;01:12:08;Female;No Club;The Duke of York;2012-10-28;16;Ria Mornet
+56;01:12:10;Unknown;SAPS Ingwenya;The Duke of York;2012-10-28;16;Chance Zondi
+57;01:12:20;Male;Maritzburg City AC;The Duke of York;2012-10-28;16;Simon Ndlamwenle
+58;01:12:23;Male;Saints AC;The Duke of York;2012-10-28;16;Dean Riley
+59;01:12:31;Male;SAPS Ingwenya;The Duke of York;2012-10-28;16;Melusi Zondi
+60;01:12:43;Male;Saints AC;The Duke of York;2012-10-28;16;Denham Botha
+61;01:12:53;Male;UKZN AC;The Duke of York;2012-10-28;16;David Banda
+62;01:13:13;Male;Collegians Harriers;The Duke of York;2012-10-28;16;Markus Kaumpek
+63;01:13:44;Male;Howick AC;The Duke of York;2012-10-28;16;Jono Riby-smith
+64;01:13:52;Male;No Club;The Duke of York;2012-10-28;16;Mandla Mngonza
+65;01:13:54;Female;No Club;The Duke of York;2012-10-28;16;Lwazi Nhlangulela
+66;01:13:55;Male;Hulamin AC;The Duke of York;2012-10-28;16;Aniel Ramdat
+67;01:14:16;Male;Eskom AC;The Duke of York;2012-10-28;16;Tumelo Khumalo
+68;01:14:20;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Suzanne Oberholzer
+69;01:14:45;Male;No Club;The Duke of York;2012-10-28;16;Mph???? Mtsi
+70;01:14:53;Male;No Club;The Duke of York;2012-10-28;16;Jonathan Morgan
+71;01:15:00;Male;KwaMashu AC;The Duke of York;2012-10-28;16;Mduduzi Masuku
+72;01:15:25;Male;No Club;The Duke of York;2012-10-28;16;Gareth Edmonds
+73;01:15:34;Unknown;No Club;The Duke of York;2012-10-28;16;Busani Ndlovu
+74;01:15:38;Male;No Club;The Duke of York;2012-10-28;16;Dorian Larter
+75;01:15:46;Female;Collegians Harriers;The Duke of York;2012-10-28;16;Anita De Waal
+76;01:16:23;Male;No Club;The Duke of York;2012-10-28;16;Richard Robberts
+77;01:16:44;Male;DUT;The Duke of York;2012-10-28;16;Craig Dennill
+78;01:16:45;Male;No Club;The Duke of York;2012-10-28;16;M.d Seager
+79;01:17:20;Male;Eskom AC;The Duke of York;2012-10-28;16;Sifiso Zuma
+80;01:17:21;Male;Eskom AC;The Duke of York;2012-10-28;16;Derrick Dladla
+81;01:17:29;Male;Phuma KZN;The Duke of York;2012-10-28;16;Bongi Gcaba
+82;01:17:31;Male;Verulam AC;The Duke of York;2012-10-28;16;Joey Rampali
+83;01:17:46;Unknown;Natal Carbineers AC;The Duke of York;2012-10-28;16;Lynton Kinloch
+84;01:17:56;Male;No Club;The Duke of York;2012-10-28;16;Mluleki Madonda
+85;01:18:01;Male;Maritzburg City AC;The Duke of York;2012-10-28;16;Patrick Zuma
+86;01:18:16;Unknown;Phuma KZN;The Duke of York;2012-10-28;16;Ntobeko Madlala
+87;01:18:20;Male;No Club;The Duke of York;2012-10-28;16;Matthew Edmonds
+88;01:18:36;Male;No Club;The Duke of York;2012-10-28;16;Lwazi Cele
+89;01:18:42;Male;Eskom AC;The Duke of York;2012-10-28;16;Shaun Henman
+90;01:18:46;Female;Hilton Harriers;The Duke of York;2012-10-28;16;Sandy Fismer
+91;01:18:59;Male;Natal Carbineers AC;The Duke of York;2012-10-28;16;Michael Manson
+92;01:19:01;Male;Eskom AC;The Duke of York;2012-10-28;16;David Robertson
+93;01:19:07;Female;Howick AC;The Duke of York;2012-10-28;16;Lauren De Scally
+94;01:19:21;Male;Saints AC;The Duke of York;2012-10-28;16;Mike Cowling
+95;01:19:26;Female;DHS Old Boys;The Duke of York;2012-10-28;16;Jenny Tyers
+96;01:19:33;Male;No Club;The Duke of York;2012-10-28;16;Leonard Robberts
+97;01:19:44;Male;Hulamin AC;The Duke of York;2012-10-28;16;Alex Anthony
+98;01:19:54;Unknown;Phuma KZN;The Duke of York;2012-10-28;16;Mxolisi Mkhize
+99;01:19:58;Male;Eskom AC;The Duke of York;2012-10-28;16;Mark Duncan
+100;01:19:59;Male;Howick AC;The Duke of York;2012-10-28;16;Mark Dicks
+101;01:20:02;Male;Umvoti AC;The Duke of York;2012-10-28;16;Chris Porter
+102;01:20:24;Male;No Club;The Duke of York;2012-10-28;16;Vusumuzi Mseleku
+103;01:20:52;Male;Natal Carbineers AC;The Duke of York;2012-10-28;16;May Sullivan
+104;01:20:54;Male;Eskom AC;The Duke of York;2012-10-28;16;Khayelihle Mendu
+105;01:20:59;Male;Collegians Harriers;The Duke of York;2012-10-28;16;Moses Hlubi
+106;01:21:16;Male;No Club;The Duke of York;2012-10-28;16;Mthokozisi Madlala
+107;01:21:17;Unknown;Maritzburg City AC;The Duke of York;2012-10-28;16;Thabani Khumalo
+108;01:21:30;Male;Collegians Harriers;The Duke of York;2012-10-28;16;Louis Pretorius
+109;01:21:31;Unknown;Saints AC;The Duke of York;2012-10-28;16;Maritza Badenhorst
+110;01:21:35;Female;No Club;The Duke of York;2012-10-28;16;Caroline Ablort-morgan
+111;01:21:38;Unknown;SAPS Ingwenya;The Duke of York;2012-10-28;16;Fani Shezi
+112;01:21:46;Male;Collegians Harriers;The Duke of York;2012-10-28;16;Michael Ralph
+113;01:22:01;Female;No Club;The Duke of York;2012-10-28;16;Amy Marshall
+114;01:22:31;Female;Eskom AC;The Duke of York;2012-10-28;16;Elana Pessenbacher
+115;01:22:39;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Jane Dickinson
+116;01:23:03;Male;Hilton Harriers;The Duke of York;2012-10-28;16;Richard Bowman
+117;01:23:05;Female;No Club;The Duke of York;2012-10-28;16;Timony Siebert
+118;01:23:06;Male;Saints AC;The Duke of York;2012-10-28;16;Graham Stewart-burger
+119;01:23:11;Male;No Club;The Duke of York;2012-10-28;16;Jarid Sherwood
+120;01:23:25;Male;No Club;The Duke of York;2012-10-28;16;Earl Chetty
+121;01:23:28;Unknown;No Club;The Duke of York;2012-10-28;16;Laura Wakeford
+122;01:23:29;Male;No Club;The Duke of York;2012-10-28;16;Bevyn Morgan
+123;01:23:30;Male;SAPS Ingwenya;The Duke of York;2012-10-28;16;M.r. Mchunu
+124;01:23:34;Female;No Club;The Duke of York;2012-10-28;16;Natalie Dutton
+125;01:23:35;Unknown;Verulam AC;The Duke of York;2012-10-28;16;Sarial Rajah
+126;01:23:45;Unknown;No Club;The Duke of York;2012-10-28;16;Mohamed Noorgrat
+127;01:23:45;Unknown;No Club;The Duke of York;2012-10-28;16;? ?
+128;01:23:50;Male;Oasis Crescent Sporting Club;The Duke of York;2012-10-28;16;Prakash Ghela
+129;01:23:53;Male;Hilton Harriers;The Duke of York;2012-10-28;16;Mark Harrison
+130;01:23:57;Female;No Club;The Duke of York;2012-10-28;16;Lynelle Harrison
+131;01:24:01;Female;Phuma KZN;The Duke of York;2012-10-28;16;Mary-anne Taylor
+132;01:24:29;Female;Hilton Harriers;The Duke of York;2012-10-28;16;Gill Bure
+133;01:24:36;Unknown;PDAC;The Duke of York;2012-10-28;16;Frederick Makhanya
+134;01:24:53;Female;No Club;The Duke of York;2012-10-28;16;????? Skead
+135;01:24:59;Male;Eskom AC;The Duke of York;2012-10-28;16;Gary Marquis-jones
+136;01:25:28;Female;No Club;The Duke of York;2012-10-28;16;Kim ???
+137;01:25:54;Male;Hilton Harriers;The Duke of York;2012-10-28;16;John Coffer
+138;01:25:56;Female;Natal Carbineers AC;The Duke of York;2012-10-28;16;Catheryn Meyer
+139;01:26:06;Male;Howick AC;The Duke of York;2012-10-28;16;Moray Calder
+140;01:26:21;Female;Saints AC;The Duke of York;2012-10-28;16;Monique Van Deventer
+141;01:26:50;Female;No Club;The Duke of York;2012-10-28;16;Janice Whitelaw
+142;01:27:02;Male;Alex Wasps AC;The Duke of York;2012-10-28;16;Benfield Zulu
+143;01:27:03;Male;Maritzburg City AC;The Duke of York;2012-10-28;16;Eric Zwane
+144;01:27:11;Male;Oasis Crescent Sporting Club;The Duke of York;2012-10-28;16;Nalele Cassimjee
+145;01:27:12;Male;No Club;The Duke of York;2012-10-28;16;Charl Pitout
+146;01:27:13;Female;No Club;The Duke of York;2012-10-28;16;C Nel
+147;01:27:40;Female;Stella AC;The Duke of York;2012-10-28;16;Pam Rasmusson
+148;01:27:55;Female;No Club;The Duke of York;2012-10-28;16;Sarah-lynn Williams
+149;01:28:02;Male;Howick AC;The Duke of York;2012-10-28;16;Nigel Kidgell
+150;01:28:17;Unknown;No Club;The Duke of York;2012-10-28;16;Mbuso Ndlovu
+151;01:28:24;Female;Eskom AC;The Duke of York;2012-10-28;16;Joanne Piper
+152;01:28:25;Female;Hillcrest Villagers AC;The Duke of York;2012-10-28;16;B Szues
+153;01:28:26;Male;Phuma KZN;The Duke of York;2012-10-28;16;Yamkela Vava
+154;01:28:39;Unknown;No Club;The Duke of York;2012-10-28;16;??? ???
+155;01:28:39;Male;No Club;The Duke of York;2012-10-28;16;James Quibell
+156;01:28:56;Male;DHS Old Boys;The Duke of York;2012-10-28;16;Paul Venter
+157;01:29:21;Male;South Coast Striders;The Duke of York;2012-10-28;16;Donovan Rothman
+158;01:29:38;Female;SAPS Ingwenya;The Duke of York;2012-10-28;16;Thandi Madlala
+159;01:29:38;Female;No Club;The Duke of York;2012-10-28;16;Alice Findlay
+160;01:29:43;Female;Jeppe Quondam AC;The Duke of York;2012-10-28;16;Lynda Lees
+161;01:30:00;Male;No Club;The Duke of York;2012-10-28;16;Warren Martin
+162;01:30:01;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Tanya Erasmus
+163;01:30:06;Unknown;No Club;The Duke of York;2012-10-28;16;Sheldon Williamson
+164;01:30:29;Male;Eskom AC;The Duke of York;2012-10-28;16;Andre Hitge
+165;01:30:40;Female;No Club;The Duke of York;2012-10-28;16;Helen Scott
+166;01:30:42;Male;No Club;The Duke of York;2012-10-28;16;Cuan Mckinley
+167;01:30:43;Female;Eskom AC;The Duke of York;2012-10-28;16;Chantall Randall
+168;01:31:11;Male;Orion AC;The Duke of York;2012-10-28;16;Ramlall Jackpersadh
+169;01:31:15;Female;Boxer Superstore AC;The Duke of York;2012-10-28;16;Wendy Mpanza
+170;01:31:19;Female;No Club;The Duke of York;2012-10-28;16;Bronwyn Van Dyk
+171;01:31:20;Male;Natal Carbineers AC;The Duke of York;2012-10-28;16;Shane Crampton
+172;01:31:20;Male;Eskom AC;The Duke of York;2012-10-28;16;Werner Du Preez
+173;01:31:22;Male;SAPS Ingwenya;The Duke of York;2012-10-28;16;Mervin Kanniah
+174;01:31:34;Unknown;No Club;The Duke of York;2012-10-28;16;Fred Lochner
+175;01:31:46;Male;No Club;The Duke of York;2012-10-28;16;Sikhumbuzo Mbizeni
+176;01:31:49;Female;Natal Carbineers AC;The Duke of York;2012-10-28;16;Sandy Govender
+177;01:31:50;Male;Saints AC;The Duke of York;2012-10-28;16;Peter Tennant
+178;01:31:59;Female;Saints AC;The Duke of York;2012-10-28;16;Lauren Corcoran
+179;01:32:10;Female;Westville AC;The Duke of York;2012-10-28;16;A Chadwick
+180;01:32:18;Female;Chiltern AC;The Duke of York;2012-10-28;16;Claudia Stencel
+181;01:32:24;Female;Stella AC;The Duke of York;2012-10-28;16;Judy Grobbler
+182;01:32:32;Male;Eskom AC;The Duke of York;2012-10-28;16;Jannie Herbst
+183;01:32:52;Male;No Club;The Duke of York;2012-10-28;16;Nkosiyakhe Dlamini
+184;01:32:59;Female;No Club;The Duke of York;2012-10-28;16;Kerryn Moolenschote
+185;01:33:20;Male;SAPS Ingwenya;The Duke of York;2012-10-28;16;Mlungisi Ngubane
+186;01:33:23;Male;No Club;The Duke of York;2012-10-28;16;Sheldon Bosch
+187;01:33:24;Male;No Club;The Duke of York;2012-10-28;16;Zane Mccullough
+188;01:33:28;Male;Run Walk For Life;The Duke of York;2012-10-28;16;Makos Nair
+189;01:33:28;Female;Collegians Harriers;The Duke of York;2012-10-28;16;Lucy Du Plessis
+190;01:33:38;Female;Irene Road Running Club;The Duke of York;2012-10-28;16;Juanita Venter
+191;01:33:44;Female;No Club;The Duke of York;2012-10-28;16;Ronel Du Preez
+192;01:33:44;Female;Hillcrest Villagers AC;The Duke of York;2012-10-28;16;Donna Claire Edmonds
+193;01:33:45;Female;No Club;The Duke of York;2012-10-28;16;Kelly Dicks
+194;01:33:47;Female;No Club;The Duke of York;2012-10-28;16;Jodi Kendall
+195;01:33:58;Female;No Club;The Duke of York;2012-10-28;16;Antonette Kruger
+196;01:34:45;Male;No Club;The Duke of York;2012-10-28;16;Sibongiseni Chonco
+197;01:35:01;Female;No Club;The Duke of York;2012-10-28;16;Jessica Goebel
+198;01:35:02;Unknown;No Club;The Duke of York;2012-10-28;16;?? ??
+199;01:35:11;Male;Hilton Harriers;The Duke of York;2012-10-28;16;Dane Fernandes
+200;01:35:14;Female;No Club;The Duke of York;2012-10-28;16;Magda Coetzer
+201;01:35:34;Male;No Club;The Duke of York;2012-10-28;16;Jan Coetzer
+202;01:35:35;Male;No Club;The Duke of York;2012-10-28;16;Mpilo Mhlongo
+203;01:35:37;Male;Wanderers AC;The Duke of York;2012-10-28;16;Rod Matcham
+204;01:35:38;Female;Natal Carbineers AC;The Duke of York;2012-10-28;16;Denise Osborne
+205;01:35:47;Female;Natal Carbineers AC;The Duke of York;2012-10-28;16;Barbara Little
+206;01:35:48;Male;No Club;The Duke of York;2012-10-28;16;Brian Dutton
+207;01:35:49;Male;No Club;The Duke of York;2012-10-28;16;Thami Ngcobo
+208;01:36:01;Male;Collegians Harriers;The Duke of York;2012-10-28;16;Laurence Trotter
+209;01:36:04;Male;Collegians Harriers;The Duke of York;2012-10-28;16;Mark Backhouse
+210;01:36:06;Female;Collegians Harriers;The Duke of York;2012-10-28;16;Alison Bradbury
+211;01:36:10;Female;No Club;The Duke of York;2012-10-28;16;Apiwe Gaga
+212;01:36:11;Female;Estcourt AC;The Duke of York;2012-10-28;16;Maureen Adams
+213;01:36:13;Male;No Club;The Duke of York;2012-10-28;16;Wynand Lens
+214;01:36:15;Male;Forest Hills Sports Club;The Duke of York;2012-10-28;16;Rick Wheeler
+215;01:36:19;Female;Eskom AC;The Duke of York;2012-10-28;16;Lungile Khuzwayo
+216;01:36:22;Male;Highway AC;The Duke of York;2012-10-28;16;Phungula Sithembiso
+217;01:36:30;Male;Natal Carbineers AC;The Duke of York;2012-10-28;16;Joe Nicholson
+218;01:36:36;Male;No Club;The Duke of York;2012-10-28;16;Matthew Kerry
+219;01:36:52;Male;Howick AC;The Duke of York;2012-10-28;16;S Addy
+220;01:36:52;Female;Chiltern AC;The Duke of York;2012-10-28;16;Maureen Parry
+221;01:37:05;Male;No Club;The Duke of York;2012-10-28;16;Lynden Holder
+222;01:37:13;Male;Saints AC;The Duke of York;2012-10-28;16;Anthony Evans
+223;01:37:43;Male;MARS;The Duke of York;2012-10-28;16;Derek Brown
+224;01:37:47;Female;No Club;The Duke of York;2012-10-28;16;Meena Gangaram
+225;01:37:50;Female;No Club;The Duke of York;2012-10-28;16;Julie Mackay
+226;01:37:59;Male;Natal Carbineers AC;The Duke of York;2012-10-28;16;Barry Price
+227;01:38:00;Male;Run Walk For Life;The Duke of York;2012-10-28;16;Allan Angus
+228;01:38:01;Male;Natal Carbineers AC;The Duke of York;2012-10-28;16;Bonga Mkhize
+229;01:38:20;Female;No Club;The Duke of York;2012-10-28;16;Ashleigh Jackson
+230;01:38:21;Male;No Club;The Duke of York;2012-10-28;16;R Bayat
+231;01:38:30;Female;No Club;The Duke of York;2012-10-28;16;Laurelle Jackson
+232;01:38:32;Male;No Club;The Duke of York;2012-10-28;16;Robert Earl
+233;01:38:32;Female;Eskom AC;The Duke of York;2012-10-28;16;Irma Stephens
+234;01:38:37;Male;No Club;The Duke of York;2012-10-28;16;Musa Colvelle
+235;01:39:14;Male;No Club;The Duke of York;2012-10-28;16;Mandlenkosi Hlongwane
+236;01:39:16;Female;No Club;The Duke of York;2012-10-28;16;Alison Kerr
+237;01:39:23;Unknown;Oasis Crescent Sporting Club;The Duke of York;2012-10-28;16;Abdul Khan
+238;01:39:23;Male;No Club;The Duke of York;2012-10-28;16;Sphe Phungula
+239;01:39:24;Female;Phuma KZN;The Duke of York;2012-10-28;16;Priscilla Madlala
+240;01:39:34;Female;No Club;The Duke of York;2012-10-28;16;Lisa Martin
+241;01:39:35;Female;No Club;The Duke of York;2012-10-28;16;Melanie Nortje
+242;01:39:36;Male;No Club;The Duke of York;2012-10-28;16;Quinton Nortje
+243;01:39:38;Female;No Club;The Duke of York;2012-10-28;16;Vanessa Hounsell
+244;01:39:38;Male;No Club;The Duke of York;2012-10-28;16;Neil Robinson
+245;01:39:53;Female;No Club;The Duke of York;2012-10-28;16;Lynn-rae Van Den Berg
+246;01:39:54;Female;No Club;The Duke of York;2012-10-28;16;Amy Botha
+247;01:40:06;Female;Bluff AC;The Duke of York;2012-10-28;16;Lynda White
+248;01:40:06;Male;No Club;The Duke of York;2012-10-28;16;Grant Rudling
+249;01:40:12;Male;Eskom AC;The Duke of York;2012-10-28;16;Byrone Hoskins
+250;01:40:29;Unknown;No Club;The Duke of York;2012-10-28;16;Mohamed Vanker
+251;01:40:40;Female;Natal Carbineers AC;The Duke of York;2012-10-28;16;Shirley Naidoo
+252;01:40:51;Female;Hilton Harriers;The Duke of York;2012-10-28;16;Daphne Thomson
+253;01:40:58;Female;Westville AC;The Duke of York;2012-10-28;16;Debbie Lundin
+254;01:41:02;Unknown;Ntunjambili AC;The Duke of York;2012-10-28;16;Naphtal Nxumalo
+255;01:41:18;Male;Phuma KZN;The Duke of York;2012-10-28;16;Ndlovu E S Z
+256;01:41:19;Male;No Club;The Duke of York;2012-10-28;16;Vusi Mkhulise
+257;01:41:21;Male;No Club;The Duke of York;2012-10-28;16;Miguel Alvarez
+258;01:41:21;Female;Howick AC;The Duke of York;2012-10-28;16;Monica Tratscink
+259;01:41:26;Female;Collegians Harriers;The Duke of York;2012-10-28;16;Margaret Birkett
+260;01:42:06;Male;No Club;The Duke of York;2012-10-28;16;Darryl Rice
+261;01:42:54;Female;No Club;The Duke of York;2012-10-28;16;Hanri Bezuidenhout
+262;01:42:54;Unknown;Hulamin AC;The Duke of York;2012-10-28;16;Roxanne Stegen
+263;01:42:54;Female;No Club;The Duke of York;2012-10-28;16;Elizabeth Burczak
+264;01:43:20;Unknown;Howick AC;The Duke of York;2012-10-28;16;S Davis
+265;01:43:22;Female;Natal Carbineers AC;The Duke of York;2012-10-28;16;Sue Kirkman
+266;01:43:23;Female;Natal Carbineers AC;The Duke of York;2012-10-28;16;Trish Botton
+267;01:43:28;Male;Natal Carbineers AC;The Duke of York;2012-10-28;16;Erram Sullivan
+268;01:43:37;Unknown;Spartan AC;The Duke of York;2012-10-28;16;Rashika Singh
+269;01:43:41;Female;Eskom AC;The Duke of York;2012-10-28;16;Sally Seager
+270;01:43:42;Male;Eskom AC;The Duke of York;2012-10-28;16;Marc Brooker
+271;01:44:09;Male;Phoenix Villagers;The Duke of York;2012-10-28;16;Shank Ramraj
+272;01:44:25;Female;Natal Carbineers AC;The Duke of York;2012-10-28;16;Phindi Mthembu
+273;01:44:46;Unknown;Ethekwini;The Duke of York;2012-10-28;16;Lungelo Dlomo
+274;01:45:00;Male;Highway AC;The Duke of York;2012-10-28;16;Vuli Nxumalo
+275;01:45:06;Female;Eskom AC;The Duke of York;2012-10-28;16;Immaculate Jwili
+276;01:45:09;Female;Saints AC;The Duke of York;2012-10-28;16;Gail Starr
+277;01:45:12;Female;No Club;The Duke of York;2012-10-28;16;Joanne Mueller
+278;01:45:32;Unknown;South Coast Striders;The Duke of York;2012-10-28;16;Huggy Mcleary
+279;01:45:33;Female;No Club;The Duke of York;2012-10-28;16;Nomvula Ntuli
+280;01:45:43;Unknown;Eskom AC;The Duke of York;2012-10-28;16;Asha Pathoo
+281;01:45:46;Female;Eskom AC;The Duke of York;2012-10-28;16;Elsa Swart
+282;01:45:47;Female;Phuma KZN;The Duke of York;2012-10-28;16;Nomusa Ngcobo
+283;01:45:48;Female;Spartan AC;The Duke of York;2012-10-28;16;Olive Anthony
+284;01:45:54;Female;Eskom AC;The Duke of York;2012-10-28;16;Bronwyn Masson
+285;01:46:07;Female;No Club;The Duke of York;2012-10-28;16;Nelly Ngcobo
+286;01:46:08;Female;Alex Wasps AC;The Duke of York;2012-10-28;16;Jane Bentley
+287;01:46:28;Female;No Club;The Duke of York;2012-10-28;16;Robyn Fincham
+288;01:46:29;Female;Eskom AC;The Duke of York;2012-10-28;16;Rhoda Major
+289;01:46:35;Female;No Club;The Duke of York;2012-10-28;16;Erica Jacobus
+290;01:46:37;Male;No Club;The Duke of York;2012-10-28;16;Francis Mofukeng
+291;01:46:45;Female;No Club;The Duke of York;2012-10-28;16;Mpume Mtambo
+292;01:46:52;Female;Eskom AC;The Duke of York;2012-10-28;16;Glynis Driemeyer
+293;01:46:56;Female;South Coast Striders;The Duke of York;2012-10-28;16;Kelly Rothman
+294;01:46:59;Female;No Club;The Duke of York;2012-10-28;16;Catherine Dixon
+295;01:47:05;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Sandra Senekal
+296;01:47:05;Male;No Club;The Duke of York;2012-10-28;16;Ebrahim Kajee
+297;01:47:09;Unknown;UKZN AC;The Duke of York;2012-10-28;16;Riuna Bzkzia
+298;01:47:09;Female;No Club;The Duke of York;2012-10-28;16;Renate Hanegraaf
+299;01:47:33;Female;No Club;The Duke of York;2012-10-28;16;Kirsten Queck
+300;01:47:40;Female;Verulam AC;The Duke of York;2012-10-28;16;Gladness Mkhize
+301;01:47:47;Female;Eskom AC;The Duke of York;2012-10-28;16;Karen Short
+302;01:47:58;Female;Eskom AC;The Duke of York;2012-10-28;16;Linda Arbuthnot
+303;01:48:02;Female;Highway AC;The Duke of York;2012-10-28;16;Busisiwe Ngubo
+304;01:48:08;Male;SAPS Striders;The Duke of York;2012-10-28;16;M Mthembu
+305;01:48:17;Female;No Club;The Duke of York;2012-10-28;16;Dudu ???
+306;01:49:01;Male;Run Walk For Life;The Duke of York;2012-10-28;16;Gonaseelan Govender
+307;01:49:04;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Linda Payne
+308;01:49:04;Unknown;Maritzburg City AC;The Duke of York;2012-10-28;16;P.r. Sibisi
+309;01:49:09;Female;Natal Carbineers AC;The Duke of York;2012-10-28;16;Letitia Shaw
+310;01:49:12;Unknown;No Club;The Duke of York;2012-10-28;16;Nontsikelelo Lesetia
+311;01:49:33;Female;No Club;The Duke of York;2012-10-28;16;Mercia Buys
+312;01:49:42;Male;No Club;The Duke of York;2012-10-28;16;Stuart Mcarthur
+313;01:49:58;Female;No Club;The Duke of York;2012-10-28;16;Tarryn 
+314;01:50:01;Female;No Club;The Duke of York;2012-10-28;16;Lindiwe Mathon
+315;01:50:05;Female;Hilton Harriers;The Duke of York;2012-10-28;16;Cheryl Morford
+316;01:50:09;Unknown;Correctional Services AC;The Duke of York;2012-10-28;16;Nhlanhlo Xaba
+317;01:50:09;Female;Eskom AC;The Duke of York;2012-10-28;16;Alex Joyner
+318;01:50:40;Unknown;Eskom AC;The Duke of York;2012-10-28;16;Stephanie Joyner
+319;01:50:52;Male;Natal Carbineers AC;The Duke of York;2012-10-28;16;Paul Ashworth
+320;01:50:55;Female;Natal Carbineers AC;The Duke of York;2012-10-28;16;Merle Nicholson
+321;01:51:05;Female;Natal Carbineers AC;The Duke of York;2012-10-28;16;Judy Gous
+322;01:51:14;Male;No Club;The Duke of York;2012-10-28;16;Neville Draai
+323;01:51:16;Female;No Club;The Duke of York;2012-10-28;16;Tracy ???
+324;01:51:23;Male;No Club;The Duke of York;2012-10-28;16;William Mcalister
+325;01:51:43;Male;SAPS Ingwenya;The Duke of York;2012-10-28;16;Sikhumbuzo Phungula
+326;01:51:51;Male;No Club;The Duke of York;2012-10-28;16;Olwyn Mcalister
+327;01:52:01;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Carol Brooking
+328;01:52:03;Male;Westville AC;The Duke of York;2012-10-28;16;Stuart Cox
+329;01:52:05;Female;No Club;The Duke of York;2012-10-28;16;Rachel Kerry
+330;01:52:07;Female;No Club;The Duke of York;2012-10-28;16;D Dorning
+331;01:52:09;Female;No Club;The Duke of York;2012-10-28;16;Litsepiso Matthews
+332;01:52:14;Male;Orion AC;The Duke of York;2012-10-28;16;Chayan Singh
+333;01:52:40;Male;Natal Carbineers AC;The Duke of York;2012-10-28;16;Ron Kitchen
+334;01:52:44;Female;No Club;The Duke of York;2012-10-28;16;Mary Rice
+335;01:52:45;Male;No Club;The Duke of York;2012-10-28;16;Craig Jennings
+336;01:53:08;Female;No Club;The Duke of York;2012-10-28;16;Jennifer Garnett
+337;01:53:09;Female;Eskom AC;The Duke of York;2012-10-28;16;Leslie Van Romburgh
+338;01:53:41;Male;Natal Carbineers AC;The Duke of York;2012-10-28;16;Songe Chisi
+339;01:53:44;Female;No Club;The Duke of York;2012-10-28;16;Christin Hunter
+340;01:53:45;Female;Collegians Harriers;The Duke of York;2012-10-28;16;Jill Willows
+341;01:54:04;Female;No Club;The Duke of York;2012-10-28;16;??? Ford
+342;01:54:17;Male;Orion AC;The Duke of York;2012-10-28;16;Dhanlall Ballilall
+343;01:54:18;Female;No Club;The Duke of York;2012-10-28;16;Chante Van Wyhe
+344;01:54:29;Male;No Club;The Duke of York;2012-10-28;16;Brian Birch
+345;01:54:33;Male;No Club;The Duke of York;2012-10-28;16;Gary Botha
+346;01:54:41;Unknown;Phuma KZN;The Duke of York;2012-10-28;16;Mabongi Mthethwa
+347;01:54:54;Male;Eskom AC;The Duke of York;2012-10-28;16;Thomas Hagan
+348;01:54:58;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Lieza Larter
+349;01:55:03;Male;Stella AC;The Duke of York;2012-10-28;16;Mike Brown
+350;01:55:25;Female;No Club;The Duke of York;2012-10-28;16;Yolande Marriott
+351;01:55:34;Male;Run Walk For Life;The Duke of York;2012-10-28;16;Nigel Harcourt
+352;01:55:59;Male;Orion AC;The Duke of York;2012-10-28;16;Rajainlall Dhanlall
+353;01:56:16;Female;Stella AC;The Duke of York;2012-10-28;16;Sylvia Law
+354;01:57:27;Female;No Club;The Duke of York;2012-10-28;16;Dawn Cassere
+355;01:58:27;Female;No Club;The Duke of York;2012-10-28;16;Sithembile Ndlela
+356;01:58:27;Male;No Club;The Duke of York;2012-10-28;16;Nokubonga Dlomo
+357;01:59:08;Unknown;Run Walk For Life;The Duke of York;2012-10-28;16;Brian Rowney
+358;01:59:40;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Jackie Van De Venter
+359;02:00:25;Female;Eskom AC;The Duke of York;2012-10-28;16;Belinda Hope
+360;02:00:27;Male;Eskom AC;The Duke of York;2012-10-28;16;Frank Hope
+361;02:00:36;Female;No Club;The Duke of York;2012-10-28;16;Min Mackenzie
+362;02:00:37;Female;No Club;The Duke of York;2012-10-28;16;Carey Black
+363;02:01:01;Female;UKZN AC;The Duke of York;2012-10-28;16;Louise Janse Van Rensburg
+364;02:01:14;Female;Collegians Harriers;The Duke of York;2012-10-28;16;Busisiwe Xulu
+365;02:01:20;Female;No Club;The Duke of York;2012-10-28;16;Kyle Mckinley
+366;02:01:22;Male;No Club;The Duke of York;2012-10-28;16;Brendon Geyser
+367;02:01:29;Unknown;No Club;The Duke of York;2012-10-28;16;Nomana Purity Mqokozo
+368;02:01:40;Female;No Club;The Duke of York;2012-10-28;16;Thato Mathews
+369;02:01:46;Female;Wyebank AC;The Duke of York;2012-10-28;16;Thokozani Pewa
+370;02:01:52;Male;Highway AC;The Duke of York;2012-10-28;16;Julian Mckenzie
+371;02:02:18;Male;Eskom AC;The Duke of York;2012-10-28;16;D Stewart
+372;02:02:18;Female;Queensburgh Harriers;The Duke of York;2012-10-28;16;Yvonne Hopkinson
+373;02:02:48;Male;Woodview AC;The Duke of York;2012-10-28;16;Ras Govender
+374;02:03:17;Female;Woodview AC;The Duke of York;2012-10-28;16;Anisha Behari
+375;02:03:21;Female;No Club;The Duke of York;2012-10-28;16;Charity Mugivhi
+376;02:03:22;Female;No Club;The Duke of York;2012-10-28;16;Nelisiwe Khuzwayo
+377;02:03:42;Female;Eskom AC;The Duke of York;2012-10-28;16;Kate Kirkwood
+378;02:05:03;Female;No Club;The Duke of York;2012-10-28;16;Ingeborg Von Luttichou
+379;02:05:52;Male;Orion AC;The Duke of York;2012-10-28;16;??? Naidu
+380;02:06:25;Male;No Club;The Duke of York;2012-10-28;16;Clive Clifton-parkes
+381;02:06:57;Female;Richmond AC;The Duke of York;2012-10-28;16;Sheila Pellew
+382;02:06:58;Male;Richmond AC;The Duke of York;2012-10-28;16;William Pellew
+383;02:07:20;Female;Highway AC;The Duke of York;2012-10-28;16;Leigh Ann Mckenzie
+384;02:07:22;Male;Queensburgh Harriers;The Duke of York;2012-10-28;16;Hoppy Hopkinson
+385;02:08:01;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Zanele Mpofu
+386;02:08:22;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Nicole Pitout
+387;02:08:58;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Joanna Adu-boahen
+388;02:09:03;Female;No Club;The Duke of York;2012-10-28;16;Asanda Ncamani
+389;02:09:03;Female;Eskom AC;The Duke of York;2012-10-28;16;Vicki Hicken
+390;02:10:16;Female;No Club;The Duke of York;2012-10-28;16;Carmen Harper
+391;02:10:27;Female;Eskom AC;The Duke of York;2012-10-28;16;Gugu Thusi
+392;02:11:07;Female;No Club;The Duke of York;2012-10-28;16;M D Nyandeni
+393;02:11:19;Female;Spartan AC;The Duke of York;2012-10-28;16;Felicity-ann Harper
+394;02:11:21;Female;No Club;The Duke of York;2012-10-28;16;Dawne Williams
+395;02:11:22;Male;No Club;The Duke of York;2012-10-28;16;Les Williams
+396;02:11:27;Unknown;No Club;The Duke of York;2012-10-28;16;Kelly Van Rooyen
+397;02:11:27;Unknown;No Club;The Duke of York;2012-10-28;16;Jacques Van Rooyen
+398;02:12:00;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Kate Hart
+399;02:12:37;Male;Collegians Harriers;The Duke of York;2012-10-28;16;Alan Buske
+400;02:12:42;Male;No Club;The Duke of York;2012-10-28;16;Naum Mahabeer
+401;02:12:56;Female;No Club;The Duke of York;2012-10-28;16;Safura Mahabeer
+402;02:14:39;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Wendy Chatterton
+403;02:15:26;Male;Nedbank AC;The Duke of York;2012-10-28;16;Kamanth Bharath
+404;02:15:27;Unknown;No Club;The Duke of York;2012-10-28;16;Babalwa Msane
+405;02:15:42;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Vuvu Masindi
+406;02:15:46;Female;No Club;The Duke of York;2012-10-28;16;Sandra Barry
+407;02:16:12;Female;No Club;The Duke of York;2012-10-28;16;Zandile Mvelase
+408;02:16:34;Male;Queensburgh Harriers;The Duke of York;2012-10-28;16;Phil Tomlinson
+409;02:16:34;Female;No Club;The Duke of York;2012-10-28;16;Suraya Sheik Hoosen
+410;02:16:36;Female;No Club;The Duke of York;2012-10-28;16;Jolene Underwood
+411;02:16:36;Male;No Club;The Duke of York;2012-10-28;16;Stephen Underwood
+412;02:16:45;Female;No Club;The Duke of York;2012-10-28;16;Thobile Sithole
+413;02:16:47;Female;No Club;The Duke of York;2012-10-28;16;Ntombifuthi Ghibase
+414;02:19:07;Female;Woodview AC;The Duke of York;2012-10-28;16;Sally Govender
+415;02:19:46;Male;Woodview AC;The Duke of York;2012-10-28;16;R Ramraj
+416;02:19:50;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Sharon Houghting
+417;02:19:55;Unknown;No Club;The Duke of York;2012-10-28;16;Nonhlanhla Buthelezi
+418;02:20:20;Female;No Club;The Duke of York;2012-10-28;16;Sharlene Hemero
+419;02:20:31;Female;No Club;The Duke of York;2012-10-28;16;Caren Gouws
+420;02:20:35;Female;No Club;The Duke of York;2012-10-28;16;Khethiwe Dlamuka
+421;02:20:50;Female;Phuma KZN;The Duke of York;2012-10-28;16;Nanako Pooe
+422;02:20:58;Female;Orion AC;The Duke of York;2012-10-28;16;Meeradevi Singh
+423;02:22:04;Female;Natal Carbineers AC;The Duke of York;2012-10-28;16;Gill Burnett
+424;02:22:05;Female;No Club;The Duke of York;2012-10-28;16;Debbie Burt
+425;02:22:05;Unknown;Highway AC;The Duke of York;2012-10-28;16;Kathy Holland
+426;02:24:02;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Joan Meyer
+427;02:24:02;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Sharon Bessell
+428;02:24:03;Female;No Club;The Duke of York;2012-10-28;16;Geraldene Nomathami
+429;02:25:56;Female;No Club;The Duke of York;2012-10-28;16;Iris De Lange
+430;02:25:57;Male;No Club;The Duke of York;2012-10-28;16;E Shi???
+431;02:25:57;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Susan Ponsford
+432;02:25:58;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Janie Erasmus
+433;02:26:03;Female;No Club;The Duke of York;2012-10-28;16;Pamela Shuttleworth
+434;02:26:29;Female;No Club;The Duke of York;2012-10-28;16;Daryll ????
+435;02:26:30;Male;Verulam AC;The Duke of York;2012-10-28;16;Veez Singh
+436;02:26:56;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Anicete Barnard
+437;02:29:59;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Shareen Scott
+438;02:30:04;Female;No Club;The Duke of York;2012-10-28;16;Jennifer Mackenzie
+439;02:31:41;Male;No Club;The Duke of York;2012-10-28;16;M Cassimjee
+440;02:31:41;Male;No Club;The Duke of York;2012-10-28;16;Raj??? Seeparsad
+441;02:32:01;Female;Orion AC;The Duke of York;2012-10-28;16;Sithara Jackpersadh
+442;02:33:02;Female;Queensburgh Harriers;The Duke of York;2012-10-28;16;Corne Spies
+443;02:34:43;Unknown;Run Walk For Life;The Duke of York;2012-10-28;16;Patti Reddy
+444;02:37:00;Female;No Club;The Duke of York;2012-10-28;16;Tanura Maharaj
+445;02:44:05;Unknown;Phuma KZN;The Duke of York;2012-10-28;16;Joyce Ndlovu
+446;02:44:07;Female;Woodview AC;The Duke of York;2012-10-28;16;Lali Govindasamy
+447;02:44:45;Female;Woodview AC;The Duke of York;2012-10-28;16;Premit??? Ramraj
+448;02:44:46;Male;No Club;The Duke of York;2012-10-28;16;???? Sunny
+449;02:45:26;Male;No Club;The Duke of York;2012-10-28;16;Jither Seeparsad
+450;02:46:16;Female;No Club;The Duke of York;2012-10-28;16;Megha Josh
+451;02:47:09;Male;Woodview AC;The Duke of York;2012-10-28;16;Jay Behari
+452;02:51:56;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Yvonne Angus
+453;02:51:57;Female;Run Walk For Life;The Duke of York;2012-10-28;16;Stacey Hardman
+454;02:57:38;Unknown;No Club;The Duke of York;2012-10-28;16;Mahomed Amin Badat
+455;02:57:46;Unknown;No Club;The Duke of York;2012-10-28;16;Narish Maharaj
+1;00:30:20;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Simphiwe Zulu
+2;00:30:41;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sphamandla Nyemba
+3;00:31:37;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sandile Nene
+4;00:32:04;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Thabani Shoyisa
+5;00:32:37;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Halalisani Mdletshe
+6;00:32:53;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Lethukuthula Mbatha
+7;00:33:31;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Patrick Nkosi
+8;00:33:36;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Linda Jele
+9;00:35:02;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Siyabonga Tembe
+10;00:35:33;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Njabulo Mdletshe
+11;00:35:38;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Jabulani Mkhwanazi
+12;00:35:55;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Siboniso Myeni
+13;00:36:05;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Siyabonga Myeni
+14;00:36:10;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sicelo Ndawonde
+15;00:36:23;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Nhlanhla Nxumalo
+16;00:37:23;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sboniso Madlopha
+17;00:37:23;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Gimo Nhaca
+18;00:37:31;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Mandisa Zulu
+19;00:37:46;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Nhlanzeko Luthuli
+20;00:38:21;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sifiso Emmanuel Zungu
+21;00:39:02;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sakhile Nzuza
+22;00:39:25;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Siyabonga Mngomezulu
+23;00:39:31;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Nokuthula Ntshangase
+24;00:39:33;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Lungisani Mthemthwu
+25;00:41:01;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Nqobani Marvin Makhuso
+26;00:41:04;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sphiwe Nkwamling
+27;00:42:27;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Thuthukani Mhlongo
+28;00:42:46;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Stanley Mkhwanazi
+29;00:42:56;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sandiso Mthenjana
+30;00:43:34;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Zanele Ngobese
+31;00:45:33;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Thubelihle Zikhali
+32;00:45:40;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sanelisiwe Mkhwanazi
+33;00:45:59;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Syanda Dube
+34;00:46:37;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Simethembe Shoba
+35;00:46:48;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Penelope Biyela
+36;00:47:22;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Qiniso Zulu
+37;00:47:27;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Thulani Tekana
+38;00:48:07;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Timothy Mvula
+39;00:48:11;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sbusiso Sithole
+40;00:48:55;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Mthobisi Mthembu
+41;00:48:56;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Malusi Dlamini
+42;00:48:58;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Zethule Mncwango
+43;00:49:59;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Njabulo Sibanyoni
+44;00:50:00;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Nosipho Myeni
+45;00:50:45;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Zipho Ngema
+46;00:50:50;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Jones  Ngubane
+47;00:50:52;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Pretty Nhleko
+48;00:51:09;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Mandla Khumalo
+49;00:51:14;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Siboniso Buthelezi
+50;00:51:16;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Lindani Xaba
+51;00:52:13;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Makhosi Mdletshe
+52;00:52:14;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Bongiwe Nkosi
+53;00:52:36;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sifiso Mbuyazi
+54;00:54:52;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Vusani Myeni
+55;00:54:57;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Kwazi Gumede
+56;00:55:30;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Victor Mdlalose
+57;00:57:09;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Andile Ngubane
+58;00:57:59;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Bongani Khumalo
+59;00:58:11;NA;NA;King Cetshwayo Marathon;2017-10-15;10;FANELE CELE
+60;00:58:24;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Dennis Naicker
+61;00:59:50;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Njabulo Zwane
+62;00:59:50;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Mangoba Sdumo
+63;01:00:01;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Mtenga Sifiso
+64;01:00:09;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Mncedisi Zwane
+65;01:00:14;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Bongani Buthelezi
+66;01:00:25;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Andre Maakal
+67;01:00:30;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Lindokuhle Mathenjwa
+68;01:00:56;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Goodman Mnguni
+69;01:01:05;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Nthabiseng Khoalenyane
+70;01:01:45;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Nompumelelo Thabette
+71;01:02:42;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Gugulethu Ntombela
+72;01:03:26;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Themba Masuku
+73;01:03:31;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Trudy Zungu
+74;01:04:18;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sibusisiwe Makhoba
+75;01:05:35;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Nombulelo Mafuleka
+76;01:05:36;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Okuhle Ngubane
+77;01:05:38;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Mboneni Zulu
+78;01:05:48;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Pheziwe Mnukwa
+79;01:05:56;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Phindile Mallalose
+80;01:06:22;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Thembakazi Mpofana (Manual)
+81;01:06:22;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Mfundo Mbuyazi
+82;01:06:34;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Ntombifuthi Kwesaba
+83;01:06:44;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Mammusa Lekoa
+84;01:07:47;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Mfowethu Zungu
+85;01:09:37;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Cyril Mtiyane
+86;01:09:57;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Lindokuhle Ncalane
+87;01:10:10;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sinethemba Sithole
+88;01:10:13;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Thandeka Madondo
+89;01:10:38;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Ahmed Hoosen
+90;01:11:22;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Lwandile Xulu
+91;01:11:41;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sindie Sithole
+92;01:11:46;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Fikile Mkhwanazi
+93;01:13:18;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Kamo Nkwatle
+94;01:14:35;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Hlengiwe Hlongwa
+95;01:14:40;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Nomfundo Ntombela
+96;01:15:40;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Nompulelo Zulu
+97;01:16:52;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Nomvelo Mdlalose
+98;01:16:53;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Nokuphila Myeza
+99;01:16:58;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sibusiso Mwenya
+100;01:17:02;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Siaso Sibeko
+101;01:17:04;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Ayanda Zwane
+102;01:17:33;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Zinhle Buthelezi
+103;01:17:38;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Simangele Mbuyuzi
+104;01:17:46;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Zethu Nkosi
+105;01:18:51;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Buyi Nxumalo
+106;01:19:17;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Welile Mhlongo
+107;01:19:36;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Philippus Daniel Van Jaarsveld
+108;01:19:47;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Khombisile Nyawo
+109;01:20:31;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Ntokozo Ragolane
+110;01:20:43;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sanelisiwe Mhlongo
+111;01:21:00;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Audrey Mahlinza
+112;01:23:08;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Phindile Mtshali
+113;01:23:10;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Andiswa Magwaza
+114;01:24:01;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Silinqile Masuku
+115;01:24:56;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Nothando Buthelezi
+116;01:26:32;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Thoko Chilli
+117;01:27:14;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Ngithuli Sibisi
+118;01:27:41;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Derick Moor
+119;01:28:29;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Ntombizonke Xaba
+120;01:28:52;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Nomcebo Mdlaloso
+121;01:29:11;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Andile Zungu
+122;01:30:35;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Nomthandazo Bhengu
+123;01:31:35;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Thulisile Sikhakhane
+124;01:31:35;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Bongeka Ntuli
+125;01:36:31;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Snenhlanhla Ntshangase
+126;01:36:32;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Dumusile Simelane
+127;01:36:33;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Gugu Ntshangase
+128;01:37:02;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Thembi Sibanidni
+129;01:37:03;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Thenjiwe Khubisa
+130;01:37:36;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Zandile Mbuyazi
+131;01:42:30;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Sindisiwe Ngobo
+132;01:44:11;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Girly Ntombela
+133;01:47:19;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Dhaleen Camp
+134;01:48:45;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Precious Zibane
+135;01:49:26;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Bawe Sithole
+136;01:49:44;NA;NA;King Cetshwayo Marathon;2017-10-15;10;Slomo Mbatha
+1;01:07:23;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sipho Mbanjwa
+2;01:08:05;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Anele Dlamini
+3;01:09:31;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Vumani Mlaba
+4;01:11:04;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Siphon Hlatswayo
+5;01:11:05;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Mthokozisi Mazibuko
+6;01:11:33;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Thabani Nglobo
+7;01:12:15;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Thulani Mdletshe
+8;01:15:33;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Lwazilwenkosi Mpungose
+9;01:16:33;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Bernard Phalatsane
+10;01:16:58;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Thobelani Nojiyeza
+11;01:17:33;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;July Ndlovu
+12;01:17:39;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Skumbuzo Bhengu
+13;01:17:49;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Mpho Mokoena
+14;01:17:58;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nhlakanzipho Ndaba
+15;01:19:11;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nkosikhona Fihlela
+16;01:20:51;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sibongithemba Ntshangase
+17;01:20:51;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sibongithemba Ntshangase
+18;01:21:36;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sfiso Ndlovu
+19;01:23:05;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sthembiso Mthimkhulu
+20;01:24:27;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Ntokozo Mngomezulu
+21;01:24:29;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Phakampni Kunene
+22;01:25:16;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nwabisa Mjoli
+23;01:25:18;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sthembiso Ngenza
+24;01:25:59;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Mfanafuthi Manhique
+25;01:26:25;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Bongani Mhlongo
+26;01:26:37;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Thobil Mkhize
+27;01:27:18;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Patrick Fakude
+28;01:27:20;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Happiness Mkhize
+29;01:27:23;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Thamsanqa Gumede
+30;01:28:14;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Bonginkdsi Shabalala
+31;01:28:45;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sambulo Magndlia
+32;01:28:50;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sibusiso Nyamo
+33;01:28:54;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Bathobile Mkhize
+34;01:29:04;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Mshintshi Makhathini
+35;01:30:15;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Andile Mthethwa
+36;01:30:18;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nomthandozo Mlotshwa
+37;01:30:25;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Mcebis Mbata
+38;01:31:18;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Samkewisiwe Tfwala
+39;01:31:44;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Happiness Memele
+40;01:31:48;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Zama Mokoena
+41;01:32:12;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nathi Khumalo
+42;01:32:28;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nomcebo Mthethwa
+43;01:32:37;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Oupa Willie John Shabalala
+44;01:32:57;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;S Mbuyisa
+45;01:33:37;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Alex Tigere
+46;01:33:45;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Richard Mbuyazi
+47;01:33:52;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Xoli Madida
+48;01:34:06;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Maphalala Wilson
+49;01:35:15;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Msusawenkosi Zungu
+50;01:35:26;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Bheki Mchunu
+51;01:35:33;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Wiseman Nxumale
+52;01:36:15;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sibusiso Zokhweni
+53;01:36:39;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sibusiso Nzuza
+54;01:36:49;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Vincent Gumbi
+55;01:36:50;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Hassan Nkhata
+56;01:37:30;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Charles Buyeni
+57;01:37:45;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Vusi Nkosi
+58;01:38:30;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Petros Ngybeni
+59;01:39:12;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Saziso Mnyandu
+60;01:39:16;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Dingaan Nkwanyane
+61;01:39:25;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Thabo Matha
+62;01:39:29;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Bongani Ndlovu
+63;01:39:31;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sibusiso Ngema
+64;01:40:58;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;History Nhlongo
+65;01:41:00;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Thalente Zulu
+66;01:41:01;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Hlobisile Madida
+67;01:41:21;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Senzo Ngcamu
+68;01:41:28;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Njabulo Nxumalo
+69;01:42:20;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Philani Zondi
+70;01:42:50;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Mandla Zulu
+71;01:42:52;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sakhile Hlongwa
+72;01:43:13;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Siyanda Jiyane
+73;01:43:26;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;RICHMAN NDWANDWE
+74;01:43:42;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;roy singh
+75;01:43:45;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Kangelani Nontswabu
+76;01:44:21;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Myeni Mzikayifani
+77;01:44:40;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Bakhile Zwane
+78;01:45:16;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Siyabonga Radebe
+79;01:45:54;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Phiwa Shandu
+80;01:46:16;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Raphae Mkhize
+81;01:46:53;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Prisca Vilakazi
+82;01:48:13;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Hussein Nhleko
+83;01:48:22;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sizwe Madlala
+84;01:48:56;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Kwazi Mbatha
+85;01:49:54;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sizwe Mtengu
+86;01:49:56;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Zamani Mtengu
+87;01:50:53;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Phineas Ntombela
+88;01:51:52;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Bongani Gumede
+89;01:51:53;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Bonnie Buthelezi
+90;01:53:02;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Jabulani Mdlalose
+91;01:53:03;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nkosingiphile Dubazane
+92;01:54:11;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Vusi Mamba
+93;01:54:44;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Mbali Ndlazi
+94;01:54:46;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Ziphezinhle Sindane
+95;01:55:07;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Boy Goje
+96;01:56:46;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Diliza Mhlongo
+97;01:57:23;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Snothile Lungelo Mthiyane
+98;01:57:35;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Simon Hlatshwayo
+99;01:57:37;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Mgcini Lungelo Dlodlo
+100;01:58:07;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Wandile Xulu
+101;01:58:18;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Buhlez Shandu
+102;01:58:19;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Solomon Sibiya
+103;01:59:58;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;M.A Zungu
+104;02:00:19;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Freedom Langa
+105;02:02:17;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sipho  Mtshali
+106;02:02:27;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nondumiso Mashaba
+107;02:02:56;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Themba Mpanza
+108;02:03:10;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Theresa Muller
+109;02:05:12;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Xulu Thokozani
+110;02:05:14;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Vusi Cebekhulu
+111;02:05:19;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Victor Luswazi
+112;02:05:37;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;PHILANI NTSHANGASE
+113;02:06:26;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Thulani Dube
+114;02:07:50;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Ndumiso Thusi
+115;02:08:24;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sabelo Mdlalose
+116;02:08:25;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nonhlanhla Shange
+117;02:09:44;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sandile Ndlovu
+118;02:10:23;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Ndivhuwo Makhanthisa
+119;02:10:46;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Phumlani Zungu
+120;02:11:20;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;HLENGIWE DUBE
+121;02:11:23;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sibusiso Mkhize
+122;02:11:25;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Patrick Xolani Mtetwa
+123;02:11:39;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Rikki Dunn
+124;02:11:46;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nkosingphile Zuma
+125;02:13:18;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Noel Sissison
+126;02:13:45;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Mpandlana Thabede
+127;02:14:30;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Justice Madlala
+128;02:14:35;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Devan Godvinsamy
+129;02:14:36;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Siyabonga Ngema
+130;02:15:51;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Senzo Khumalo
+131;02:15:59;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Deliwe Hlatshwayo
+132;02:16:51;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sifiso Sibini
+133;02:17:25;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sibusiso Buthelezi
+134;02:18:00;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Makhoba Thando
+135;02:18:46;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Silindile Hlabisa
+136;02:18:59;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Bulelwa Nondabula
+137;02:19:00;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sydney Reddy
+138;02:19:01;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nkosinathi Mwandla
+139;02:20:21;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Mphumuleni Mhlongo
+140;02:20:22;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nokuthula Myeni
+141;02:20:34;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nokuthula  Mhlungu
+142;02:22:21;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Mbongeni Mabenu
+143;02:22:35;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Gugu Nyawo
+144;02:22:40;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Vumani Dube
+145;02:23:10;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Lutendo Metshipale
+146;02:23:12;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Hope Lekoa
+147;02:23:51;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;George Munisamy
+148;02:24:19;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sakhile Khumalo
+149;02:25:10;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Mphahamiseni Nkwanyana
+150;02:27:23;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Dlamini Senamile
+151;02:27:58;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sabelo Thethwayo
+152;02:28:00;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sipho David Nkonde
+153;02:28:06;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Senzi Masondo
+154;02:28:18;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Dorcas  Mothoa
+155;02:29:27;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Bongani Makhunga
+156;02:30:43;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sandile Ntombela
+157;02:31:12;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sizani Bentele
+158;02:31:46;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Khanyi  Mthembu
+159;02:31:47;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Ziningi  Gwala
+160;02:34:53;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Thanduxolo Shozi
+161;02:35:58;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Constance Sithole
+162;02:36:15;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nmnotho Ngema
+163;02:36:34;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Magugu Khuzwayo
+164;02:39:22;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Zipora Mbambo
+165;02:41:52;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nkosinathi Nzuza
+166;02:42:17;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Mduduzi Khumalo
+167;02:43:29;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sinikiwe Nkanana
+168;02:43:30;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nonhlanhla Mkhize
+169;02:43:34;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sabelo Buqa
+170;02:45:51;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Zama Nzama
+171;02:47:48;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Ntombizethu Maisela
+172;02:48:55;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Buhle Zulu
+173;02:53:07;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Ncamisile Zungu
+174;02:55:57;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Princess Ndlovu
+175;02:58:59;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Ndileka Msweli
+176;02:59:39;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;M Zugu
+177;03:07:24;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nomusa Mthembu
+178;03:07:26;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Thohle Shobede
+179;03:16:06;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Samukelisiwe Khumala
+180;03:27:00;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Ntombiyethu Masanagne
+181;03:28:02;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Thouwe Madela
+182;03:31:13;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Vusimuzi Nxumalo
+183;03:45:32;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Nokuthula Ntuli
+184;03:45:33;NA;NA;King Cetshwayo Marathon;2017-10-15;21.1;Sizakele Ngcobo
+1;02:24:05;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Thabile Mbolekwa
+2;02:25:21;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Nkosikhona Mhlakwana
+3;02:27:43;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Bonginkosi Zwane
+4;02:28:40;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Mawande Hlongwe
+5;02:30:03;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Siphiwe Ndlela
+6;02:31:33;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Mziwenkosi Mjata
+7;02:32:13;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Bhakani Sithole
+8;02:38:31;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Thandabantu Rhafuza
+9;02:38:32;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Delani Mkhize
+10;02:38:35;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Nkosinathi Zungu
+11;02:40:36;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Thelumusa Sibiya
+12;02:41:54;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Jane Mhlakwana
+13;02:43:37;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Nonhlanhla Ngobo
+14;02:44:51;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Phalang Mosiea
+15;02:45:04;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Eric Ngubane
+16;02:45:22;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;J Mabaso
+17;02:47:02;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Thomas Senzeni
+18;02:47:46;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Michael Ndlovu
+19;02:50:36;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Bongani Sabelo
+20;02:50:56;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Wandile Buthelezi
+21;02:51:09;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Phumelele Baqwa
+22;02:51:56;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Richard Mayezana
+23;02:53:22;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Philani Mbatha
+24;02:53:39;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Mduduzi Khumalo
+25;02:54:47;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Sjabonga Dube
+26;02:56:13;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Bayede Mcobe
+27;02:59:32;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Bongani  Mdletse
+28;03:00:22;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Jabulani Mtshali
+29;03:02:01;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Party Simelane
+30;03:03:34;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Thandokwakhe Ndlovu
+31;03:04:26;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;BHEKANI MHLONGO
+32;03:06:37;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Nkululeko Ntombela
+33;03:07:04;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Sezeko Sizwe Nxumalo
+34;03:07:07;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Wandiswa Buthelezi
+35;03:07:55;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Velenkosini Shoyisa
+36;03:07:56;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Senzo Sibiya
+37;03:07:58;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Phumlani Sibiya
+38;03:08:06;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Bongani Mathunjwa
+39;03:09:04;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Sifiso Mdunge
+40;03:09:48;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Slindile Chilli
+41;03:10:16;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Amos Nkosi
+42;03:12:59;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Musa Nyawo
+43;03:14:16;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Thabani Mathaba
+44;03:15:30;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;WINILE MNISI
+45;03:16:00;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Sithembiso Ntuli
+46;03:17:04;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;David Mncwango
+47;03:18:29;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Langa Mthandeni
+48;03:18:42;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Jabulani Gumbi
+49;03:19:44;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Zenzele Khoza
+50;03:20:35;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Khulekani Zunph
+51;03:20:36;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;ZENZELE MTHEMBU
+52;03:21:14;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Simiso Skhakhane
+53;03:21:19;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Bongani Mbuyazi
+54;03:21:37;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Nsiki Bbambo
+55;03:23:30;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Jabulani Mthetwa
+56;03:24:31;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Moses  Maphumulo
+57;03:25:40;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Nkosinathi Mathenjwa
+58;03:25:42;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Vincent Mthethwa
+59;03:30:15;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;LInda  Magwaza
+60;03:30:52;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Muzikayise Linda
+61;03:30:59;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Nhlanhla Zikalala
+62;03:33:40;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Precious Duma
+63;03:35:26;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Sipho Mhlango
+64;03:36:11;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Priscilla Dlamini
+65;03:36:14;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Sakhile Nkosi
+66;03:37:18;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Sbusiso Malinga
+67;03:37:46;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Sibusiso Dludla
+68;03:37:53;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Nkosingiphile Mgcobo
+69;03:38:02;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Nkosinathi Biyela
+70;03:39:18;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Mbhekiseni Sibiya
+71;03:40:51;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Lungisani Mthembu
+72;03:42:08;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Armstrong Mthembu
+73;03:43:13;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Siphesihle Mabaso
+74;03:43:38;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Mandla Ntuli
+75;03:44:52;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Iris Lindiwe  Ndlovu
+76;03:46:08;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Victor Dludla
+77;03:47:09;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Scebi Nkosi
+78;03:47:28;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Innocent Ndlovu
+79;03:49:08;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;C Nkosi
+80;03:49:08;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Joseph Mhlanzi
+81;03:49:09;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Lwazi Nkomyane
+82;03:51:10;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Hleziphi Ncayiyana
+83;03:51:50;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;BHEKANI MTHETHWA
+84;03:52:31;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Mdu Dudla
+85;03:53:19;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Alex Gumede
+86;03:53:19;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Mandlakhe Mhlongo
+87;03:55:14;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Bhekokuakle Ntshangase
+88;03:58:29;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Izelle Geyser
+89;03:59:23;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Victor Msimango
+90;04:01:32;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Sthembiso Mabonga
+91;04:02:12;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Sibusiso Mvikelwa Mthethwa
+92;04:02:16;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Phumzile Mapnalala
+93;04:02:19;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Mandela John Ngwanya
+94;04:03:25;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Dumisani Mkhwanazi
+95;04:04:11;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Oscar Maduna
+96;04:04:12;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Telela Arosi
+97;04:04:39;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;L Matne
+98;04:05:31;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Desmond Shabalala
+99;04:05:33;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Raymond Nkinanyana
+100;04:06:17;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;FaniFani Mthamgu
+101;04:06:39;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Lucas  Simelane
+102;04:08:03;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Thokozani Czebane
+103;04:09:43;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Nombuso Mlotha
+104;04:09:44;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Siboniso Zungu
+105;04:11:16;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Themba Sithole
+106;04:12:15;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Sandile Hlabisa
+107;04:14:25;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Lucas Buthelezi
+108;04:15:31;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Andy Nkosi
+109;04:15:37;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Sipho Ntanzi
+110;04:16:30;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Thozozani Khanyile (Manual)
+111;04:20:11;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Derrick Dimba
+112;04:20:55;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Slindile Mhlanga
+113;04:22:37;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Nslkoleb Khanile
+114;04:24:20;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Zakhe Qwabe
+115;04:24:21;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Peter Phaswane
+116;04:25:31;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Michael Langa
+117;04:26:52;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Sifiso Nxumalo
+118;04:27:13;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Nkosenye Khanyile
+119;04:28:12;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Bukelani Mbhele
+120;04:30:04;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Phakamani Mhlungu
+121;04:30:50;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Sicelo Luhlongwane
+122;04:30:52;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Linda Cele
+123;04:32:40;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Bongani Zungu
+124;04:33:17;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Penny Khumalo
+125;04:33:33;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Bick Jiba Khuzwayo
+126;04:35:58;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Mmiseni Biyela
+127;04:36:57;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Mathokosi Mbatha
+128;04:37:08;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Vusi Dlamini
+129;04:38:44;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Brian Gumede
+130;04:38:50;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Bongi Mkhabela
+131;04:43:04;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Nozipho Bongiwe Mdunge
+132;04:43:13;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Yvonne Irmscher
+133;04:43:15;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Alfonso Zaire
+134;04:44:32;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Chris Van der Westhuizen
+135;04:45:01;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Hlengiwe Buthelezi
+136;04:45:11;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Siphelele  Mngomezulu
+137;04:45:47;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Prince  Mbatha
+138;04:46:24;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Pat Sibisi
+139;04:48:55;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Bhekumusa Buthelezi
+140;04:49:12;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Mandla Zulu
+141;04:50:50;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Thabani Maduna
+142;04:50:57;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Pretty Nobuhle Mkhize
+143;04:51:05;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Duncan Xulu
+144;04:52:34;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Duma Mthalane
+145;04:56:43;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Sboniso Nkambule
+146;04:57:36;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;David Shamase
+147;05:05:55;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Sthembiso Wiseman Ngiba
+148;05:11:26;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;RONALD HEATHCOTE
+149;05:15:40;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Jabu Mdaki
+150;05:16:24;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Justice Mkhwanazi
+151;05:20:06;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Ntombi Mthembu
+152;05:20:14;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Nomonde Ngonyama
+153;05:31:43;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Phumlani Vilakazi
+154;05:36:14;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Emmanuel Msomi
+155;05:37:48;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;ZANELE MPHIYANE
+156;05:58:31;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Juliet Juju Mlungwana
+157;05:58:33;NA;NA;King Cetshwayo Marathon;2017-10-15;42.2;Londiwe Nzuza
