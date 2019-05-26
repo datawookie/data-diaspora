@@ -1,0 +1,234 @@
+# https://mobilityexchange.mercer.com/Insights/quality-of-living-rankings
+#
+rank,city,country_region
+1,Vienna,Austria
+2,Zürich,Switzerland
+3,Vancouver,Canada
+3,Munich,Germany
+3,Auckland,New Zealand
+6,Düsseldorf,Germany
+7,Frankfurt,Germany
+8,Copenhagen,Denmark
+9,Geneva,Switzerland
+10,Basel,Switzerland
+11,Sydney,Australia
+11,Amsterdam,Netherlands
+13,Berlin,Germany
+14,Bern,Switzerland
+15,Wellington,New Zealand
+16,Toronto,Canada
+17,Melbourne,Australia
+18,Luxembourg,Luxembourg
+19,Ottawa,Canada
+19,Hamburg,Germany
+21,Perth,Australia
+21,Montréal,Canada
+23,Nuremburg,Germany
+23,Stockholm,Sweden
+25,Oslo,Norway
+25,Singapore,Singapore
+27,Stuttgart,Germany
+28,Brussels,Belgium
+29,Adelaide,Australia
+30,Canberra,Australia
+31,Helsinki,Finland
+32,Calgary,Canada
+33,Dublin,Ireland
+34,San Francisco,United States
+35,Brisbane,Australia
+36,Boston,United States
+37,Lisbon,Portugal
+37,Honolulu,United States
+39,Paris,France
+40,Lyon,France
+41,Milan,Italy
+41,London,United Kingdom
+43,Barcelona,Spain
+44,New York,United States
+45,Edinburgh,United Kingdom
+46,Madrid,Spain
+46,Seattle,United States
+48,Glasgow,United Kingdom
+49,Kobe,Japan
+49,Tokyo,Japan
+49,Birmingham,United Kingdom
+49,Chicago,United States
+53,Washington,United States
+54,Philadelphia,United States
+55,Yokohama,Japan
+56,Rome,Italy
+57,Aberdeen,United Kingdom
+58,Osaka,Japan
+59,Pittsburgh,United States
+60,Leipzig,Germany
+61,Minneapolis,United States
+62,Nagoya,Japan
+63,Dallas,United States
+64,Belfast,United Kingdom
+64,Atlanta,United States
+66,Houston,United States
+66,Los Angeles,United States
+66,Miami,United States
+69,Prague,Czech Republic
+70,St. Louis,United States
+71,Hong Kong,Hong Kong SAR
+72,Pointe-à-Pitre,Guadeloupe (France)
+72,Detroit,United States
+74,Ljubljana,Slovenia
+74,Dubai,United Arab Emirates
+76,Budapest,Hungary
+77,Seoul,South Korea
+78,Abu Dhabi,United Arab Emirates
+78,Montevideo,Uruguay
+80,Bratislava,Slovakia
+81,Vilnius,Lithuania
+82,Warsaw,Poland
+83,Port Louis,Mauritius
+84,Taipei,Taiwan
+85,Kuala Lumpur,Malaysia
+86,Limassol,Cyprus
+86,Tallinn,Estonia
+88,Durban,South Africa
+89,Athens,Greece
+90,Riga,Latvia
+91,Buenos Aires,Argentina
+92,San Juan,Puerto Rico
+93,Santiago,Chile
+94,Busan,South Korea
+95,Cape Town,South Africa
+96,Johannesburg,South Africa
+97,Panama City,Panama
+98,Zagreb,Croatia
+98,Victoria,Seychelles
+100,Wroclaw,Poland
+101,Johor Bahru,Malaysia
+101,Taichung,Taiwan
+103,Shanghai,China
+104,Tel Aviv,Israel
+105,Muscat,Oman
+106,Bandar Seri Begawan,Brunei
+107,Brasilia,Brazil
+108,San José,Costa Rica
+109,Bucharest,Romania
+110,Noumea,New Caledonia
+110,Doha,Qata
+112,Nassau,Bahamas
+113,Monterrey,Mexico
+114,Tunis,Tunisia
+115,Asunción,Paraguay
+116,Sofia,Bulgaria
+117,Rabat,Morocco
+118,Rio de Janeiro,Brazil
+119,São Paulo,Brazil
+120,Beijing,China
+120,Amman,Jordan
+122,Guangzhou,China
+122,Quito,Ecuador
+124,Casablanca,Morocco
+124,Lima,Peru
+126,Kuwait City,Kuwait
+127,Manaus,Brazil
+128,Bogotá,Colombia
+129,Mexico City,Mexico
+130,Istanbul,Turkey
+131,Windhoek,Namibia
+132,Shenzhen,China
+133,Bangkok,Thailand
+134,Chengdu,China
+135,Santo Domingo,Dominican Republic
+136,Manama,Bahrain
+137,Manila,Philippines
+138,Colombo,Sri Lanka
+139,Belgrade,Serbia
+140,Nanjing,China
+141,Gaborone,Botswana
+142,Jakarta,Indonesia
+143,Hyderabad,India
+143,Pune,India
+145,Xian,China
+146,Qingdao,China
+147,Port of Spain,Trinidad & Tobago
+148,Chongqing,China
+149,Bengaluru,India
+150,Lusaka,Zambia
+151,Chennai,India
+152,Kingston,Jamaica
+153,Ho Chi Minh City,Vietnam
+154,Mumbai,India
+155,Hanoi,Vietnam
+156,La Paz,Bolivia
+156,Sarajevo,Bosnia-Herzegovina
+158,Shenyang,China
+158,Guatemala City,Guatemala
+160,Kolkata,India
+161,Skopje,Macedonia
+162,New Delhi,India
+163,Dakar,Senegal
+164,Riyadh,Saudi Arabia
+165,Accra,Ghana
+166,Libreville,Gabon
+167,Moscow,Russia
+168,Jeddah,Saudi Arabia
+169,Jilin,China
+170,Yerevan,Armenia
+171,Vientiane,People's Democratic Republic of Laos
+172,Kampala,Uganda
+173,Kyiv,Ukraine
+174,St. Petersburg,Russia
+175,Tirana,Albania
+175,San Salvador,El Salvador
+177,Cairo,Eqypt
+177,Almaty,Kazakhstan
+179,Banjul,Gambia
+180,Managua,Nicaragua
+181,Blantyre,Malawi
+182,Cotonou,Benin
+183,Maputo,Mozambique
+184,Beirut,Lebanon
+185,Algiers,Algeria
+186,Nairobi,Kenya
+187,Tbilisi,Georgia
+188,Minsk,Belarus
+189,Djibouti,Djibouti
+189,Tegucigalpa,Honduras
+191,Kigali,Rwanda
+192,Havana,Cuba
+193,Yaounde,Cameroon
+194,Islamabad,Pakistan
+195,Baku,Azerbaijan
+196,Phnom Penh,Cambodia
+197,Douala,Cameroon
+198,Dar es Salaam,Tanzania
+199,Luanda,Angola
+199,Tehran,Iran
+201,Karachi,Pakistan
+202,Caracas,Venezuela
+203,Yangon,Myanmar
+203,Lome,Togo
+203,Tashkent,Uzbekistan
+206,Bishkek,Kyrgyzstan
+207,Lahore,Pakistan
+208,Abidjan,Cote d'Ivoire
+209,Addis Ababa,Ethiopia
+210,Harare,Zimbabwe
+211,Ashgabat,Turkmenistan
+212,Lagos,Nigeria
+213,Abuja,Nigeria
+214,Antananarivo,Madagascar
+215,Dushanbe,Tajikistan
+216,Ouagadougou,Burkina Faso
+217,Dhaka,Bangladesh
+218,Tripoli,Libya
+218,Niamey,Niger
+220,Bamako,Mali
+221,Nouakchott,Mauritania
+222,Conakry,Guinea Republic
+223,Kinshasa,Democratic Republic of the Congo
+224,Brazzaville,Congo
+225,Damascus,Syria
+226,N'Djamena,Chad
+227,Khartoum,Sudan
+228,Port au Prince,Haiti
+229,Sana'a,Yemen Arab Republic
+230,Bangui,Central African Republic
+231,Baghdad,Iraq
