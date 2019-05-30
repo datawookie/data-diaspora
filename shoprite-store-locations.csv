@@ -1,0 +1,1517 @@
+# https://www.shopriteholdings.co.za/pages/gps.html
+#
+lat,long,name
+-4.3289,15.2751,SS Gombe
+0.3096,32.578,SS Clock Tower
+0.3268,32.6068,SS Lugogo
+0.368,32.632,SS Naalya
+-10.2054,31.189,SS Kasama
+-10.7254,13.7579,UU Porto Amboim
+-11.1951,13.8496,SS Sumbe
+-11.1977,28.8908,SS Mansa
+-11.3579,15.1211,UU Waku Kungo
+-11.4618,34.0142,SS Mzuzu
+11.9775,8.5348,SS Ado Bayero Mall
+-12.1833,26.4032,SS Solwezi
+-12.3481,13.5453,UU Cesta Basica
+-12.3635,13.5513,SS Lobito
+-12.3792,13.5742,UU Bela Vista
+-12.3798,27.8384,SS Chililabombwe
+-12.3879,16.9368,SS Kuito
+-12.5441,27.8648,SS Chingola
+-12.5485,28.2476,SS Mufulira
+-12.5952,13.3864,SS Benguela
+-12.7731,28.201,UU Chimwemwe
+-12.7913,15.7449,SS Huambo
+-12.8077,28.2101,SS Kitwe
+-12.975,28.6481,SS Ndola
+-12.9814,28.6403,SS Kafubu Mall
+-13.132,28.4207,SS Luanshya
+-13.6474,32.6476,SS Chipata
+-13.9717,33.7414,SS Gateway Mall
+-13.9751,28.6751,Sm Kapiri Mposhi
+-13.9855,33.7689,SS Lilongwe
+-13.9906,33.7762,UU Lilongwe
+-14.4441,28.4449,SS Kabwe
+-14.6626,17.6994,Sm Menongue
+-14.7363,15.0308,UU Matala
+-14.9232,13.4761,SS Lubango
+-15.1236,39.2603,SS Nampula
+-15.1999,12.1555,SS Namibe
+-15.2865,23.1504,SS Mongu
+-15.383,28.2619,SS Matero
+-15.3871,35.321,UU Zomba
+-15.3897,28.3935,SS Twins Palms
+-15.398,28.3063,SS Manda Hill
+-15.4178,28.2824,SS Cairo Road
+-15.4315,28.2828,Ms Lusaka
+-15.4551,28.3383,SS Chilenje
+-15.7075,46.3205,SS Majunga
+-15.8027,35.0342,SS Chichiri
+-15.8152,35.0612,UU Limbe
+-15.8575,27.7638,SS Mazabuka
+-17.0651,15.7289,Sm Ondjiva
+-17.4344,14.4307,UU Oshifo
+-17.4469,15.6719,UU Ongenga
+-17.4772,16.3327,UU Eenhana
+-17.5001,24.2768,SS Katima Mulilo
+-17.5075,14.9913,SS Outapi
+-17.5075,14.9906,LS Outapi
+-17.5219,15.012,Uu Outapi
+-17.6302,18.6095,UU Nkurenkuru
+-17.6534,15.4655,Uu Oshikuku
+-17.747,14.89,UU Tsandi
+-17.7839,15.7512,SS Ongwediva
+-17.7867,15.7087,SS Oshakati
+-17.8475,25.8568,SS Mosi-oa-tunya
+-17.8477,25.8572,SS Livingstone
+-17.8872,15.0616,UU Okahao
+-17.9005,15.9697,Uu Ondangwa
+-17.9123,19.7693,LS Rundu
+-17.9123,19.7693,SS Rundu
+-17.9123,19.7693,SS Rundu Mall
+-17.9134,15.9718,SS Gwashamba Mall
+-17.9184,15.991,SS Ondangwa
+-18.1546,49.4164,SS Tamatave 2
+-18.3603,16.5805,UU Omuthiya
+-18.8417,47.4622,SS Tana Airport
+-18.8757,47.5193,SS Tana City
+-18.8917,47.5256,SS Tana Waterfront
+-18.8961,47.5292,SS Andravoahangy
+-18.9055,47.5242,SS Tana Downtown
+-18.9128,47.5171,SS Ampefiloha Hilton
+-18.9147,47.5381,SS Panorama
+-19.1238,33.4805,SS Chimoio
+19.1668,72.9374,Nirmal Mulund
+-19.2427,17.7163,Uu Okongo
+-19.2477,17.7076,SS Tsumeb
+-19.2479,17.7078,Ls Tsumeb
+-19.6171,34.7434,UU Dondo
+-19.8294,34.844,SS Beira
+-19.8667,47.0333,SS Antsirabe
+-19.9877,23.4263,SS Maun
+-19.9915,23.4206,UU Maun
+-20.1569,28.5808,SS Bulawayo Zar
+-20.1573,28.5814,SS Bulawayo Usd
+-20.1646,57.5034,SS Port Louis
+-20.2585,57.4902,SS Hyp Trianon
+-20.3274,57.3844,SS Tamarin
+-20.459,16.6537,SS Otjiwarongo
+-20.5859,17.4642,UU Okakarara
+-21.1451,27.4994,UU Francistown 
+-21.1667,27.5138,SO Francistown
+-21.4325,15.9489,UU Omaruru
+-21.6954,21.6524,SM Ghanzi
+-21.9766,16.9139,Uu Okahandja
+-21.9857,16.909,SS Okahandja
+-22.1175,14.2831,Ls Henties Bay
+-22.1175,14.2831,UU Henties Bay
+-22.3407,30.0406,SS Mussina
+-22.3879,26.7055,UU Serowe
+-22.4205,14.9783,UU Arandis
+-22.4515,18.9683,LS Gobabis
+-22.4515,18.9683,SS Gobabis
+-22.5098,17.0503,Uu Okuryangava
+-22.512,17.063,SR Lafrenz
+-22.5206,17.0462,Uu Katutura
+-22.5298,17.0616,SS Katatura
+-22.5525,17.0454,UU Khomasdal
+-22.5551,17.0634,Uu Dorado Park
+-22.5632,17.0838,SS Windhoek
+-22.5691,17.0841,LC Windhoek
+-22.5691,17.0837,CO Windhoek
+-22.5715,17.1028,CC Klein Windhoek
+-22.5844,17.0945,CC Maerua Mall
+-22.6101,17.0716,CC Academia
+-22.6217,17.0921,CC The Grove
+-22.6646,14.5452,Uu Mondesa
+-22.677,14.533,SS Swakopmund
+-22.6772,14.5333,Ls Swakopmund
+-22.8336,30.8557,UU Saselamani
+-22.9014,30.1922,UU Thohoyandou
+-22.9183,30.0344,UU Dzanani Village
+-22.9337,14.5287,UU Kuisebmond
+-22.949,30.48,SO Thohoyandou
+-22.949,30.48,SS Venda
+-22.949,30.48,LS Thohoyandou
+-22.9533,30.473,UU MukuLU Location
+-22.9572,14.4988,SS Walvis Bay
+-22.961,30.431,Ls Sibasa
+-22.961,30.431,SS Sibasa
+-22.9827,30.4894,Ls Phangami Mall
+-22.9827,30.4894,SS Phangami Mall
+-22.9942,30.4239,UU Shayandima
+-22.9942,30.4239,UU Umlazi H Section
+-22.998,30.705,SS Malamulele
+-23.038,29.9051,CC Louis Trichardt 
+-23.038,29.906,CC Makhado
+-23.038,29.91,SS Louis Trichardt
+-23.0402,30.3888,UU Lwamondo
+-23.1561,30.0564,SS Elim
+-23.2064,30.2225,UU Bungeni
+-23.2278,30.1244,UU Elim
+-23.24,30.9458,UU Malamulele
+-23.2839,29.3225,LS Bochum
+-23.2839,29.3225,SS Bochum
+-23.3066,17.0774,Ls Rehoboth
+-23.3066,17.0774,SS Rehoboth
+-23.309,30.7176,UU Giyani
+-23.314,30.726,SS Giyani
+-23.3252,17.0748,Uu Rehoboth
+-23.4293,28.621,UU Steilloop
+-23.4928,29.7253,UU Matoks
+-23.6473,30.2203,LS Modjadji
+-23.6473,30.2203,SS Modjadji
+-23.672,27.742,SO Ellisras
+-23.6767,22.7876,UU Kang
+-23.6867,27.7045,CC Lephalale
+-23.6867,27.7045,LC Lephalale Mall
+-23.7371,30.5246,UU Mutale
+-23.8065,28.2203,SS Mukuba Mall
+-23.8228,30.1581,CC Tzaneen Lifestyle
+-23.8228,30.1581,LC Tzaneen Lifestyle
+-23.827,30.159,CC Tzaneen
+-23.831,30.163,SC New Tzaneen
+-23.8334,29.3795,UU Blood River
+-23.8415,29.3857,UU Seshego
+-23.8519,28.755,UU Bakenberg
+-23.8592,29.3903,UU Seshego CBD
+-23.873,31.0851,SM Lulekani
+-23.8739,29.51,CC Mall Of The North
+-23.8739,29.5101,LC Mall Of The North
+-23.8837,29.7111,SS Mankweng
+-23.8908,29.702,SS Paledi
+-23.8972,29.7792,LS Seshego
+-23.8972,29.7792,SS Seshego
+-23.8983,29.7314,SU Mankweng
+-23.9085,29.4525,Ls Schoeman Street
+-23.9085,29.4525,SO Schoeman Street
+-23.909,29.454,CC Polokwane
+-23.909,29.454,LC Polokwane
+-23.9115,29.4521,Ls Pietersburg
+-23.9115,29.4521,SS Pietersburg
+-23.95,31.133,CO Phalaborwa
+-23.95,31.133,LC Phalaborwa
+-23.95,31.133,LS Phalaborwa
+-23.951,31.134,SC Phalaborwa
+-23.9524,28.8439,UU Mapela Village
+-23.9775,30.2888,SS Maake
+-24.1156,31.155,LS Namakgale
+-24.1156,31.155,SS Namakgale
+-24.1385,19.1156,UU Aranos
+-24.1791,29.0103,Ls Potgietersrus
+-24.1791,29.0103,SO Potgietersrus
+-24.1803,28.9825,UU Sekgakgapeng
+-24.1808,29.0138,CS Mokopane
+-24.2567,29.0003,SS Mahwelereng
+-24.319,29.482,SS Lebowakgomo
+-24.3233,29.3358,LS Zebediela Plaza
+-24.3233,29.3358,SS Zebediela
+-24.3578,29.3214,UU Zebediela
+-24.3997,26.1476,UU Mochudi
+-24.4039,25.5253,SS Molopolole
+-24.4208,29.7874,UU Apel
+-24.5003,28.2542,UU Vaalwater
+-24.516,28.718,UU Naboomspruit
+-24.594,27.407,LS Thabazimbi
+-24.594,27.407,SS Thabazimbi
+-24.6046,25.9264,CC Airport Junction 
+-24.6117,31.0481,SS Acornhoek Plaza
+-24.6274,17.9645,SS Mariental
+-24.6628,25.905,SO Gaborone
+-24.6681,30.3224,SS Burgersfort Mall
+-24.676,30.333,SS Burgersfort
+-24.6872,25.8803,SS Kgale Hill
+-24.6958,25.9144,UU Gaborone
+-24.6972,28.4073,CC Modimolle
+-24.6972,28.4073,LC Modimolle
+-24.7093,28.4143,Ls Modimolle
+-24.7093,28.4143,SS Modimolle
+-24.743,29.882,SS Jane Furse
+-24.7511,29.8669,SS Jane Furse Crossi
+-24.8474,31.061,SS Bushbuckridge
+-24.8547,30.4592,LS Tubatse Mall
+-24.8547,30.4592,SS Tubatse Mall
+-24.886,28.293,SC Warmbad
+-24.896,28.2949,CC Bela Bela
+-24.896,28.2949,LC Bela Mall
+-24.9606,27.2649,LS Northam
+-24.9606,27.2649,SS Northam
+-24.967,29.291,UU Marble Hall
+-24.9728,31.2586,SS MkhuhLU Plaza
+-24.9802,25.339,UU Kanye
+-25.0307,33.1003,UU Macia
+-25.039,31.143,UU Hazyview
+-25.041,31.128,LS Hazyview
+-25.0415,31.1262,CS Hazyview
+-25.0416,31.132,SS Hazyview
+-25.0656,27.4878,UU Northam
+-25.0884,30.4238,UU Mashishing
+-25.095,30.456,LS Lydenburg
+-25.095,30.456,SC Lydenburg
+-25.0958,30.7783,Us Main Road - Sabie
+-25.0975,30.7789,UU Sabie
+-25.1037,30.4837,CC Lydenburg
+-25.1081,29.0663,SS Siyabuswa
+-25.1456,31.1286,Ls Numbi
+-25.1456,31.1286,SS Numbi
+-25.1492,29.61,UU Tafelkop
+-25.1633,27.1678,LS Moruleng
+-25.1633,27.1678,SS Moruleng
+-25.1667,29.4003,UU Groblersdal
+-25.167,29.396,SC Groblersdal
+-25.1693,29.4002,Ls Klip Street
+-25.1693,29.4002,SS Klip Street Grobl
+-25.18,27.2692,UU Sandfontein
+-25.272,27.223,SO Mogwase
+-25.2805,29.1837,SS Dennilton
+-25.3062,31.0397,UU White River
+-25.307,28.949,SS Kwaggafontein
+-25.326,31.021,LS White River
+-25.326,31.021,SO White River
+-25.341,31.133,SS Kabokweni
+-25.378,28.259,SS Temba
+-25.3958,28.2639,UU Moretele
+-25.3994,28.7217,SS Kwamhlanga
+-25.3998,28.7968,UU Tweefontein
+-25.4002,32.8094,SU Manhica
+-25.4065,28.2812,SS Hammanskraal
+-25.4114,31.1279,SS Emoyeni
+-25.418,28.031,UU Winterveld
+-25.4219,31.172,UU Pienaar
+-25.4285,31.948,UU Komatipoort
+-25.4655,30.983,SS Canary Walk
+-25.4675,30.9766,UU Nelspruit
+-25.4681,28.0042,Uu Klipgat
+-25.4687,30.9813,CC Riverside Mall
+-25.469,30.9812,SR Brown Str-Nelsprt
+-25.4692,27.8302,LS Lethlabile
+-25.4692,27.8302,SS Lethlabile
+-25.4728,31.18,SS Kanyamazane
+-25.4743,30.9732,Ls Nelspruit
+-25.4743,30.9732,SC Nelspruit
+-25.4785,28.12,SS Batho Plaza
+-25.489,28.101,LS Soshanguve F
+-25.4959,31.5144,UU Malelane
+-25.496,28.084,SO Mabopane
+-25.497,28.087,SO Morula
+-25.4978,28.0935,UU Soshanguve F
+-25.5035,25.9796,SO Lehurutshe
+-25.5186,28.0919,Sm Nafcoc Soshanguve
+-25.519,28.0923,UU Nafcoc
+-25.5194,28.1089,UU Magoveni Soshangu
+-25.5268,28.1013,SS Soshanguve
+-25.546,26.078,SS Zeerust Tvl
+-25.5507,28.0894,Ls Soshanguve Crossi
+-25.5507,28.0894,SS Sosohanguve Cross
+-25.5769,27.1594,Ls Bafokeng
+-25.5769,27.1594,SS Bafokeng Plaza
+-25.591,27.992,SO Garankuwa
+-25.6027,27.9902,Uu Garankuwa
+-25.6064,28.0114,UU Garankuwa Zone 6
+-25.6103,27.2772,LS Boitekong
+-25.6103,27.2772,SS Boitekong
+-25.6359,27.7807,SS Brits
+-25.6375,27.781,SO Brits
+-25.6386,27.7889,UU Brits
+-25.6487,28.1281,Uu Hestea Park
+-25.649,27.8026,LC Brits Mall
+-25.6496,27.7875,CC Brits Mall
+-25.6498,27.8023,CC Brits
+-25.6623,28.7271,UU Ekangala
+-25.6636,27.2482,SU Zendeling Street
+-25.6669,31.6917,UU Kamhluswa
+-25.6678,27.2444,Ls Rustenburg
+-25.6678,27.2444,SS Rustenburg
+-25.6681,27.2386,LS Nelson Mandela St
+-25.6681,27.2386,SO Rustenburg
+-25.6694,28.1454,UU Theresa Park
+-25.6696,27.2421,Uu Rustenburg
+-25.67,28.1442,CC Wonderpark
+-25.67,28.1442,LC Wonderpark
+-25.674,28.174,CS Pretoria North
+-25.674,28.174,LS Pretoria North
+-25.674,28.174,SC Pretoria North
+-25.6777,29.9919,UU Siyathuthuka
+-25.681,28.253,CH Montana
+-25.6841,28.2938,CC Zambezi Mall
+-25.6861,31.7825,SS Tonga
+-25.6917,27.2569,CH Rustenburg
+-25.6917,27.2569,LC Rustenburg
+-25.6934,27.4898,Uu Marikana
+-25.7,28.184,CH Mayville Hyper
+-25.7,28.184,LC Mayville
+-25.703,28.242,CO Waverley
+-25.708,28.271,SS East Lynne
+-25.7098,28.1849,UU Les Marais
+-25.713,28.202,SC Gezina
+-25.716,28.334,SS Mamelodi
+-25.718,28.152,LS Daspoort
+-25.718,28.152,SO Daspoort
+-25.72,28.206,CO Gezina
+-25.72,28.206,LC Gezina
+-25.7211,28.595,UU Skosana
+-25.7217,28.3856,SU Hinterland
+-25.7304,27.8861,CC Hartbeespoort
+-25.732,28.246,SC Queenswood
+-25.7332,28.3011,SS Silverton
+-25.74,28.194,UU Bloedstraat
+-25.7402,28.1924,UU Bloedstraat (new)
+-25.7416,28.195,UU Prinsloo Str
+-25.7419,28.1289,UU Danville
+-25.7434,28.1903,Uu Andries&proes Str
+-25.7436,31.9436,UU Naas
+-25.745,28.204,SC Arcadia
+-25.746,28.1928,SO Van Der Walt St
+-25.7492,28.1458,SO Quagga Centre
+-25.751,28.203,CC Sunnypark
+-25.7535,28.2082,SO Esselen
+-25.7543,28.0732,LS Lotus Gardens
+-25.7543,28.0732,SS Lotus Gardens
+-25.7567,28.1896,Uu Scheiding Street
+-25.7604,29.4269,Ls Mhluzi
+-25.7604,29.4269,SS Mhluzi
+-25.766,28.28,CC Lynnwood
+-25.767,29.4594,LS Middelburg
+-25.767,29.4594,SC Middelburg
+-25.768,29.46,LS Middelburg CBD
+-25.768,29.46,SC Middelburg CBD
+-25.773,28.235,CC Brooklyn
+-25.7733,28.3536,CC Silver Lakes
+-25.7733,28.3536,LC Silverlakes
+-25.7755,28.0779,SS Atteridgeville St
+-25.776,28.091,LS Atteridgeville
+-25.776,28.091,SS Atteridgeville
+-25.7829,28.2726,CH New Menlyn
+-25.784,28.276,CH Menlyn Hyper
+-25.7886,27.7447,SS Bapong
+-25.79,31.052,LS Barberton
+-25.79,31.052,SS Barberton
+-25.8058,29.4589,CC Middelburg Mall
+-25.8058,29.4589,LC Middelburg Mall
+-25.8078,28.3003,LC Moreleta Park
+-25.8078,28.3003,CC Moreleta Park
+-25.811,28.746,SS Bronkhorstspruit
+-25.812,28.153,SC Valhalla
+-25.8166,28.3034,CC Parkview
+-25.8166,28.3034,LC Parkview
+-25.8272,28.2953,CC Village Moreleta
+-25.829,28.206,SO Lyttelton
+-25.8305,28.1067,SS Thorntree
+-25.836,25.615,SC Mmabatho
+-25.841,28.1882,CC Jean Ave
+-25.8472,27.5911,Ls Marikana
+-25.8472,27.5911,SS Marikana
+-25.8551,28.1826,CH Centurion Hyper
+-25.857,28.144,SC Wierda Park
+-25.8577,25.8577,CC Mafikeng
+-25.8577,25.8577,LC Mafikeng
+-25.862,25.641,SS Mafikeng
+-25.8697,26.8972,UU Koster
+-25.87,28.138,CC Raslouw
+-25.87,28.138,LC Raslouw
+-25.8718,29.1312,Ls Kwa Guqa
+-25.8718,29.1312,SS Kwa Guqa
+-25.8739,29.2363,CC Saveway
+-25.8759,29.2105,SS Witbank
+-25.8771,28.1657,CC Centurion Lifesty
+-25.8778,28.1765,CC ECO Boulevard
+-25.8781,29.0978,LC Centurion Lifesty
+-25.8911,28.1,CH Forest Hill
+-25.8911,28.1,LC Forest Hill
+-25.899,29.234,Ch Klipfontein Hyper
+-25.899,29.234,Lh Klipfontein 
+-25.9016,29.2688,CC Ben Fleur
+-25.9097,28.1631,CC Grey Owl Midstrea
+-25.9163,32.6457,SS Costa Do Sol
+-25.9244,28.0977,SS Olievenhoutbosch
+-25.9394,28.0197,SS Diepsloot
+-25.9498,28.2323,Uu Olifantsfontein
+-25.9527,32.5794,SS Maputo
+-25.9535,32.4596,SS Matola
+-25.9606,31.2464,Uu Piggs Peak
+-25.9617,28.2497,CC Kosmosdal
+-25.9617,28.2497,LC Kosmosdal
+-25.9649,28.2164,SS Clayville
+-25.9754,28.2333,LS Phumulani Mall
+-25.9754,28.2333,SS Phumulani
+-25.9885,28.1731,LS Ebony Park
+-25.9885,28.1731,SS Ebony Park
+-25.99,28.2364,UU Tembisa
+-25.9926,27.539,Uu Magaliesburg
+-25.994,29.0395,UU Phola
+-25.996,28.127,SC Midrand
+-26.0034,28.0005,UU Fordsburg
+-26.0042,29.0322,UU Phola
+-26.0061,28.2261,UU Isithame
+-26.0096,28.0128,CC Leaping Frog
+-26.0128,28.2127,UU Lifateng
+-26.0164,28.0134,LS Glenridge Mall
+-26.0175,27.5382,LS Cosmo City
+-26.0175,27.9382,SS Cosmo City
+-26.019,28.007,CH Fourways Hyper
+-26.0191,28.006,LC Fourways
+-26.0221,28.0892,CC Waterfall Corner
+-26.0264,28.3297,UU Irene Village
+-26.027,28.1967,SS Tembisa
+-26.0281,28.2208,UU Emfihlweni
+-26.0324,28.0619,CC Sunninghill
+-26.0379,27.9231,UU Maldovia Street
+-26.0428,32.3304,Us Boane
+-26.0524,28.0204,CC Nicolway
+-26.0524,28.0204,LC Nicolway
+-26.0527,28.002,CC Bryan Park
+-26.0536,29.0483,UU Ogies
+-26.055,27.963,CC Northriding
+-26.0592,28.0613,CC Rivonia Village
+-26.0592,28.0613,LC Rivonia Village
+-26.06,27.946,CC Northgate
+-26.0611,27.8358,CC Cradlestone
+-26.0611,27.8358,LC Cradlestone
+-26.064,28.22,CC Norkem Park
+-26.072,30.121,UU Carolina
+-26.0731,27.7606,UU Munsieville
+-26.075,28.028,CC Bryanston
+-26.075,28.028,LC Bryanston
+-26.0834,28.2412,CC Glen Marais
+-26.0897,27.8183,CC Noordheuwel
+-26.091,28.0058,UU Randburg
+-26.0925,28.0036,SC Randburg
+-26.1008,27.7966,CS Monument Park
+-26.1019,28.2522,CC Pineslopes
+-26.1028,28.2259,SS Kempton Place
+-26.1041,27.7719,UU Krugersdorp
+-26.1046,27.9271,CC Rock Cottage
+-26.106,28.2303,SS Kempton Park
+-26.1069,28.2235,CH Kempton Park Hype
+-26.1082,28.0859,SS Alexandra
+-26.109,28.053,CH Hyper Sandton
+-26.109,28.237,LS Jan Smuts
+-26.109,28.237,SS Jan Smuts
+-26.11,28.0861,UU Yarona
+-26.1114,28.0002,CC Bram Fischer
+-26.1114,28.0002,LC Bram Fisher
+-26.1151,28.0897,UU Wynberg
+-26.1178,28.1564,CC Green Valley
+-26.1178,28.1564,LC Green Valley
+-26.118,27.889,CC Little Falls
+-26.1197,28.2578,CC Bonaero Park
+-26.1197,28.2578,LC Bonaero Park
+-26.1224,28.1428,CC Greenstone
+-26.1233,28.1423,LC Greenstone
+-26.126,27.847,CC Wilrogate
+-26.126,27.847,LC Wilrogate
+-26.128,27.9048,CC Allensnek
+-26.131,27.975,CO Cresta
+-26.131,28.684,LS Delmas
+-26.131,28.684,SC Delmas
+-26.1332,27.9117,LC Allens Nek
+-26.1361,28.4139,SS Mayfield Square
+-26.138,28.09,CC Balfour Park
+-26.138,28.09,LC Balfour Park
+-26.139,27.863,CC Westgate
+-26.139,27.863,CH Westgate Hyper
+-26.1392,27.7947,UU Kagiso
+-26.1425,27.8264,UU Mindalore
+-26.1437,26.1592,CC Lichtenburg
+-26.1439,27.8673,CC Horizon
+-26.1439,27.8673,LC The Village @ Hor
+-26.1455,27.9844,CC Northcliff Cnr
+-26.1455,27.9844,LC Northcliff Corner
+-26.1467,28.1558,UU Edenvale
+-26.148,27.922,CH Roodepoort Hyper
+-26.148,27.922,LH Roodepoort
+-26.1511,28.6823,SS Willow Corner
+-26.154,26.161,SS Lichtenburg
+-26.1558,27.7952,SS Chamdor
+-26.1592,29.7167,UU Hendrina
+-26.161,28.012,CC Emmarentia
+-26.161,28.012,LC Emmarentia
+-26.161,28.171,CH Edenvale Hyper
+-26.161,28.171,Lh Edenvale (New)
+-26.161,28.171,LC Edenvale
+-26.1614,30.9708,Ls Elukwatini
+-26.1614,30.9708,SS Elukwatini
+-26.162,27.87,SO Roodepoort
+-26.162,28.324,CC Northmead Square
+-26.1628,28.4023,SS Daveyton
+-26.1672,27.7809,SC Kagiso
+-26.1675,27.9644,SS Northcliff
+-26.1683,28.2736,CC Bartlett
+-26.172,27.911,Ls Florida
+-26.172,27.911,SC Florida
+-26.1724,27.6852,UU Randgate
+-26.1755,27.9797,SS Sophiatown
+-26.1759,27.9679,SC Newlands Jhb
+-26.177,27.704,CO Randfontein
+-26.177,27.704,LC Randfontein
+-26.1785,27.9868,UU Westdene
+-26.1785,28.2374,CC Bardene
+-26.1796,27.7046,LS Randfontein
+-26.1798,27.7052,SC Randfontein
+-26.18,28.118,CH Eastgate Hyper
+-26.181,28.063,Ls Yeoville
+-26.181,28.063,SO Yeoville
+-26.1822,27.6978,SS Randfontein Stn
+-26.185,28.315,CC Benoni Lake
+-26.187,28.327,CH Benoni Hyper
+-26.188,28.163,SC Primrose
+-26.189,28.05,SC Hillbrow
+-26.1892,28.3217,UU Benoni
+-26.1944,28.0422,LS Eloff Street
+-26.1945,28.0003,UU Brixton
+-26.195,28.309,UU Princess
+-26.1981,28.0533,SS End Street
+-26.2005,28.0311,Ls Newtown
+-26.2005,28.0311,SS Newtown
+-26.2007,28.0505,UU Bree & Mooi Str
+-26.201,28.113,SC Malvern
+-26.2011,28.0399,UU New Town
+-26.203,28.044,SO Eloff St
+-26.2031,27.7048,LS Toekomsrus
+-26.2031,27.7048,UU Toekomsrus
+-26.2033,28.0517,UU Tali's Place
+-26.205,28.018,SC Mayfair
+-26.2085,28.2564,SM Cason Road
+-26.211,27.87,LS Dobsonville
+-26.211,27.87,SS Dobsonville
+-26.2124,28.035,LS Westgate Station
+-26.2124,28.035,UU Selby
+-26.2125,28.3,SS Actonville
+-26.214,28.167,SO Golden Walk
+-26.2209,27.6952,UU Ralerata St
+-26.2226,27.8997,LS Meadowlands
+-26.2226,27.8997,SS Meadowlands
+-26.2231,28.2538,SO Commissioner  St
+-26.2238,28.2447,CH Boksburg Hyper
+-26.224,27.9384,SS Noordgesig
+-26.2247,27.6956,Uu Mohlakeng
+-26.2271,27.8543,UU Dobsonville
+-26.237,28.368,SC Brakpan
+-26.2371,28.368,LS Brakpan
+-26.2378,27.9004,SS Dube
+-26.2397,28.0644,UU Regents Park
+-26.2403,27.8306,UU Mofolo
+-26.241,27.847,SS Zola
+-26.241,28.022,SC Southdale
+-26.2411,27.8464,LS Zola
+-26.2416,27.9353,UU Orlando East
+-26.243,28.052,LS Rosettenville
+-26.243,28.052,SS Rosettenville
+-26.2442,27.9408,LS Diepkloof
+-26.2447,27.8193,UU Emdeni
+-26.2486,27.8583,LS Jabulani
+-26.2501,28.2561,UU Elsburg
+-26.2511,27.8566,SS Jabulani
+-26.2513,28.4457,UU Springs Station
+-26.2521,28.3182,CH Mall Of Carnival
+-26.2521,28.3182,LC Mall Of Carnival
+-26.2547,28.4416,SS Palm Springs
+-26.255,27.9141,UU Klipspruit
+-26.255,27.821,Ls Vosloorus
+-26.255,27.821,SS Naledi
+-26.2554,28.0046,UU Crystal Park
+-26.256,29.27,SS Kriel
+-26.2563,28.4412,CC Springs
+-26.2572,28.2688,CC Sunward Park
+-26.258,27.996,SC Ridgeway
+-26.2589,27.93,Ls Bara Mall
+-26.2589,27.93,SS Bara Mall
+-26.2591,27.9428,UU Bara Central
+-26.263,28.122,CO Alberton
+-26.2656,27.9791,SS Southgate Value 
+-26.2679,27.9789,CO Southgate
+-26.268,28.121,SC Alberton
+-26.269,27.905,SS Pimville
+-26.2691,28.044,CC SP Pavillion
+-26.2691,28.044,LC SP Pavillion
+-26.2692,27.7905,SS Glen Ridge Mall
+-26.272,28.03,CC Columbine Square
+-26.2765,27.8125,SS Protea Glen
+-26.2835,27.8549,UU Chiawelo
+-26.286,28.054,CC Glenvista
+-26.2867,27.8469,SS Protea Gardens
+-26.291,27.907,LS Eldorado Park
+-26.291,27.907,Project Debonairs El
+-26.291,27.907,SS Eldorado Park
+-26.2933,28.2944,UU Claim Street
+-26.2934,28.454,CC Selcourt
+-26.2977,28.4021,Sm Mthembu Village
+-26.3039,28.3889,UU Kwa Thema
+-26.3099,28.1077,CS Brackenhurst
+-26.3139,28.2513,SS Dawn Park
+-26.3142,28.1964,SS Roodekop
+-26.3155,27.8292,SS Lenasia
+-26.3186,27.6506,SO Westonaria
+-26.3216,27.6531,SC Westonaria
+-26.3273,28.0984,CC Bracken Gardens
+-26.3279,31.142,SO Mbabane
+-26.3309,28.1553,Ls Katlehong
+-26.3309,28.1553,SS Katlehong 
+-26.3434,28.1841,SS Chris Hani Crossi
+-26.3439,29.7228,Us Hendrina Church S
+-26.3444,28.3675,UU Geluksdal
+-26.3486,28.3906,UU Tsakane
+-26.3505,28.2004,SS Vosloorus
+-26.354,27.399,SS Annan Drive
+-26.3545,28.1307,LS Thokoza
+-26.3545,28.1307,SS Thokoza 2-khumalo
+-26.3564,28.3703,SS Tsakane
+-26.3585,28.3549,Ls Tsakane Centre
+-26.3585,28.3549,SS Tsakane Centre
+-26.359,27.383,SS Carltonville
+-26.3599,28.1426,Us Thokoza 
+-26.3644,28.3995,LS Tsakane Corner
+-26.3644,28.3995,SS Tsakane Corner
+-26.3675,28.9247,UU Leandra
+-26.3696,28.1653,UU Moleleki
+-26.3713,28.9197,UU Noord Street
+-26.3753,28.4142,UU Duduza
+-26.3767,28.1631,SS Sontonga Mall
+-26.3811,27.8437,UU Peacock Street
+-26.3881,28.1416,UU Palm Ridge
+-26.3956,27.879,Sm Golden Highway
+-26.406,27.831,SC Ennerdale
+-26.4097,31.5303,US Mobeni
+-26.4128,27.97,UU Lenasia South
+-26.417,28.466,SC Nigel
+-26.4236,27.9408,UU Braamfischerville
+-26.4395,31.1876,SS Gables
+-26.4535,31.9465,SS Siteki
+-26.455,29.463,SC Bethal
+-26.4606,30.9114,UU Fernie Village
+-26.47,29.11,LS Evander
+-26.47,29.11,SC Evander
+-26.4714,27.8701,Ls Stretford Station
+-26.4714,27.8701,SS Stretford Station
+-26.4839,27.9825,UU Mpati Street
+-26.4875,27.8611,SS Orange Farm
+-26.4908,27.8689,UU Ndlovu Centre
+-26.491,31.3059,Uu Matsapha
+-26.4938,28.3716,CC Heidelberg
+-26.4938,28.3716,LC Heidelberg
+-26.4951,31.3791,SS Busrank Manzini
+-26.4951,27.4969,UU Fochville
+-26.4971,31.3772,SO Manzini
+-26.4994,29.9642,UU Wesselton
+-26.501,28.359,Ls Heidelberg
+-26.501,28.359,SC Heidelberg
+-26.503,29.183,LS Secunda
+-26.503,29.183,SC Secunda
+-26.506,29.183,SC Secunda Plaza
+-26.5101,29.1839,CH Secunda Mall
+-26.517,29.9834,CC Ermelo
+-26.519,29.988,SO Ermelo
+-26.523,28.361,UU Heidelberg
+-26.531,31.1896,SS Malkerns
+-26.5314,27.8615,UU Wilberforce
+-26.5316,27.8257,SS Evaton
+-26.5342,27.8498,UU China Plaza
+-26.5358,27.8494,UU Evaton
+-26.545,29.0772,SS Embalenhle
+-26.5591,28.0177,SC Meyerton
+-26.5753,27.85,UU Sebokeng Zone 11
+-26.5806,28.4428,UU Balfour
+-26.5844,18.1387,LS Keetmanshoop
+-26.5844,18.1387,SS Keetmanshoop
+-26.5871,27.8393,UU Sebokeng Zone 14
+-26.588,27.841,SS Sebokeng
+-26.5931,27.8461,UU Sebokeng Zone 7
+-26.6014,27.8468,SS Sebokeng Plaza
+-26.6044,24.1709,SS Ganyesa
+-26.607,27.85,Ls Sebokeng Plaza
+-26.6406,27.9402,CH Arcon Park Hyper
+-26.6406,27.9402,LC Arcon Park
+-26.654,27.969,SC Three Rivers
+-26.6606,27.9694,CC Riverwalk
+-26.676,27.9324,LS Marks Park
+-26.676,27.9324,SO Marks Park
+-26.6815,31.6824,UU Siphofaneni Asset
+-26.6815,31.6824,UU Siphofaneni
+-26.6853,27.8742,UU Sharpeville
+-26.6892,25.4478,Uu Delareyville
+-26.6979,27.8343,UU Civic Centre
+-26.698,27.835,SC Civic Centre
+-26.698,27.8385,SS Vaalgate
+-26.7015,27.8384,CH Vndbijlprk Hyper
+-26.7015,27.8384,LC Vanderbijlpark
+-26.7108,29.3886,LC Secunda Mall
+-26.7111,27.1014,LS Potchefstroom
+-26.7111,27.1014,SC Potchefstroom
+-26.7129,27.1069,CC Potchefstroom
+-26.7129,27.1069,LC Potchefstroom
+-26.7209,27.0693,UU Ikageng
+-26.7348,27.8385,CC Emfuleni
+-26.7722,31.0326,UU Emjindini
+-26.7919,31.9375,SS Big Bend
+-26.804,27.8152,CS Sasolburg
+-26.8112,27.8275,LS Sasolburg
+-26.8112,27.8275,SO Sasolburg
+-26.8428,27.855,UU Zamdela
+-26.8498,26.7026,CC Matlosana (Klerks
+-26.8498,26.7026,LC Matlosana Mall
+-26.8559,26.6737,CC Flamwood Klksdp
+-26.8559,26.6737,LC Flamwood
+-26.8627,26.663,SS Klerksdorp Termin
+-26.8634,26.6631,LS Klerksdorp Termin
+-26.876,26.6655,CH Klerksdorp Hyper
+-26.876,26.6655,Lh Klerksdorp
+-26.877,26.5914,Ls Jouberton
+-26.8814,29.2211,SS Jouberton
+-26.893,26.591,UU Jouberton
+-26.9066,27.4523,Ls Parys
+-26.9066,27.4523,SS Parys
+-26.9075,27.6203,CC Parys 2
+-26.9075,27.6203,LC Parys
+-26.9097,27.2822,UU Madi Street
+-26.9184,27.4843,UU Thumahole
+-26.9228,27.4786,UU Marquard
+-26.9524,29.2418,SC Standerton
+-26.956,24.724,LS Vryburg
+-26.956,24.724,SS Vryburg
+-26.9585,24.7315,UU Vryburg (2)
+-26.9742,31.3257,UU Hlatikhulu
+-26.978,26.674,Ls Orkney
+-26.978,26.674,SO Orkney
+-27.0275,28.5979,UU Villiers
+-27.1016,31.1974,SS Zam Zam
+-27.1133,31.1993,SU Nhlangano
+-27.1902,25.3278,UU Keimoes
+-27.1902,25.3268,SS Schweizer Reneke
+-27.201,25.98,SS Wolmaranstad
+-27.212,26.949,UU Viljoenskroon
+-27.2336,26.2369,UU Leeudoringstad
+-27.2369,27.5726,UU Koppies
+-27.2755,28.4937,UU Frankfort
+-27.2789,27.9739,UU Heilbron
+-27.3676,29.8832,LS Volksrust
+-27.3676,29.8832,SS Volksrust
+-27.3782,31.6155,UU Pongola
+-27.3791,31.6121,SS Pongola
+-27.3818,26.602,UU Bothaville
+-27.4236,30.8201,UU Paulpietersburg
+-27.4328,32.0993,SS Jozini
+-27.463,23.436,SS Kuruman
+-27.5278,24.7862,SS Taung
+-27.649,27.231,CC Kroonstad
+-27.6513,25.5962,UU Bloemhof
+-27.6519,27.2069,UU Maokeng
+-27.6616,27.2355,SS Kroonstad-Manies
+-27.662,27.234,Ls Kroonstad
+-27.6632,27.2344,Uu Kroonstad
+-27.6923,23.071,CC Kathu
+-27.6923,23.071,LC Kathu
+-27.694,23.051,SC Kathu
+-27.7487,30.0348,UU Mzamo
+-27.753,29.9285,UU Terminus Road
+-27.754,24.809,SS Hartswater
+-27.7566,24.8166,CC Hartswater
+-27.7566,24.8166,LC Hartswater
+-27.7589,29.9321,CC Newcastle
+-27.7589,29.9321,LC Newcastle
+-27.759,29.9321,SS Newcastle
+-27.759,29.9321,LS Newcastle
+-27.7626,30.7883,CC Vryheid
+-27.7626,30.7883,LC Overport
+-27.7626,30.7883,LC Vryheid
+-27.7629,30.0856,UU Zenzele
+-27.765,30.795,LS Vryheid
+-27.765,30.795,SO Vryheid
+-27.768,30.793,CC Nseleni
+-27.7765,29.9447,CC Castle Rock-Nwcst
+-27.7765,29.9447,LC Castle Rock
+-27.7776,24.7003,UU Pampierstad
+-27.7829,30.1051,SS Theku Mall
+-27.787,30.063,SC Madadeni
+-27.7897,30.1308,UU Osizweni 2
+-27.8328,26.3706,UU Wesselsbron
+-27.8356,25.9055,UU Hoopstad
+-27.8546,28.9648,UU Warden
+-27.872,26.6932,UU Odendaalsrus
+-27.9082,31.6469,LS Nongoma Town
+-27.9082,31.6469,SS Nongoma Town
+-27.9102,25.1713,Uu Christiana
+-27.917,31.647,LS Nongoma
+-27.917,31.647,SS Nongoma
+-27.9645,16.7575,Uu Rosh Pina
+-27.9683,26.7992,UU Thabong
+-27.9734,27.0262,UU Hennenman
+-27.9754,26.7752,SS Thabong
+-27.9779,26.7339,CC Goldfields
+-27.979,26.735,CS Welkom
+-27.9804,26.7425,LC Goldfields
+-27.984,26.738,Ls Welkom
+-27.984,26.738,SO Welkom
+-27.9911,26.7133,CC Saints
+-27.9911,26.7133,LC Saints
+-27.9986,26.8172,UU Bronville
+-28.0137,18.7476,Uu Karasburg
+-28.0171,32.2708,SS Hluhluwe
+-28.0888,27.1403,UU Ventersburg
+-28.1058,26.8659,UU Virginia
+-28.11,26.866,CC Virginia
+-28.161,30.237,LS Dundee
+-28.161,30.237,SC Dundee
+-28.2026,28.2598,SS Boksburg North 
+-28.21,30.677,SS Nquthu
+-28.233,28.31,SS Bethlehem
+-28.2421,28.3257,CC Bethlehem
+-28.2421,28.3257,LC Bethlehem
+-28.269,29.125,SO Harrismith
+-28.2718,29.1234,CO Harrismith
+-28.2904,26.1508,UU Bultfontein
+-28.303,31.422,LS Ulundi
+-28.303,31.422,SM Ulundi
+-28.303,31.422,SO Ulundi
+-28.3172,23.0684,SS Postmasburg
+-28.3194,27.6217,UU Senekal
+-28.3994,26.7131,UU Theunissen
+-28.414,32.187,SS Mtubatuba
+-28.4162,32.1807,LS Mtuba Mall
+-28.4162,32.1807,SS Mtuba Mall
+-28.4441,21.2574,CC Kalahari Mall
+-28.4441,21.2574,LC Kalahari Mall
+-28.4597,21.2423,LS Upington
+-28.461,21.244,CO Upington
+-28.461,21.244,SC Upington
+-28.5195,28.8237,SS Setsing
+-28.5332,24.5136,UU Barkly West
+-28.5401,28.8222,LS Mandela Park
+-28.5401,28.8222,SS Mandela Park
+-28.5512,29.7341,UU Illing Road
+-28.5532,30.4256,UU Pomeroy
+-28.5574,29.7824,SO Ladysmith
+-28.5586,29.779,CC Ladysmith - Oval
+-28.5617,29.7837,Sm Queen Street
+-28.5892,31.3986,SS Melmoth
+-28.5892,32.3636,LS Melmoth
+-28.605,32.089,Uu Kwambonambi
+-28.616,29.9299,SS Ezakheni Mall
+-28.672,24.7203,UU Roodepan
+-28.7019,26.4628,UU Brandfort
+-28.7123,24.7494,SS Barkley Road
+-28.7308,29.3522,SS Bergville
+-28.7311,29.3496,LS Bergville
+-28.7368,29.8238,UU Colenso
+-28.7417,31.8913,CC Empangeni
+-28.7419,31.888,Ls Empangeni
+-28.7419,31.888,SO Empangeni
+-28.743,24.766,SC Kimberley
+-28.744,24.763,SC Kimberley Centre
+-28.7452,24.7624,CC Kimberley Game Ce
+-28.7452,24.7624,LC Newpark Kimberley
+-28.7492,32.0489,SR Richards Bay
+-28.753,32.048,LC Boardwalk
+-28.7544,30.4431,SS Tugela Ferry
+-28.7547,32.0472,CC Boardwalk R/bay
+-28.7579,24.768,LC Diamond Pavillion
+-28.7636,31.9081,UU Empangeni Rail
+-28.7657,24.7647,CC Diamond Pavillion
+-28.7693,28.2487,UU Butha Buthe
+-28.793,24.7724,SS Jan Kempdorp
+-28.87,27.875,SS Ficksburg
+-28.8711,28.0445,SS Leribe
+-28.8769,27.8852,Uu Ficksburg
+-28.8862,27.8956,UU Maputsoe
+-28.889,31.472,SO Eshowe
+-29.007,29.874,SS Estcourt
+-29.0318,31.59,LS Gingindlovu
+-29.0318,31.59,SS Gingindlovu
+-29.049,26.1805,CC Woodlands
+-29.049,26.1805,LC Woodlands
+-29.054,23.7752,UU Douglas
+-29.0606,30.5956,UU Greytown
+-29.0624,30.5919,Ls Greytown
+-29.0624,30.5919,SS Greytown
+-29.0956,26.1599,CC Langenhovenpark
+-29.1134,26.2114,CC Westdene
+-29.116,26.2214,LS Bloemfontein
+-29.116,26.2214,SS Bloemfontein
+-29.1164,26.2192,CC Mimosa Mall
+-29.1164,26.2192,LC Mimosa Mall
+-29.1172,26.2196,SO Bloemfontein
+-29.1276,24.773,Uu Jacobsdal
+-29.143,26.2528,Ls Heidedal
+-29.143,26.2528,SS Heidedal
+-29.1445,31.4036,SS Mandeni
+-29.1456,31.4032,SO Sundumbili
+-29.1513,27.742,UU Ty
+-29.158,26.1894,CH Bloemfontei Hyper
+-29.158,26.1894,Lh Bloemfontein
+-29.1734,26.2347,SR Mangaung
+-29.192,27.455,SO Ladybrand
+-29.2077,26.241,UU Mangaung
+-29.208,26.835,SS Thaba Nchu
+-29.2105,25.8759,Ls Metropolitan
+-29.2105,25.8759,SO Metropolitan
+-29.2202,26.7128,Ls Botshabelo
+-29.2202,26.7128,SS Botshabelo
+-29.2548,26.7335,UU Botshabelo
+-29.3131,27.4961,UU Busrank
+-29.3139,27.482,LS Maseru Mall
+-29.3139,27.482,SS Maseru Mall
+-29.3145,27.4795,SO Maseru
+-29.3147,27.4937,SS Sefika
+-29.3163,27.491,UU Kingsway Maseru
+-29.3341,31.2855,UU Stanger
+-29.3381,31.2904,CC Stanger
+-29.3381,31.2904,LC Stanger
+-29.3405,31.2956,SC Stanger
+-29.3572,27.4597,UU Thetsane
+-29.451,31.2196,Su Shakaskraal
+-29.485,30.233,SS Howick
+-29.519,27.0454,Ls Klapmuts
+-29.527,31.2057,CC Ballito
+-29.527,31.2057,LC Ballito
+-29.5469,31.1361,UU Maidstone
+-29.5662,30.4069,LS Raisethorpe
+-29.5662,30.4069,SS Raisethorpe
+-29.572,30.358,CC Cascades
+-29.572,31.115,SS Tongaat
+-29.5915,30.3946,CH Brookside Mall
+-29.5915,30.3946,LC Brookside
+-29.5928,30.3828,UU Retief Street
+-29.5953,30.3831,UU Pietermaritz Str
+-29.5984,30.3833,LS Symons Street
+-29.5984,30.3833,SO Symons St
+-29.6156,30.3942,CC Scottsville
+-29.616,30.395,LC Scottsville
+-29.641,31.047,SS Verulam
+-29.6411,31.0458,UU Moss St Verulam
+-29.6434,31.0434,SS Verulam Highway
+-29.6477,30.3378,LS Edendale
+-29.6477,30.3378,SS Edendale Pmb
+-29.6626,22.7445,UU Prieska
+-29.664,17.887,SS Springbok
+-29.702,31.006,LS Phoenix
+-29.702,31.006,SS Phoenix
+-29.7231,30.9833,LS Dube Village
+-29.7231,30.9833,SS Inanda
+-29.7248,30.9844,SS Bridge City
+-29.725,31.039,SS Mount Edgecombe
+-29.728,31.085,CO Umhlanga
+-29.7289,27.039,UU Wepener
+-29.7295,31.0676,CH Gateway Hyper
+-29.7295,31.0676,LC Gateway
+-29.7491,30.8147,CC Watercrest
+-29.75,30.971,Ls Kwa Mashu
+-29.75,30.971,SO Kwa Mashu
+-29.7611,25.4251,Usave Jagersfontein
+-29.7727,30.9363,Sm Newlands West
+-29.7729,31.0527,CC Virginia Circle
+-29.7729,31.0527,LC Virginia Circle
+-29.7766,31.0448,CO Durban North
+-29.7806,30.7628,CC Hillcrest
+-29.7806,30.7628,LC Hillcrest
+-29.7838,30.9736,SS Newlands Natal
+-29.8003,30.9627,CC Reservoir Hills
+-29.8003,30.9627,LC Reservoir Hills
+-29.8131,30.8553,SS Simunye Centre
+-29.816,30.859,LS Pinetown
+-29.816,30.859,SO Pinetown
+-29.816,30.866,CC St Johns Centre
+-29.8168,30.8673,LC St John Centre
+-29.8238,27.2469,SS Mafeteng
+-29.832,31.02,CC Windermere
+-29.836,30.918,CC Westville
+-29.836,30.918,LC Westville
+-29.837,31,CS Overport
+-29.841,31.021,LS Umgeni Road
+-29.841,31.021,SC Umgeni Road
+-29.8498,30.936,CH Pavillion Hyper
+-29.8498,30.936,Lh Pavillion Mall
+-29.852,31.017,UU Beatrice
+-29.855,31.036,SC West Street
+-29.856,31.004,SO Berea
+-29.857,31.031,LS Britannia West St
+-29.857,31.031,SS Britannia West St
+-29.858,31.033,SC Brickhill Road
+-29.858,31.033,LS Brickhill
+-29.8609,31.001,CC Davenport Rd
+-29.8702,30.2738,UU Richmond
+-29.8706,30.805,UU Marianhill
+-29.881,30.919,CC Queensburgh
+-29.881,30.919,LC Queensburgh
+-29.898,30.974,CS Southway Mall
+-29.9006,30.8794,CH Shallcross Hyper
+-29.914,30.883,Ls Chatsworth
+-29.914,30.883,SC Chatsworth
+-29.922,30.958,SO Montclair
+-29.93,31.002,CS Bluff
+-29.93,31.002,LC Bluff
+-29.9387,30.9439,Sm Xai Xai
+-29.9387,30.9439,SS Esikhawini
+-29.9387,30.9439,UU Etango Oshakati
+-29.9387,30.9439,UU Montagu
+-29.9531,30.9689,UU Merebank
+-29.972,30.9057,LS Kwamnyandu
+-29.972,30.9057,SS Kwamnyandu
+-29.982,30.929,SS Isipingo
+-29.9945,30.8948,UU Umlazi U Section
+-3.3753,36.679,SS Arusha
+-30.0336,30.9,CH Galleria Hyper
+-30.0336,30.9,Lh Galleria
+-30.055,30.884,SO Amanzimtoti
+-30.065,30.87,CC Amanzimtoti
+-30.154,30.0581,Ls Ixopo
+-30.154,30.0581,SS Ixopo
+-30.264,29.9383,LS Mzimkulu
+-30.264,29.9383,SS Umzimkhulu 
+-30.291,30.754,CS Scottburgh
+-30.291,30.754,LC Scottburgh
+-30.3027,27.0841,UU Zastron
+-30.34,28.81,SS Matatiele
+-30.4954,25.9759,UU Bethulie
+-30.5298,27.375,LS Sterkspruit
+-30.5298,27.375,SS Sterkspruit
+-30.551,29.424,LS Kokstad
+-30.551,29.424,SS Kokstad
+-30.5734,29.8798,LS Harding
+-30.5734,29.8798,SS Harding
+-30.6498,24.0106,CO De Aar
+-30.655,24.012,SS De Aar
+-30.688,26.705,LS Aliwal North
+-30.688,26.705,SS Aliwal North
+-30.6898,28.5034,UU Mount Fletcher
+-30.7201,25.0975,UU Colesberg
+-30.74,30.448,Ls Port Shepstone
+-30.74,30.448,SO Port Shepstone
+-30.74,30.448,SS Ryder Street
+-30.8072,30.4094,CC Shelley Beach
+-30.8588,29.8525,SS Bizana
+-30.8611,29.8525,LS Bizana
+-30.864,30.361,CO Margate
+-30.865,30.361,SC Margate
+-30.865,30.361,LS Margate
+-30.899,28.994,LS Mount Frere
+-30.899,28.994,Sm Mount Frere
+-30.899,28.994,SS Mount Frere (2)
+-30.995,26.3272,UU Burgersdorp
+-31.0795,29.5006,UU Flagstaff
+-31.0805,29.4941,SS Flagstaff
+-31.164,28.868,UU Qumbu
+-31.1949,28.2342,UU Ugie Ec
+-31.3335,27.8513,UU Elliot
+-31.3345,27.8473,LS Elliot Sp
+-31.3345,27.8473,SS Elliot Sp
+-31.3358,27.8456,UU Maclear
+-31.3574,29.5646,SS Lusikisiki (2)
+-31.366,29.574,SS Lusikisiki
+-31.366,29.574,LS Lusikisiki
+-31.4928,25.0064,UU Middelburg Ec
+-31.5245,27.6948,UU Cala
+-31.5417,29.0177,UU Libode
+-31.5881,28.7906,Ls Mthatha
+-31.5881,28.7906,Uu Mthatha
+-31.589,28.786,LS Umtata
+-31.589,28.786,SS Umtata
+-31.5947,28.7876,CC Mthatha
+-31.5973,28.787,CC Ngebs City
+-31.5973,28.787,LC Ngebs City
+-31.628,29.543,UU Port St Johns
+-31.667,18.505,LS Vredendal
+-31.667,18.505,SS Vredendal
+-31.6738,18.509,CC Vredendal
+-31.6738,18.509,LC Vredendal Mall
+-31.6754,27.9978,SS Ngcobo
+-31.817,28.7628,LS Mqanduli
+-31.817,28.7628,SS Mqanduli
+-31.896,26.872,CC Queenstown
+-31.897,26.871,SO Queenstown
+-31.9007,26.8713,UU Queenstown
+-31.9029,26.8745,CC Nonesi Mall
+-32.0387,27.8199,SS Tsomo
+-32.0957,18.3065,UU Lambertsbaai
+-32.168,25.616,SC Cradock
+-32.1752,26.8236,Uu Whittlesea
+-32.1778,18.8931,UU Clanwilliam
+-32.1999,27.9382,Usave Nqamakwe
+-32.249,24.536,LS Graaff Reinet
+-32.249,24.536,SS Graaff Reinet
+-32.2982,27.1469,UU Cathcart
+-32.3301,28.1447,SS Empumalanga
+-32.3301,28.1447,SS Siyavuma
+-32.3333,28.1426,LS Butterworth
+-32.3333,28.1426,SS Butterworth Fingo
+-32.3522,22.5822,CS Beaufort West
+-32.353,22.582,SO Beaufort West
+-32.5064,28.3178,LS Kentani
+-32.5064,28.3178,SS Kentani
+-32.5703,27.4302,SS Stutterheim
+-32.5952,19.0139,Uu Citrusdal
+-32.7219,25.5922,UU Somerset-East
+-32.7705,18.1567,UU Laaiplek
+-32.7794,26.6294,UU Fort Beaufort
+-32.7893,26.8346,UU Alice
+-32.8741,27.3887,CS Metlife Mall
+-32.8741,27.3887,LC Metlife Mall
+-32.8783,27.3858,UU Kingwilliams
+-32.8794,27.3898,SO Kingwilliamstown
+-32.905,18.756,SS Piketberg
+-32.907,17.989,SS Vredenburg
+-32.907,17.994,LS Vredenburg
+-32.907,17.994,SC Vredenburg 2
+-32.9129,18.0021,UU Louwville
+-32.921,17.9872,CC West Coast Mall
+-32.921,17.9872,LC West Coast Mall
+-32.9354,27.742,LS Mdantsane City
+-32.9354,27.742,SS Mdantsane City
+-32.9393,27.7588,LS Mdantsane
+-32.9393,27.7588,SC Mdantsane
+-32.9703,27.9021,CC Hemingways Mall
+-32.9703,27.9021,LC Hemingways Mall
+-32.9815,27.9005,CC Vincent
+-32.9815,27.9005,LC Vincent
+-32.9861,27.9197,CS Nahoon
+-32.9861,27.9197,LC Nahoon
+-32.9941,27.8675,SC Amalinda
+-32.9941,27.8669,LS Amalinda
+-33.0092,17.9439,UU Saldanha
+-33.0092,18.9935,UU Porterville
+-33.0153,27.8584,LS Esikhawini
+-33.0164,27.9043,SO Oxford St El
+-33.018,27.903,UU Buffalo Street
+-33.0186,27.9034,LS Caxton Street
+-33.0186,27.9034,SC Caxton St El
+-33.0264,22.812,UU Sedgefield
+-33.0816,18.037,UU Langebaan
+-33.1527,18.6634,UU Moorreesburg
+-33.1966,27.1186,UU Peddie
+-33.2838,19.1393,UU Tulbagh
+-33.2931,19.3273,UU Prins Alfred Haml
+-33.312,26.524,CO Grahamstown
+-33.312,26.524,LC Grahamstown
+-33.312,26.533,LS Grahamstown
+-33.312,26.533,SC Grahamstown
+-33.369,19.312,SS Ceres
+-33.379,18.3852,UU Darling
+-33.4003,25.4416,UU Kirkwood
+-33.4156,19.2008,UU Wolseley
+-33.4627,18.729,CS Malmesbury
+-33.4664,18.7258,UU Malmesbury
+-33.469,19.671,UU De Doorns
+-33.494,21.2704,UU Ladismith
+-33.563,18.494,SS Atlantis 
+-33.5668,18.4832,SU Atlantis
+-33.579,22.207,CC Oudtshoorn
+-33.579,22.207,LC Oudtshoorn
+-33.579,22.207,SO Oudtshoorn
+-33.6318,19.4346,CC Mountain Mill
+-33.6318,19.4346,LC Mountain Mill
+-33.6419,19.4459,SS Stockenstroom Str
+-33.642,19.004,LS Wellington
+-33.642,19.004,SS Wellington
+-33.6426,19.447,CS Worcester 2
+-33.6475,19.4414,SS Russel St Worcest
+-33.6492,19.4441,Su Worcester
+-33.6506,19.0023,CC Welgelee Plein
+-33.6506,19.0023,LC Welgelee Plein
+-33.6519,19.4533,UU Zweletemba
+-33.6645,18.9939,UU Mbekweni
+-33.6737,18.9981,SS Mbekweni Paarl
+-33.7089,18.9631,CC Paarl North
+-33.7171,18.9947,UU Paarl East
+-33.7306,18.9699,CC Paarl
+-33.7306,18.9699,LC Paarl
+-33.731,18.9853,SF Hugenot Paarl
+-33.7321,18.9693,LS Paarl Bergrivier 
+-33.7321,18.9693,LS Paarl Bergrivier
+-33.7321,18.9693,SS Paarl
+-33.7332,18.9627,CC Van Der Lingen
+-33.7332,18.9627,LC Van Der Lingen
+-33.769,25.399,LS Uitenhage
+-33.769,25.399,SO Hyper Uitenhage
+-33.7861,20.1234,Ls Montagu
+-33.7861,20.1234,SO Montagu
+-33.7884,18.457,CC Big Bay
+-33.7884,18.457,LC Big Bay
+-33.799,25.469,LS Despatch
+-33.799,25.469,SC Despatch
+-33.799,18.5016,CH Parklands Hyper
+-33.8002,18.5023,Lh Parklands Sandown
+-33.8014,19.8837,SR Robertson
+-33.803,19.887,UU Robertson
+-33.8047,18.8714,SS Klapmuts
+-33.8056,25.3968,LS Kwanobuhle
+-33.8056,25.3968,SS Kwanobuhle
+-33.811,25.596,Ls Motherwell
+-33.811,25.596,SS Motherwell
+-33.8136,18.5409,LS Du Noon
+-33.8136,18.5409,SS Du Noon
+-33.8155,18.5372,UU Du Noon
+-33.8168,18.4971,UU Parklands
+-33.823,18.489,CS Table View
+-33.823,18.489,LC Table View
+-33.8243,25.5948,SU Motherwell
+-33.8243,25.5948,UU Dutywa
+-33.8262,23.8519,UU Joubertina
+-33.828,18.651,SC Durbanville
+-33.831,18.648,CS Durbanville
+-33.8317,18.6476,LC Durbanville
+-33.8394,25.521,LS Ziyabuya
+-33.8394,25.521,SS Ziyabuya
+-33.8422,18.5448,CC De Grendel
+-33.8422,18.5448,LC De Grendel
+-33.8426,18.7108,UU Brighton Road
+-33.8437,18.6769,CC Cobble Walk
+-33.8515,18.6979,CC Cape Gate
+-33.8515,18.6979,LC Cape Gate
+-33.8521,18.7229,SF Van Riebeeck Str
+-33.8552,18.7265,LS Kraaifontein 2
+-33.8552,18.7265,SS Kraaifontein 2
+-33.8573,18.7058,UU Scottsville
+-33.8681,18.6308,CC Willowbridge
+-33.8689,18.5323,SS Bothasig
+-33.869,18.532,LS Bothasig (Old)
+-33.869,18.532,LS Bothasig
+-33.8793,25.5742,LS Daku Road
+-33.8793,25.5742,SS Daku Rd - Ibhayi
+-33.884,18.496,SC Milnerton
+-33.8841,18.682,CS Brackenfell Hyper
+-33.8841,18.682,Lh Brackenfell
+-33.885,25.5633,Ls Kenako
+-33.885,25.5633,SS Struandale-kenako
+-33.8854,25.595,UU Kwazakhele
+-33.8893,18.6896,CC Protea Hoogte
+-33.8893,18.6896,LC Protea Hoogte
+-33.891,18.561,CH N1 City Hyper
+-33.891,18.561,Lh N1 City
+-33.891,18.632,CS Oakdale
+-33.893,18.512,CC Century City
+-33.894,25.528,SC Bethelsdorp
+-33.895,19.1029,UU Franschhoek
+-33.8968,25.5892,LS New Brighton
+-33.8968,25.5892,SS New Brighton
+-33.901,18.629,LS Bellville
+-33.901,18.629,SS Bellville
+-33.9023,18.4885,SS Brooklyn
+-33.9048,18.8492,UU Cloetesville
+-33.9049,18.5922,LS Parow Park
+-33.9049,18.5922,SC Park
+-33.9059,18.6293,LS Middestad
+-33.9059,18.6293,SO Middestad
+-33.906,18.6279,Uu Bellville Station
+-33.9062,18.5991,CH Parow Hyper
+-33.9062,18.5991,Lh Parow
+-33.9066,18.5851,LS Parow Station
+-33.9066,18.5851,SS Parow
+-33.909,18.567,SS Elsies River
+-33.911,18.556,SO Vasco
+-33.9121,18.5504,SF Goodwood
+-33.9127,18.4831,UU Brooklyn
+-33.915,18.567,UU Elsies River
+-33.9165,18.3895,SS Sea Point
+-33.9207,18.3843,CC Sea Point
+-33.9207,18.3843,LC Sea Point
+-33.9212,18.4971,SS Maitland
+-33.9214,18.8532,LS Kayamandi
+-33.9214,18.8532,Uu Kayamandi
+-33.9214,18.8532,UU Stellenbosch
+-33.922,18.601,UU Ravensmead
+-33.923,18.422,SO Adderley St
+-33.9269,25.5703,Ls Stanford Road
+-33.9269,25.5703,SS Stanford Square
+-33.927,18.68,SS Kuils River
+-33.9278,18.5899,SF Cravenby
+-33.9293,18.5757,UU 27th Avenue
+-33.93,18.449,SS Woodstock
+-33.9312,18.5777,UU Abaisha Centre
+-33.932,18.409,CS Kloof Street
+-33.932,18.409,LC Kloof Street
+-33.934,25.584,UU Korsten
+-33.9348,18.6967,CC Zevenwacht
+-33.9348,18.6967,LC Zevenwacht
+-33.936,18.86,CS Eikestad Mall
+-33.936,18.86,UU Andringa Walk
+-33.9361,18.5837,SF Halt Road
+-33.9375,18.5244,Ls Langa
+-33.9375,18.5244,SS Langa
+-33.9386,18.8595,CO Stellenbosch
+-33.9386,18.8595,LC Stellenbosch
+-33.939,18.668,UU Sarepta
+-33.9394,20.1045,UU Bonnievale
+-33.945,22.4147,UU Blanco
+-33.946,18.5341,UU Langa
+-33.9464,25.5094,CC Metlife Plaza
+-33.9464,25.5094,LC Metlife Plaza
+-33.947,18.471,LS Mowbray
+-33.947,18.471,SS Mowbray
+-33.9476,18.6166,UU Belhar
+-33.9488,25.5576,CC Newton Park
+-33.9488,25.5576,LC Newton Park
+-33.949,18.5819,SF Bishop Lavis
+-33.9497,25.5773,LS Greenacres
+-33.9497,25.5773,SS Hyper Greenacres
+-33.95,25.608,LS Pier 14
+-33.95,25.608,SO Pier 14
+-33.9509,25.58,CO Greenacres
+-33.952,25.4599,CH Hyper Bay West
+-33.952,25.4599,LC Bay West
+-33.952,24.2993,Ls Kareedouw
+-33.952,24.2993,UU Kareedouw
+-33.9524,18.6465,SS Belhar
+-33.9604,25.6215,SO Govan Mbeki Ave
+-33.9611,22.4572,LS George
+-33.9611,22.4572,SC George C.p.
+-33.9613,18.5021,SF Athlone
+-33.9615,22.4609,UU George
+-33.9619,18.5685,SS Charlesville
+-33.962,18.47,CS Rondebosch
+-33.9639,22.4791,CC St Georges Square
+-33.9639,22.4791,LC St Georges Square
+-33.9696,25.4936,CC Lorraine
+-33.9696,25.4936,LC Lorraine
+-33.9696,18.6439,UU Delft
+-33.97,18.534,SS Gatesville
+-33.97,18.544,UU Surrey Estate
+-33.9718,22.4449,CC York St Centre
+-33.972,22.4448,CC York Street
+-33.9791,18.6696,SS Blue Downs
+-33.9791,18.6696,LS Blue Downs
+-33.98,18.465,SO Claremont
+-33.98,25.597,CC Sixth Avenue
+-33.98,25.597,LC Sixth Avenue
+-33.9803,18.6981,US Gaylee
+-33.9822,25.5539,CC Moffett On Main
+-33.9822,25.5539,LC Moffett On Main
+-33.9846,22.5004,CC Eden Meander-geor
+-33.9864,18.5652,Ls Gugulethu
+-33.9864,18.5652,SS Gugulethu
+-33.989,18.486,CS Kenilworth
+-33.9912,18.5596,SS Nyanga Junction
+-33.9914,22.4742,UU Sandkraal Weg
+-33.992,18.705,UU Kleinvlei
+-33.9956,18.5287,SF Hanover Park
+-34.0005,18.5944,LS Philippi
+-34.0005,18.5944,SS Phillipi
+-34.0017,18.5217,SS Lansdowne Corner
+-34.0022,22.4855,SS Thembalethu
+-34.003,18.4698,SO Maynard Mall
+-34.0033,18.5716,UU Imarike
+-34.0033,18.6816,LS Mfuleni
+-34.0033,18.6816,SS Mfuleni
+-34.0045,18.7286,SS Eerste River
+-34.007,18.469,SF Wynberg Centre
+-34.0076,18.4686,SS Wynberg
+-34.015,18.65,LS Khayelitsha Site 
+-34.015,18.65,SS Khayelitsha Site 
+-34.0187,20.4459,CC Swellen Mark
+-34.0212,24.7447,UU Humansdorp
+-34.0216,20.444,Uu Swellendam
+-34.022,18.468,CS Plumstead
+-34.022,18.468,LC Plumstead
+-34.0223,18.5224,UU Ottery
+-34.0268,24.7707,SS Humansdorp
+-34.0268,18.6645,Ls Nonqubela
+-34.0268,18.6645,SS Khayelitsha
+-34.0268,18.6645,LS Khayelitsha
+-34.0299,18.4801,LS Southfield
+-34.0299,18.4801,SS Southfield
+-34.0335,18.6643,UU Khayelitsha
+-34.0348,24.93,CC Jeffrey's Bay
+-34.0356,18.61,SS Lentegeur
+-34.0359,23.0459,SS Knysna
+-34.0367,18.66,SS Khayelitsha Cbd
+-34.0367,23.0475,CC Knysna
+-34.0367,23.0475,LC Knysna
+-34.04,18.456,CS Meadowridge
+-34.0412,18.5862,CS Weltevreden
+-34.045,18.359,CS Hout Bay
+-34.0463,23.3236,UU Kwanokuthula
+-34.0464,24.9174,CC Jeffrey's Bay Mal
+-34.047,18.7026,SS Makhaza
+-34.0499,18.6226,SS Town Centre
+-34.0505,18.6194,SF Station Plaza
+-34.051,18.6214,SO Melody Walk
+-34.0525,18.6005,Uu Westridge
+-34.0529,18.5298,Ls Pelican Park
+-34.0529,18.5298,SS Pelican Park
+-34.0534,23.3429,UU Plettenberg Bay
+-34.054,23.372,CS Plettenberg Bay
+-34.0543,18.5939,SF Westridge
+-34.0571,24.9195,UU Jeffreysbay
+-34.0579,18.4689,UU Retreat
+-34.058,18.4752,SS Retreat
+-34.0609,18.7621,LS Macassar
+-34.0609,18.7621,SS Macassar
+-34.063,18.454,CH Tokai Hyper
+-34.063,18.454,LC Tokai
+-34.0659,18.6119,SF Rocklands
+-34.0739,18.4606,SS Steenberg
+-34.0846,18.8518,UU Strand
+-34.085,18.8498,SO Somerset West
+-34.0862,18.8544,LC Somerset West
+-34.0865,18.8545,CC Somerset West
+-34.0869,18.8292,CH Somerset West
+-34.0869,18.8292,Lh Somerset West
+-34.0924,21.2605,UU Riversdal
+-34.0927,20.9568,UU Heidelberg (WC)
+-34.102,18.8726,CC Vergelegen Plein
+-34.102,18.8726,Ls Vergelegen Plein
+-34.1062,18.4687,CS Muizenberg
+-34.116,18.827,SS Strand
+-34.116,18.86,UU Nomzamo
+-34.1203,18.9083,LS Sir Lowry's Pass
+-34.1203,18.9083,UU Sir Lowry's Pass
+-34.1211,18.39,CH Hyper Sunvalley
+-34.1223,18.8509,LS Broadway
+-34.1223,18.8509,SS Broadway
+-34.135,18.432,SC Fish Hoek
+-34.15,19.914,UU Riviersonderend
+-34.154,19.018,SS Grabouw
+-34.1549,19.0069,UU Grabouw
+-34.1801,22.0903,LS Kwanonqaba
+-34.1801,22.0903,SS Kwanonqaba Mb
+-34.1808,22.1434,CC Bayside (Mossel B
+-34.1808,22.1434,LC Bayside
+-34.183,22.147,SO Mosselbay
+-34.185,22.115,CO Heiderand
+-34.231,19.424,UU Caledon
+-34.4164,19.2429,CC Hermanus
+-34.4164,19.2429,LC Hermanus
+-34.4253,19.2211,UU Hermanus
+-34.5331,20.0423,UU Bredasdorp
+-34.5338,20.0438,CC Bredasdorp
+-34.5338,20.0438,LC Bredasdorp
+-34.582,19.35,UU Gansbaai
+5.5461,-0.3452,SS West Hills
+5.5465,-0.3409,SS Weija
+5.5662,0.1829,SS Glahco
+5.571,5.783,SS Delta Mall
+5.613,-0.2305,SS Achimota Mall
+5.6136,-0.0718,SS The Junction
+5.6214,-0.1736,SS Accra Mall
+5.644,-0.0001,UU Casino
+-6.1251,12.3597,Sm Soyo
+6.1566,6.7949,SS Onitsha Mall
+6.4344,3.45,SS The Palms
+6.449,3.3594,SS Park Lane
+6.4586,7.4959,SS Enugu
+6.4905,3.3563,SS Adeniran 
+6.615,3.3575,SS Ikeja City Mall
+-6.7525,39.2727,SS Slipway
+-6.7672,39.262,SS Mayfair Plaza
+-6.7729,39.2193,SS Mlimani (city)
+-6.8278,39.2748,SS Pugu Road
+7.2436,5.1966,SS Akure
+7.364,3.8652,SS Ibadan Mall
+7.3874,3.8791,SS Cocoa Mall
+8.4994,4.586,SS Kwara Mall
+-8.7763,13.3686,UU Cacuaco
+-8.7793,13.3634,SS Cacuaco
+-8.7819,15.3166,UU Mulemba
+-8.8232,13.227,UU Bairro Azul
+-8.8404,13.228,Sm Prenda
+-8.8486,13.2818,SS Palanca
+-8.8981,13.1865,UU Morro Bento 2
+-8.9017,13.2321,SS Nova Vida
+-8.9038,13.2688,UU Calemba 2
+-8.9237,13.1872,SS Belas
+-8.9349,13.3569,SS Viana
+-8.9626,13.1513,UU Benfica
+8.9846,7.4932,SS Grand Towers
+-9.006,13.4003,Sm Zango
+9.0676,7.4856,SS Silverbird Abuja
+9.0754,7.4256,SS Jabi Lake (Abuja)
+-9.2987,14.912,Sm Ndalatando
+-9.5411,16.3355,SM Malange
