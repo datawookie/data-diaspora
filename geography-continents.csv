@@ -1,0 +1,12 @@
+# code - continent code
+# name - continent name
+# area - continent area (km^2)
+#
+code,name,area
+AF,Africa,30221532
+NA,North America,24709000
+OC,Oceania,8,525,989
+AN,Antarctica,14000000
+AS,Asia,44579000
+EU,Europe,10180000
+SA,South America,17840000
