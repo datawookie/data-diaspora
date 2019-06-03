@@ -1,334 +1,332 @@
-# https://www.expatistan.com/cost-of-living/index
-#
-rank;city
-1st;Grand Cayman (Cayman Islands)
-2nd;Mountain View, California (United States)
-3rd;San Francisco, California (United States)
-4th;Zurich (Switzerland)
-5th;New York City (United States)
-6th;Geneva (Switzerland)
-7th;Hong Kong
-8th;Basel (Switzerland)
-9th;London (United Kingdom)
-10th;Lausanne (Switzerland)
-11th;Tokyo (Japan)
-12th;Oslo (Norway)
-13th;Reykjavik (Iceland)
-14th;San Jose, California (United States)
-15th;Oakland, California (United States)
-16th;Nassau (Bahamas)
-17th;Honolulu, Hawaii (United States)
-18th;Lugano (Switzerland)
-19th;Washington D.C. (United States)
-20th;Boston, Massachusetts (United States)
-21st;Los Angeles, California (United States)
-22nd;Dublin (Ireland)
-23rd;Jersey City, New Jersey (United States)
-24th;Seattle, Washington (United States)
-25th;Doha (Qatar)
-26th;Miami, Florida (United States)
-27th;Santa Cruz, California (United States)
-28th;Copenhagen (Denmark)
-29th;Sydney (Australia)
-30th;Santa Ana, California (United States)
-31st;Singapore
-32nd;Denver, Colorado (United States)
-33rd;Chicago, Illinois (United States)
-34th;Boulder, Colorado (United States)
-35th;Paris (France)
-36th;Amsterdam (Netherlands)
-37th;Dubai (United Arab Emirates)
-38th;Sacramento, California (United States)
-39th;San Diego, California (United States)
-40th;Auckland (New Zealand)
-41st;Portland, Oregon (United States)
-42nd;Tel Aviv (Israel)
-43rd;Anchorage, Alaska (United States)
-44th;Abu Dhabi (United Arab Emirates)
-45th;Eugene, Oregon (United States)
-46th;Fort Lauderdale, Florida (United States)
-47th;Aarhus (Denmark)
-48th;Philadelphia, Pennsylvania (United States)
-49th;Atlanta, Georgia (United States)
-50th;Canberra (Australia)
-51st;Melbourne (Australia)
-52nd;Luxembourg
-53rd;Wellington (New Zealand)
-54th;Oxford (United Kingdom)
-55th;Helsinki (Finland)
-56th;Toronto (Canada)
-57th;Vancouver (Canada)
-58th;Minneapolis - St. Paul, Minnesota (United States)
-59th;Stockholm (Sweden)
-60th;The Hague (Netherlands)
-61st;Brighton and Hove (United Kingdom)
-62nd;Cambridge (United Kingdom)
-63rd;Pittsburgh, Pennsylvania (United States)
-64th;Bozeman, Montana (United States)
-65th;Frankfurt am Main (Germany)
-66th;Gold Coast (Australia)
-67th;Tacoma, Washington (United States)
-68th;Phoenix, Arizona (United States)
-69th;Fort Worth, Texas (United States)
-70th;Bristol (United Kingdom)
-71st;Brisbane (Australia)
-72nd;Hartford, Connecticut (United States)
-73rd;Nashville, Tennessee (United States)
-74th;Munich (Germany)
-75th;Dallas, Texas (United States)
-76th;Cork (Ireland)
-77th;Salt Lake City, Utah (United States)
-78th;Baltimore, Maryland (United States)
-79th;Charlotte, North Carolina (United States)
-80th;Scottsdale, Arizona (United States)
-81st;Hamburg (Germany)
-82nd;Rotterdam (Netherlands)
-83rd;New Orleans, Louisiana (United States)
-84th;Pensacola, Florida (United States)
-85th;Lyon (France)
-86th;Reading, Berkshire (United Kingdom)
-87th;Vancouver, Washington (United States)
-88th;Austin, Texas (United States)
-89th;Galway (Ireland)
-90th;Raleigh, North Carolina (United States)
-91st;Mississauga (Canada)
-92nd;Reno, Nevada (United States)
-93rd;St. John's, NL (Canada)
-94th;Colorado Springs, Colorado (United States)
-95th;Christchurch (New Zealand)
-96th;Cleveland, Ohio (United States)
-97th;Milan (Italy)
-98th;Tempe, Arizona (United States)
-99th;Cologne (Germany)
-100th;St. Louis, Missouri (United States)
-101st;San Juan (Puerto Rico)
-102nd;Victoria (Canada)
-103rd;Stuttgart (Germany)
-104th;Leeds (United Kingdom)
-105th;Las Vegas, Nevada (United States)
-106th;Hobart (Australia)
-107th;Perth (Australia)
-108th;Edinburgh (United Kingdom)
-109th;Madison, Wisconsin (United States)
-110th;Calgary (Canada)
-111th;Gothenburg (Sweden)
-112th;Eindhoven (Netherlands)
-113th;Düsseldorf (Germany)
-114th;Houston, Texas (United States)
-115th;Columbus, Ohio (United States)
-116th;Orlando, Florida (United States)
-117th;Adelaide (Australia)
-118th;Ottawa (Canada)
-119th;Beirut (Lebanon)
-120th;Harare (Zimbabwe)
-121st;Kuwait City (Kuwait)
-122nd;Tampa, Florida (United States)
-123rd;Glasgow (United Kingdom)
-124th;Richmond, Virginia (United States)
-125th;Brussels (Belgium)
-126th;Berlin (Germany)
-127th;Buffalo, New York (United States)
-128th;Aberdeen (United Kingdom)
-129th;Vienna (Austria)
-130th;Birmingham (United Kingdom)
-131st;Kansas City, Missouri (United States)
-132nd;Kelowna (Canada)
-133rd;Milwaukee, Wisconsin (United States)
-134th;Halifax (Canada)
-135th;Manchester (United Kingdom)
-136th;Ramallah (Palestinian Territory)
-137th;Tulsa, Oklahoma (United States)
-138th;Rome (Italy)
-139th;Edmonton (Canada)
-140th;Belfast (United Kingdom)
-141st;Winnipeg (Canada)
-142nd;Nottingham (United Kingdom)
-143rd;Nice (France)
-144th;Jacksonville, Florida (United States)
-145th;Saskatoon (Canada)
-146th;Cincinnati, Ohio (United States)
-147th;Cardiff (United Kingdom)
-148th;Omaha, Nebraska (United States)
-149th;Antwerp (Belgium)
-150th;Greenville, South Carolina (United States)
-151st;Louisville, Kentucky (United States)
-152nd;Liverpool (United Kingdom)
-153rd;Indianapolis, Indiana (United States)
-154th;San Antonio, Texas (United States)
-155th;Venice (Italy)
-156th;Oklahoma City, Oklahoma (United States)
-157th;Malmo (Sweden)
-158th;Port of Spain (Trinidad and Tobago)
-159th;Columbia, South Carolina (United States)
-160th;Shanghai (China)
-161st;Detroit, Michigan (United States)
-162nd;Toulouse (France)
-163rd;Boise, Idaho (United States)
-164th;Barcelona (Spain)
-165th;Knoxville, Tennessee (United States)
-166th;Panama City (Panama)
-167th;Tucson, Arizona (United States)
-168th;Jeddah (Saudi Arabia)
-169th;London, Ontario (Canada)
-170th;Madrid (Spain)
-171st;Amman (Jordan)
-172nd;Seoul (South Korea)
-173rd;Wichita, Kansas (United States)
-174th;Montreal (Canada)
-175th;Palma de Mallorca (Spain)
-176th;Sharjah (United Arab Emirates)
-177th;Bologna (Italy)
-178th;Birmingham, Alabama (United States)
-179th;Memphis, Tennessee (United States)
-180th;Valletta (Malta)
-181st;Albuquerque, New Mexico (United States)
-182nd;Padua (Italy)
-183rd;Turin (Italy)
-184th;Nicosia (Cyprus)
-185th;San Jose, Costa Rica (Costa Rica)
-186th;Greensboro, North Carolina (United States)
-187th;Bilbao (Spain)
-188th;Quebec City (Canada)
-189th;Manama (Bahrain)
-190th;Kitchener-Waterloo (Canada)
-191st;Taipei (Taiwan)
-192nd;Naples (Italy)
-193rd;Lisbon (Portugal)
-194th;Athens (Greece)
-195th;Port Louis (Mauritius)
-196th;Montevideo (Uruguay)
-197th;Limassol (Cyprus)
-198th;Catania (Italy)
-199th;Valencia (Spain)
-200th;Kingston (Jamaica)
-201st;Malaga (Spain)
-202nd;Ljubljana (Slovenia)
-203rd;Oporto (Portugal)
-204th;Pretoria (South Africa)
-205th;São Paulo (Brazil)
-206th;Zaragoza (Spain)
-207th;Beijing (China)
-208th;Johannesburg (South Africa)
-209th;Riyadh (Saudi Arabia)
-210th;Thessaloniki (Greece)
-211th;Tallinn (Estonia)
-212th;Baghdad (Iraq)
-213th;Santiago (Chile)
-214th;Accra (Ghana)
-215th;Seville (Spain)
-216th;Rio de Janeiro (Brazil)
-217th;Riga (Latvia)
-218th;Moscow (Russia)
-219th;Zagreb (Croatia)
-220th;Nairobi (Kenya)
-221st;Dammam (Saudi Arabia)
-222nd;Campinas (Brazil)
-223rd;Santo Domingo (Dominican Republic)
-224th;Brasília (Brazil)
-225th;Braga (Portugal)
-226th;Guayaquil (Ecuador)
-227th;Prague (Czech Republic)
-228th;Quito (Ecuador)
-229th;Jakarta (Indonesia)
-230th;Bratislava (Slovakia)
-231st;Belo Horizonte (Brazil)
-232nd;Warsaw (Poland)
-233rd;Vilnius (Lithuania)
-234th;Mexico City (Mexico)
-235th;Windhoek (Namibia)
-236th;Cape Town (South Africa)
-237th;Rijeka (Croatia)
-238th;São José dos Campos (Brazil)
-239th;Porto Alegre (Brazil)
-240th;Florianopolis (Brazil)
-241st;Durban (South Africa)
-242nd;Recife (Brazil)
-243rd;Monterrey (Mexico)
-244th;Goiânia (Brazil)
-245th;Salvador (Brazil)
-246th;Saint Petersburg (Russia)
-247th;Guatemala City (Guatemala)
-248th;Lima (Peru)
-249th;Dhaka (Bangladesh)
-250th;Budapest (Hungary)
-251st;Curitiba (Brazil)
-252nd;Manaus (Brazil)
-253rd;Brno (Czech Republic)
-254th;Kuala Lumpur (Malaysia)
-255th;Queretaro (Mexico)
-256th;Port Elizabeth (South Africa)
-257th;Lagos (Nigeria)
-258th;Casablanca (Morocco)
-259th;Tijuana (Mexico)
-260th;Blumenau (Brazil)
-261st;La Paz (Bolivia)
-262nd;Poznan (Poland)
-263rd;Manila (Philippines)
-264th;Gaborone (Botswana)
-265th;Fortaleza (Brazil)
-266th;Lucknow (India)
-267th;Lusaka (Zambia)
-268th;Tirana (Albania)
-269th;Bogotá (Colombia)
-270th;Belgrade (Serbia)
-271st;Guadalajara (Mexico)
-272nd;Bangkok (Thailand)
-273rd;Gdańsk (Poland)
-274th;Wrocław (Poland)
-275th;Sofia (Bulgaria)
-276th;Asunción (Paraguay)
-277th;Jundiai (Brazil)
-278th;Kraków (Poland)
-279th;Mumbai (India)
-280th;Delhi (India)
-281st;Sarajevo (Bosnia and Herzegovina)
-282nd;Kampala (Uganda)
-283rd;Pune (India)
-284th;Ho Chi Minh City (Vietnam)
-285th;Zapopan (Mexico)
-286th;Bucharest (Romania)
-287th;Managua (Nicaragua)
-288th;Puebla (Mexico)
-289th;Cairo (Egypt)
-290th;Mérida (Mexico)
-291st;Algiers (Algeria)
-292nd;Bangalore (India)
-293rd;Chandigarh (India)
-294th;Medellín (Colombia)
-295th;Łódź (Poland)
-296th;Yekaterinburg (Russia)
-297th;Skopje (Macedonia)
-298th;Timisoara (Romania)
-299th;Kiev (Ukraine)
-300th;Istanbul (Turkey)
-301st;Barranquilla (Colombia)
-302nd;Cluj-Napoca (Romania)
-303rd;Santiago de Cali (Colombia)
-304th;Brasov (Romania)
-305th;Novosibirsk (Russia)
-306th;Iasi (Romania)
-307th;Gurgaon (India)
-308th;Buenos Aires (Argentina)
-309th;Hanoi (Vietnam)
-310th;Indore (India)
-311th;Kolkata (India)
-312th;Tunis (Tunisia)
-313th;Baku (Azerbaijan)
-314th;Minsk (Belarus)
-315th;Yerevan (Armenia)
-316th;Ahmedabad (India)
-317th;Astana (Kazakhstan)
-318th;Kharkiv (Ukraine)
-319th;Chişinău (Moldova)
-320th;Almaty (Kazakhstan)
-321st;Ankara (Turkey)
-322nd;Madras (India)
-323rd;Hyderabad, India (India)
-324th;İzmir (Turkey)
-325th;Tbilisi (Georgia)
-326th;Lviv (Ukraine)
-327th;Córdoba (Argentina)
-328th;Bursa (Turkey)
-329th;Antalya (Turkey)
-330th;Mendoza (Argentina)
-331st;Rosario (Argentina)
+rank,city,country_region
+1st,Grand Cayman,Cayman Islands
+2nd,Mountain View,United States
+3rd,San Francisco,United States
+4th,Zürich,Switzerland
+5th,New York,United States
+6th,Geneva,Switzerland
+7th,Hong Kong,Hong Kong
+8th,Basel,Switzerland
+9th,London,United Kingdom
+10th,Lausanne,Switzerland
+11th,Tokyo,Japan
+12th,Oslo,Norway
+13th,Reykjavik,Iceland
+14th,San Jose,United States
+15th,Oakland,United States
+16th,Nassau,Bahamas
+17th,Honolulu,United States
+18th,Lugano,Switzerland
+19th,Washington D.C,United States
+20th,Boston,United States
+21st,Los Angeles,United States
+22nd,Dublin,Ireland
+23rd,Jersey City,United States
+24th,Seattle,United States
+25th,Doha,Qatar
+26th,Miami,United States
+27th,Santa Cruz,United States
+28th,Copenhagen,Denmark
+29th,Sydney,Australia
+30th,Santa Ana,United States
+31st,Singapore,Singapore
+32nd,Denver,United States
+33rd,Chicago,United States
+34th,Boulder,United States
+35th,Paris,France
+36th,Amsterdam,Netherlands
+37th,Dubai,United Arab Emirates
+38th,Sacramento,United States
+39th,San Diego,United States
+40th,Auckland,New Zealand
+41st,Portland,United States
+42nd,Tel Aviv,Israel
+43rd,Anchorage,United States
+44th,Abu Dhabi,United Arab Emirates
+45th,Eugene,United States
+46th,Fort Lauderdale,United States
+47th,Aarhus,Denmark
+48th,Philadelphia,United States
+49th,Atlanta,United States
+50th,Canberra,Australia
+51st,Melbourne,Australia
+52nd,Luxembourg,Luxembourg
+53rd,Wellington,New Zealand
+54th,Oxford,United Kingdom
+55th,Helsinki,Finland
+56th,Toronto,Canada
+57th,Vancouver,Canada
+58th,Minneapolis,United States
+59th,Stockholm,Sweden
+60th,The Hague,Netherlands
+61st,Brighton and Hove,United Kingdom
+62nd,Cambridge,United Kingdom
+63rd,Pittsburgh,United States
+64th,Bozeman,United States
+65th,Frankfurt,Germany
+66th,Gold Coast,Australia
+67th,Tacoma,United States
+68th,Phoenix,United States
+69th,Fort Worth,United States
+70th,Bristol,United Kingdom
+71st,Brisbane,Australia
+72nd,Hartford,United States
+73rd,Nashville,United States
+74th,Munich,Germany
+75th,Dallas,United States
+76th,Cork,Ireland
+77th,Salt Lake City,United States
+78th,Baltimore,United States
+79th,Charlotte,United States
+80th,Scottsdale,United States
+81st,Hamburg,Germany
+82nd,Rotterdam,Netherlands
+83rd,New Orleans,United States
+84th,Pensacola,United States
+85th,Lyon,France
+86th,Reading,United Kingdom
+87th,Vancouver,United States
+88th,Austin,United States
+89th,Galway,Ireland
+90th,Raleigh,United States
+91st,Mississauga,Canada
+92nd,Reno,United States
+93rd,St. John's,Canada
+94th,Colorado Springs,United States
+95th,Christchurch,New Zealand
+96th,Cleveland,United States
+97th,Milan,Italy
+98th,Tempe,United States
+99th,Cologne,Germany
+100th,St. Louis,United States
+101st,San Juan,Puerto Rico
+102nd,Victoria,Canada
+103rd,Stuttgart,Germany
+104th,Leeds,United Kingdom
+105th,Las Vegas,United States
+106th,Hobart,Australia
+107th,Perth,Australia
+108th,Edinburgh,United Kingdom
+109th,Madison,United States
+110th,Calgary,Canada
+111th,Gothenburg,Sweden
+112th,Eindhoven,Netherlands
+113th,Düsseldorf,Germany
+114th,Houston,United States
+115th,Columbus,United States
+116th,Orlando,United States
+117th,Adelaide,Australia
+118th,Ottawa,Canada
+119th,Beirut,Lebanon
+120th,Harare,Zimbabwe
+121st,Kuwait City,Kuwait
+122nd,Tampa,United States
+123rd,Glasgow,United Kingdom
+124th,Richmond,United States
+125th,Brussels,Belgium
+126th,Berlin,Germany
+127th,Buffalo,United States
+128th,Aberdeen,United Kingdom
+129th,Vienna,Austria
+130th,Birmingham,United Kingdom
+131st,Kansas City,United States
+132nd,Kelowna,Canada
+133rd,Milwaukee,United States
+134th,Halifax,Canada
+135th,Manchester,United Kingdom
+136th,Ramallah,Israel
+137th,Tulsa,United States
+138th,Rome,Italy
+139th,Edmonton,Canada
+140th,Belfast,United Kingdom
+141st,Winnipeg,Canada
+142nd,Nottingham,United Kingdom
+143rd,Nice,France
+144th,Jacksonville,United States
+145th,Saskatoon,Canada
+146th,Cincinnati,United States
+147th,Cardiff,United Kingdom
+148th,Omaha,United States
+149th,Antwerp,Belgium
+150th,Greenville,United States
+151st,Louisville,United States
+152nd,Liverpool,United Kingdom
+153rd,Indianapolis,United States
+154th,San Antonio,United States
+155th,Venice,Italy
+156th,Oklahoma City,United States
+157th,Malmo,Sweden
+158th,Port of Spain,Trinidad and Tobago
+159th,Columbia,United States
+160th,Shanghai,China
+161st,Detroit,United States
+162nd,Toulouse,France
+163rd,Boise,United States
+164th,Barcelona,Spain
+165th,Knoxville,United States
+166th,Panama City,Panama
+167th,Tucson,United States
+168th,Jeddah,Saudi Arabia
+169th,London,Canada
+170th,Madrid,Spain
+171st,Amman,Jordan
+172nd,Seoul,South Korea
+173rd,Wichita,United States
+174th,Montréal,Canada
+175th,Palma de Mallorca,Spain
+176th,Sharjah,United Arab Emirates
+177th,Bologna,Italy
+178th,Birmingham,United States
+179th,Memphis,United States
+180th,Valletta,Malta
+181st,Albuquerque,United States
+182nd,Padua,Italy
+183rd,Turin,Italy
+184th,Nicosia,Cyprus
+185th,San José,Costa Rica
+186th,Greensboro,United States
+187th,Bilbao,Spain
+188th,Quebec City,Canada
+189th,Manama,Bahrain
+190th,Kitchener-Waterloo,Canada
+191st,Taipei,Taiwan
+192nd,Naples,Italy
+193rd,Lisbon,Portugal
+194th,Athens,Greece
+195th,Port Louis,Mauritius
+196th,Montevideo,Uruguay
+197th,Limassol,Cyprus
+198th,Catania,Italy
+199th,Valencia,Spain
+200th,Kingston,Jamaica
+201st,Malaga,Spain
+202nd,Ljubljana,Slovenia
+203rd,Oporto,Portugal
+204th,Pretoria,South Africa
+205th,São Paulo,Brazil
+206th,Zaragoza,Spain
+207th,Beijing,China
+208th,Johannesburg,South Africa
+209th,Riyadh,Saudi Arabia
+210th,Thessaloniki,Greece
+211th,Tallinn,Estonia
+212th,Baghdad,Iraq
+213th,Santiago,Chile
+214th,Accra,Ghana
+215th,Seville,Spain
+216th,Rio de Janeiro,Brazil
+217th,Riga,Latvia
+218th,Moscow,Russia
+219th,Zagreb,Croatia
+220th,Nairobi,Kenya
+221st,Dammam,Saudi Arabia
+222nd,Campinas,Brazil
+223rd,Santo Domingo,Dominican Republic
+224th,Brasília,Brazil
+225th,Braga,Portugal
+226th,Guayaquil,Ecuador
+227th,Prague,Czech Republic
+228th,Quito,Ecuador
+229th,Jakarta,Indonesia
+230th,Bratislava,Slovakia
+231st,Belo Horizonte,Brazil
+232nd,Warsaw,Poland
+233rd,Vilnius,Lithuania
+234th,Mexico City,Mexico
+235th,Windhoek,Namibia
+236th,Cape Town,South Africa
+237th,Rijeka,Croatia
+238th,São José dos Campos,Brazil
+239th,Porto Alegre,Brazil
+240th,Florianopolis,Brazil
+241st,Durban,South Africa
+242nd,Recife,Brazil
+243rd,Monterrey,Mexico
+244th,Goiânia,Brazil
+245th,Salvador,Brazil
+246th,St. Petersburg,Russia
+247th,Guatemala City,Guatemala
+248th,Lima,Peru
+249th,Dhaka,Bangladesh
+250th,Budapest,Hungary
+251st,Curitiba,Brazil
+252nd,Manaus,Brazil
+253rd,Brno,Czech Republic
+254th,Kuala Lumpur,Malaysia
+255th,Queretaro,Mexico
+256th,Port Elizabeth,South Africa
+257th,Lagos,Nigeria
+258th,Casablanca,Morocco
+259th,Tijuana,Mexico
+260th,Blumenau,Brazil
+261st,La Paz,Bolivia
+262nd,Poznan,Poland
+263rd,Manila,Philippines
+264th,Gaborone,Botswana
+265th,Fortaleza,Brazil
+266th,Lucknow,India
+267th,Lusaka,Zambia
+268th,Tirana,Albania
+269th,Bogotá,Colombia
+270th,Belgrade,Serbia
+271st,Guadalajara,Mexico
+272nd,Bangkok,Thailand
+273rd,Gdańsk,Poland
+274th,Wrocław,Poland
+275th,Sofia,Bulgaria
+276th,Asunción,Paraguay
+277th,Jundiai,Brazil
+278th,Kraków,Poland
+279th,Mumbai,India
+280th,Delhi,India
+281st,Sarajevo,Bosnia and Herzegovina
+282nd,Kampala,Uganda
+283rd,Pune,India
+284th,Ho Chi Minh City,Vietnam
+285th,Zapopan,Mexico
+286th,Bucharest,Romania
+287th,Managua,Nicaragua
+288th,Puebla,Mexico
+289th,Cairo,Egypt
+290th,Mérida,Mexico
+291st,Algiers,Algeria
+292nd,Bangalore,India
+293rd,Chandigarh,India
+294th,Medellín,Colombia
+295th,Łódź,Poland
+296th,Yekaterinburg,Russia
+297th,Skopje,Macedonia
+298th,Timisoara,Romania
+299th,Kyiv,Ukraine
+300th,Istanbul,Turkey
+301st,Barranquilla,Colombia
+302nd,Cluj-Napoca,Romania
+303rd,Santiago de Cali,Colombia
+304th,Brasov,Romania
+305th,Novosibirsk,Russia
+306th,Iasi,Romania
+307th,Gurgaon,India
+308th,Buenos Aires,Argentina
+309th,Hanoi,Vietnam
+310th,Indore,India
+311th,Kolkata,India
+312th,Tunis,Tunisia
+313th,Baku,Azerbaijan
+314th,Minsk,Belarus
+315th,Yerevan,Armenia
+316th,Ahmedabad,India
+317th,Astana,Kazakhstan
+318th,Kharkiv,Ukraine
+319th,Chişinău,Moldova
+320th,Almaty,Kazakhstan
+321st,Ankara,Turkey
+322nd,Madras,India
+323rd,Hyderabad,India
+324th,İzmir,Turkey
+325th,Tbilisi,Georgia
+326th,Lviv,Ukraine
+327th,Córdoba,Argentina
+328th,Bursa,Turkey
+329th,Antalya,Turkey
+330th,Mendoza,Argentina
+331st,Rosario,Argentina

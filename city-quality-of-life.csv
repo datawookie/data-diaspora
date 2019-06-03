@@ -1,5 +1,3 @@
-# https://mobilityexchange.mercer.com/Insights/quality-of-living-rankings
-#
 rank,city,country_region
 1,Vienna,Austria
 2,Zürich,Switzerland
@@ -53,7 +51,7 @@ rank,city,country_region
 49,Tokyo,Japan
 49,Birmingham,United Kingdom
 49,Chicago,United States
-53,Washington,United States
+53,Washington D.C,United States
 54,Philadelphia,United States
 55,Yokohama,Japan
 56,Rome,Italy
@@ -71,8 +69,8 @@ rank,city,country_region
 66,Miami,United States
 69,Prague,Czech Republic
 70,St. Louis,United States
-71,Hong Kong,Hong Kong SAR
-72,Pointe-à-Pitre,Guadeloupe (France)
+71,Hong Kong,Hong Kong
+72,Pointe-à-Pitre,Guadeloupe
 72,Detroit,United States
 74,Ljubljana,Slovenia
 74,Dubai,United Arab Emirates
@@ -100,7 +98,7 @@ rank,city,country_region
 97,Panama City,Panama
 98,Zagreb,Croatia
 98,Victoria,Seychelles
-100,Wroclaw,Poland
+100,Wrocław,Poland
 101,Johor Bahru,Malaysia
 101,Taichung,Taiwan
 103,Shanghai,China
@@ -111,7 +109,7 @@ rank,city,country_region
 108,San José,Costa Rica
 109,Bucharest,Romania
 110,Noumea,New Caledonia
-110,Doha,Qata
+110,Doha,Qatar
 112,Nassau,Bahamas
 113,Monterrey,Mexico
 114,Tunis,Tunisia
@@ -147,7 +145,7 @@ rank,city,country_region
 143,Pune,India
 145,Xian,China
 146,Qingdao,China
-147,Port of Spain,Trinidad & Tobago
+147,Port of Spain,Trinidad and Tobago
 148,Chongqing,China
 149,Bengaluru,India
 150,Lusaka,Zambia
@@ -157,7 +155,7 @@ rank,city,country_region
 154,Mumbai,India
 155,Hanoi,Vietnam
 156,La Paz,Bolivia
-156,Sarajevo,Bosnia-Herzegovina
+156,Sarajevo,Bosnia and Herzegovina
 158,Shenyang,China
 158,Guatemala City,Guatemala
 160,Kolkata,India
@@ -177,7 +175,7 @@ rank,city,country_region
 174,St. Petersburg,Russia
 175,Tirana,Albania
 175,San Salvador,El Salvador
-177,Cairo,Eqypt
+177,Cairo,Egypt
 177,Almaty,Kazakhstan
 179,Banjul,Gambia
 180,Managua,Nicaragua
