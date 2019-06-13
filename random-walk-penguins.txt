@@ -1,0 +1,42 @@
+https://www.drivendata.org/competitions/47/penguins/page/88/
+
+site_name - A string with the name for the site.
+site_id - A unique four digit alphanumeric code for the site.
+ccamlr_region - Region of Antarctica as defined by CCAMLR
+longitude_epsg_4326 - Longitude for the site in decimal degrees.
+latitude_epsg_4326 - Latitude for the site in decimal degrees.
+common_name - The species of penguin that was observed.
+    chinstrap penguin
+    gentoo penguin
+    adelie penguin
+day - The day of the survey. Missing information encoded as 'Unknown'. Note: Not all counts have exact dates available for when they were performed. In other words, they were either estimates for a particular season or the dates were not reported. This could be important because a count can be impacted by its timing (i.e. because of the timing of when birds lay eggs or when the chicks leave to go to sea).
+month - The month of the survey. Missing information encoded as 'Unknown'.
+year - The year of the survey. Missing information encoded as 'Unknown'.
+season_starting - The season of the count. The Antarctic "season" is the austral summer for penguin breeding and stretches from November to March of the following year. Accordingly, we denote the season by the year in which the breeding season began. For example, January 2011 is in the 2010 season and November 2010 is in the 2010 season.
+penguin_count - The number of either nests, chicks, or adults observed.
+accuracy - Not all data were collected the same way. Data accuracy can be affected by the method used (ground counts, aerial photos, or satellite-based estimates) and the time available for surveying, as well as weather conditions and terrain. The accuracy of each count is estimate by the surveyor at the time of the census and is usually recorded alongside the population estimate.
+    1 - count is within ±5%±5%, en=0.05en=0.05
+    2 - count is within ±10%±10%, en=0.10en=0.10
+    3 - count is within ±25%±25%, en=0.25en=0.25
+    4 - count is within ±50%±50%, en=0.50en=0.50
+    5 - order of magnitude "guesstimate", en=0.90en=0.90
+e_n - These are the error weights based on the accuracy for use in the scoring function. (Note: we also provide these for nests in the same format as the nest count timeseries).
+    0.05 - enen when accuracy is 1
+    0.1 - enen when accuracy is 2
+    0.25 - enen when accuracy is 3
+    0.5 - enen when accuracy is 4
+    0.9 - enen when accuracy is 5
+    nan - Sometimes the accuracy is not present, in these cases we assume 0.05 (the most accurate) when calculating the score.
+count_type - Penguin counts can be made using different methods including counting adults, counting chicks, and counting nests. This is a categorical variable that tracks the kind of observation.
+    nests - Number of penguin nests counted
+    chicks - Number of penguin chicks counted. These species generally lay 2 eggs, so 1 nest can produce 0, 1 or 2 chicks.
+    adults - Number of adult penguins counted
+vantage - How the count was made. Different vantages mean that the counts will have different accuracies.
+    ground - A person on the ground provided the count
+    None - vantage is unknown
+    vhr - very-high resolution commercial satellite imagery
+    landsat - Landsat satellite imagery
+    ground photo - Count is from photographs that were taken on the ground
+    aerial - A person in an aircraft provided the count
+    aerial photo - Count is from photographs that were taken from an aircraft
+    offshore vessel - A person on a boat off the shore provided the count
