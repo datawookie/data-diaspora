@@ -1,0 +1,261 @@
+# https://www.cia.gov/library/publications/resources/the-world-factbook/fields/279rank.html
+#
+rank;country;km^2
+1;Russia;17098242
+2;Antarctica;14200000
+3;Canada;9984670
+4;United States;9833517
+5;China;9596960
+6;Brazil;8515770
+7;Australia;7741220
+8;India;3287263
+9;Argentina;2780400
+10;Kazakhstan;2724900
+11;Algeria;2381740
+12;Congo, Democratic Republic of the;2344858
+13;Greenland;2166086
+14;Saudi Arabia;2149690
+15;Mexico;1964375
+16;Indonesia;1904569
+17;Sudan;1861484
+18;Libya;1759540
+19;Iran;1648195
+20;Mongolia;1564116
+21;Peru;1285216
+22;Chad;1284000
+23;Niger;1267000
+24;Angola;1246700
+25;Mali;1240192
+26;South Africa;1219090
+27;Colombia;1138910
+28;Ethiopia;1104300
+29;Bolivia;1098581
+30;Mauritania;1030700
+31;Egypt;1001450
+32;Tanzania;947300
+33;Nigeria;923768
+34;Venezuela;912050
+35;Namibia;824292
+36;Mozambique;799380
+37;Pakistan;796095
+38;Turkey;783562
+39;Chile;756102
+40;Zambia;752618
+41;Burma;676578
+42;Afghanistan;652230
+43;South Sudan;644329
+44;France;643801
+45;Somalia;637657
+46;Central African Republic;622984
+47;Ukraine;603550
+48;Madagascar;587041
+49;Botswana;581730
+50;Kenya;580367
+51;Yemen;527968
+52;Thailand;513120
+53;Spain;505370
+54;Turkmenistan;488100
+55;Cameroon;475440
+56;Papua New Guinea;462840
+57;Sweden;450295
+58;Uzbekistan;447400
+59;Morocco;446550
+60;Iraq;438317
+61;Paraguay;406752
+62;Zimbabwe;390757
+63;Japan;377915
+64;Germany;357022
+65;Congo, Republic of the;342000
+66;Finland;338145
+67;Vietnam;331210
+68;Malaysia;329847
+69;Norway;323802
+70;Cote d'Ivoire;322463
+71;Poland;312685
+72;Oman;309500
+73;Italy;301340
+74;Philippines;300000
+75;Ecuador;283561
+76;Burkina Faso;274200
+77;New Zealand;268838
+78;Gabon;267667
+79;Western Sahara;266000
+80;Guinea;245857
+81;United Kingdom;243610
+82;Uganda;241038
+83;Ghana;238533
+84;Romania;238391
+85;Laos;236800
+86;Guyana;214969
+87;Belarus;207600
+88;Kyrgyzstan;199951
+89;Senegal;196722
+90;Syria;185180
+91;Cambodia;181035
+92;Uruguay;176215
+93;Suriname;163820
+94;Tunisia;163610
+95;Bangladesh;148460
+96;Nepal;147181
+97;Tajikistan;144100
+98;Greece;131957
+99;Nicaragua;130370
+100;Korea, North;120538
+101;Malawi;118484
+102;Eritrea;117600
+103;Benin;112622
+104;Honduras;112090
+105;Liberia;111369
+106;Bulgaria;110879
+107;Cuba;110860
+108;Guatemala;108889
+109;Iceland;103000
+110;Korea, South;99720
+111;Hungary;93028
+112;Portugal;92090
+113;Jordan;89342
+114;Azerbaijan;86600
+115;Austria;83871
+116;United Arab Emirates;83600
+117;Czechia;78867
+118;Serbia;77474
+119;Panama;75420
+120;Sierra Leone;71740
+121;Ireland;70273
+122;Georgia;69700
+123;Sri Lanka;65610
+124;Lithuania;65300
+125;Latvia;64589
+126;Svalbard;62045
+127;Togo;56785
+128;Croatia;56594
+129;Bosnia and Herzegovina;51197
+130;Costa Rica;51100
+131;Slovakia;49035
+132;Dominican Republic;48670
+133;Estonia;45228
+134;Denmark;43094
+135;Netherlands;41543
+136;Switzerland;41277
+137;Bhutan;38394
+138;Guinea-Bissau;36125
+139;Taiwan;35980
+140;Moldova;33851
+141;Belgium;30528
+142;Lesotho;30355
+143;Armenia;29743
+144;Solomon Islands;28896
+145;Albania;28748
+146;Equatorial Guinea;28051
+147;Burundi;27830
+148;Haiti;27750
+149;Rwanda;26338
+150;Macedonia;25713
+151;Djibouti;23200
+152;Belize;22966
+153;El Salvador;21041
+154;Israel;20770
+155;Slovenia;20273
+156;New Caledonia;18575
+157;Fiji;18274
+158;Kuwait;17818
+159;Eswatini;17364
+160;Timor-Leste;14874
+161;Bahamas, The;13880
+162;Montenegro;13812
+163;Vanuatu;12189
+164;Falkland Islands (Islas Malvinas);12173
+165;Qatar;11586
+166;Gambia, The;11300
+167;Jamaica;10991
+168;Kosovo;10887
+169;Lebanon;10400
+170;Cyprus;9251
+171;Puerto Rico;9104
+172;West Bank;5860
+173;Brunei;5765
+174;Trinidad and Tobago;5128
+175;French Polynesia;4167
+176;Cabo Verde;4033
+177;South Georgia and South Sandwich Islands;3903
+178;Samoa;2831
+179;Luxembourg;2586
+180;Comoros;2235
+181;Mauritius;2040
+182;Virgin Islands;1910
+183;Faroe Islands;1393
+184;Hong Kong;1108
+185;Sao Tome and Principe;964
+186;Turks and Caicos Islands;948
+187;Kiribati;811
+188;Bahrain;760
+189;Dominica;751
+190;Tonga;747
+191;Singapore;719.2
+192;Micronesia, Federated States of;702
+193;Saint Lucia;616
+194;Isle of Man;572
+195;Guam;544
+196;Andorra;468
+197;Northern Mariana Islands;464
+198;Palau;459
+199;Seychelles;455
+200;Curacao;444
+201;Antigua and Barbuda;442.6
+202;Barbados;430
+203;Heard Island and McDonald Islands;412
+204;Saint Helena, Ascension, and Tristan da Cunha;394
+205;Saint Vincent and the Grenadines;389
+206;Jan Mayen;377
+207;Gaza Strip;360
+208;Grenada;344
+209;Malta;316
+210;Maldives;298
+211;Cayman Islands;264
+212;Saint Kitts and Nevis;261
+213;Niue;260
+214;Saint Pierre and Miquelon;242
+215;Cook Islands;236
+216;American Samoa;224
+217;Marshall Islands;181
+218;Aruba;180
+219;Liechtenstein;160
+220;British Virgin Islands;151
+221;Wallis and Futuna;142
+222;Christmas Island;135
+223;Dhekelia;130.8
+224;Akrotiri;123
+225;Jersey;116
+226;Montserrat;102
+227;Anguilla;91
+228;Guernsey;78
+229;San Marino;61
+230;British Indian Ocean Territory;60
+231;Saint Martin;54.4
+232;Bermuda;54
+233;Bouvet Island;49
+234;Pitcairn Islands;47
+235;Norfolk Island;36
+236;Sint Maarten;34
+237;Macau;28.2
+238;Tuvalu;26
+239;Saint Barthelemy;25
+240;Nauru;21
+241;Cocos (Keeling) Islands;14
+242;Tokelau;12
+243;Palmyra Atoll;11.9
+244;Paracel Islands;7.75
+245;Gibraltar;6.5
+246;Wake Island;6.5
+247;Midway Islands;6.2
+248;Clipperton Island;6
+249;Navassa Island;5.4
+250;Ashmore and Cartier Islands;5
+251;Spratly Islands;5
+252;Jarvis Island;4.5
+253;Coral Sea Islands;3
+254;Johnston Atoll;2.63
+255;Monaco;2
+256;Howland Island;1.6
+257;Kingman Reef;1
+258;Holy See (Vatican City);0.44
