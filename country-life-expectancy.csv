@@ -1,0 +1,227 @@
+# https://www.cia.gov/library/PUBLICATIONS/the-world-factbook/rankorder/2102rank.html
+#
+rank;country;years
+1;Monaco;89.4
+2;Japan;85.3
+3;Singapore;85.2
+4;Macau;84.6
+5;San Marino;83.3
+6;Iceland;83.1
+7;Hong Kong;83.0
+8;Andorra;82.9
+9;Guernsey;82.6
+10;Switzerland;82.6
+11;Korea, South;82.5
+12;Israel;82.5
+13;Luxembourg;82.3
+14;Australia;82.3
+15;Italy;82.3
+16;Sweden;82.1
+17;France;81.9
+18;Norway;81.9
+19;Liechtenstein;81.9
+20;Jersey;81.9
+21;Canada;81.9
+22;Spain;81.8
+23;Austria;81.6
+24;Anguilla;81.5
+25;Netherlands;81.4
+26;Bermuda;81.4
+27;New Zealand;81.3
+28;Cayman Islands;81.3
+29;Isle of Man;81.3
+30;Belgium;81.1
+31;Finland;81.0
+32;Puerto Rico;80.9
+33;Ireland;80.9
+34;Germany;80.8
+35;United Kingdom;80.8
+36;Greece;80.7
+37;Saint Pierre and Miquelon;80.6
+38;Faroe Islands;80.5
+39;Malta;80.5
+40;Taiwan;80.2
+41;European Union;80.2
+42;Turks and Caicos Islands;80.0
+43;United States;80.0
+44;Wallis and Futuna;79.8
+45;Saint Helena, Ascension, and Tristan da Cunha;79.6
+46;Gibraltar;79.6
+47;Denmark;79.5
+48;Portugal;79.4
+49;Virgin Islands;79.4
+50;Bahrain;79.0
+51;Chile;78.9
+52;Qatar;78.9
+53;British Virgin Islands;78.8
+54;Cyprus;78.8
+55;Panama;78.8
+56;Czechia;78.8
+57;Cuba;78.8
+58;Costa Rica;78.7
+59;Albania;78.5
+60;Curacao;78.5
+61;Dominican Republic;78.3
+62;Slovenia;78.3
+63;Sint Maarten;78.3
+64;Kuwait;78.2
+65;New Caledonia;77.9
+66;Saint Lucia;77.9
+67;Poland;77.8
+68;Lebanon;77.8
+69;United Arab Emirates;77.7
+70;Uruguay;77.4
+71;French Polynesia;77.4
+72;Paraguay;77.4
+73;Brunei;77.3
+74;Argentina;77.3
+75;Slovakia;77.3
+76;Dominica;77.2
+77;Morocco;77.1
+78;Algeria;77.0
+79;Ecuador;77.0
+80;Aruba;76.9
+81;Bosnia and Herzegovina;76.9
+82;Sri Lanka;76.9
+83;Estonia;76.9
+84;Antigua and Barbuda;76.7
+85;Libya;76.7
+86;Georgia;76.4
+87;Tonga;76.4
+88;Macedonia;76.4
+89;Croatia;76.1
+90;Mexico;76.1
+91;Hungary;76.1
+92;Venezuela;76.0
+93;Cook Islands;76.0
+94;Guam;76.0
+95;Saint Kitts and Nevis;75.9
+96;Colombia;75.9
+97;Maldives;75.8
+98;Mauritius;75.8
+99;Oman;75.7
+100;Serbia;75.7
+101;Tunisia;75.7
+102;China;75.7
+103;Solomon Islands;75.6
+104;Saint Vincent and the Grenadines;75.5
+105;Saudi Arabia;75.5
+106;Barbados;75.5
+107;Northern Mariana Islands;75.4
+108;Romania;75.4
+109;Malaysia;75.2
+110;West Bank;75.2
+111;Syria;75.1
+112;Lithuania;75.0
+113;Turkey;75.0
+114;Armenia;74.9
+115;El Salvador;74.9
+116;Thailand;74.9
+117;Iraq;74.9
+118;Seychelles;74.9
+119;Jordan;74.8
+120;Bulgaria;74.7
+121;Latvia;74.7
+122;Montserrat;74.6
+123;Grenada;74.5
+124;Gaza Strip;74.2
+125;Samoa;74.0
+126;Peru;74.0
+127;Uzbekistan;74.0
+128;Brazil;74.0
+129;Iran;74.0
+130;Jamaica;73.7
+131;Vanuatu;73.7
+132;Vietnam;73.7
+133;Nicaragua;73.5
+134;American Samoa;73.4
+135;Palau;73.4
+136;Bangladesh;73.4
+137;Marshall Islands;73.4
+138;Trinidad and Tobago;73.1
+139;Micronesia, Federated States of;73.1
+140;Fiji;73.0
+141;Belarus;73.0
+142;Egypt;73.0
+143;Indonesia;73.0
+144;Azerbaijan;72.8
+145;Bahamas, The;72.6
+146;Greenland;72.6
+147;Guatemala;72.6
+148;Suriname;72.5
+149;Cabo Verde;72.4
+150;Ukraine;72.1
+151;Honduras;71.2
+152;Kazakhstan;71.1
+153;Nepal;71.0
+154;Russia;71.0
+155;Moldova;71.0
+156;Kyrgyzstan;70.9
+157;Korea, North;70.7
+158;Bhutan;70.6
+159;Turkmenistan;70.4
+160;Mongolia;69.9
+161;Bolivia;69.5
+162;Philippines;69.4
+163;Belize;68.9
+164;India;68.8
+165;Guyana;68.6
+166;Timor-Leste;68.4
+167;Burma;68.2
+168;Pakistan;68.1
+169;Tajikistan;68.1
+170;Nauru;67.4
+171;Papua New Guinea;67.3
+172;Ghana;67.0
+173;Tuvalu;66.9
+174;Kiribati;66.5
+175;Madagascar;66.3
+176;Yemen;65.9
+177;Togo;65.4
+178;Sao Tome and Principe;65.3
+179;Eritrea;65.2
+180;Gambia, The;65.1
+181;Cambodia;64.9
+182;Comoros;64.6
+183;Equatorial Guinea;64.6
+184;Laos;64.6
+185;Sudan;64.4
+186;Kenya;64.3
+187;Rwanda;64.3
+188;Haiti;64.2
+189;Namibia;64.0
+190;South Africa;63.8
+191;Djibouti;63.6
+192;Western Sahara;63.4
+193;Mauritania;63.4
+194;Botswana;63.3
+195;Liberia;63.3
+196;Ethiopia;62.6
+197;Tanzania;62.6
+198;Benin;62.3
+199;Senegal;62.1
+200;Malawi;61.7
+201;Guinea;61.0
+202;Burundi;60.9
+203;Zimbabwe;60.4
+204;Mali;60.3
+205;Angola;60.2
+206;Congo, Republic of the;59.8
+207;Cote d'Ivoire;59.0
+208;Cameroon;59.0
+209;Sierra Leone;58.6
+210;Congo, Democratic Republic of the;57.7
+211;Burkina Faso;55.9
+212;Uganda;55.9
+213;Niger;55.9
+214;Nigeria;53.8
+215;Mozambique;53.7
+216;Lesotho;53.0
+217;Central African Republic;52.8
+218;Somalia;52.8
+219;Zambia;52.7
+220;Swaziland;52.1
+221;Gabon;52.1
+222;Afghanistan;51.7
+223;Guinea-Bissau;51.0
+224;Chad;50.6
