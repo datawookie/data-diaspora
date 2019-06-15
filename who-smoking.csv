@@ -2,7 +2,7 @@
 #
 # Values are percent.
 #
-Country,Year,Male,Female
+country,year,male,female
 Albania,2025,48.3 [27.5-71.2],5.8 [2.7-9.2]
 Albania,2020,49.5 [30.7-66.3],6.6 [3.8-10.0]
 Albania,2015,51.2 [37.7-66.2],7.6 [4.9-10.3]
