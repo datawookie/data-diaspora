@@ -4,7 +4,7 @@ library(janitor)
 library(readr)
 library(here)
 
-# Extracta data for this figure: http://cdn.static-economist.com/sites/default/files/imagecache/1872-width/20170415_WOC921.png.
+# Extract data for this figure: http://cdn.static-economist.com/sites/default/files/imagecache/1872-width/20170415_WOC921.png.
 #
 # Associated paper: https://doi.org/10.1016/S0140-6736(17)30819-X.
 
