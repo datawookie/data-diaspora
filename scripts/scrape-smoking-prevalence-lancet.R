@@ -24,5 +24,5 @@ html %>%
   # Replace decimal separator.
   mutate_all(~ gsub("·", ".", .)) %>%
   # Replace funky hyphen.
-  mutate_all(~ gsub("−", ".", .)) %>%
+  mutate_all(~ gsub("−", "-", .)) %>%
   write_csv2(here("smoking-prevalence-lancet.csv"))
