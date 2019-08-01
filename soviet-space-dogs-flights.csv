@@ -1,0 +1,44 @@
+﻿# https://airtable.com/universe/expG3z2CFykG1dZsp/sovet-space-dogs
+Date,Dogs,Rocket,Altitude (km),Result,Notes
+1951-07-22,"Dezik,Tsygan",R-1V,100,recovered safely,
+1951-07-29,"Dezik,Lisa",R-1B,100,"parachute failed, both dogs died",
+1951-08-15,"Chizhik,Mishka",R-1B,100,recovered safely,
+1951-08-19,"Ryzhik,Smeliy",R-1V,100,recovered safely,
+1951-08-28,"Chizhik,Mishka",R-1B,100,"failed, both dogs died",
+1951-09-03,"Neputeviy,ZIB",R-1B,100,recovered safely,
+1951-06-26,"Lisa-2,Ryzhik-2",R-1D,100,recovered safely,
+1954-07-02,"Damka,Mishka-2",R-1D,100,"recovered safely, mishka-2 died",
+1954-07-07,"Damka,Ryzhik-2",R-1D,100,"recovered safely, ryshik-2 died",
+1954-07-26,"Lisa-2,Ryzhik-3",unknown,unknown,recovered safely,no rocket or altitude info
+1955-01-25,"Rita,Linda",R-1E,100,"recovered safely, rita died",or 1955-06-25
+1955-02-05,"Bulba,Lisa-2",R-1E,100,"recovery failed, both dogs died",
+1955-11-04,"Knopka,Malyshka",R-1E,100,recovered safely after 3 days,
+1956-05-14,"Albina,Kozyavka",R-1E,100,recovered safely,
+1956-05-31,"Linda,Malyshka",R-1E,100,recovered safely,
+1956-06-07,"Albina,Kozyavka",R-1E,100,recovered safely,
+1956-06-14,"Albina,Kozyavka",R-1E,100,recovered safely,
+1957-05-16,"Damka-2,Ryzhaya",R-2A,212,recovered safely,
+1957-05-24,"Dzhoyna,Ryzhaya",R-2A,212,"cabin decompression, both dogs died",
+1957-08-25,"Belka,Modnitsa",R-2A,212,recovered safely,
+1957-08-31,"Belka,Damka-2",R-2A,212,recovered safely,
+1957-09-06,"Belka,Modnitsa",R-2A,212,recovered safely,
+1957-11-03,Laika,"R-7, Sputnik 2",orbital,"no recovery system, died in space",
+1958-02-21,"Palma,Pushok",R-5A,451,"cabin decompression, both dogs died",
+1958-08-02,"Palma-2,Kusachka / Otvazhnaya",R-2A,212,recovered safely,
+1958-08-13,"Palma-2,Kusachka / Otvazhnaya",R-2A,212,recovered safely,
+1958-08-27,"Belyanka,Pestraya",R-5A,451,recovered safely,
+1958-09-19,"Damka-2,Kozyavka",unknown,unknown,recovered safely,no rocket or altitude info
+1958-10-31,"Knopka,Zhulba",R-5A,451,"parachute failed, both dogs died",
+1959-07-02,"Kusachka / Otvazhnaya,Snezhinka / Zhemchuzhnaya",R-2A,212,recovered safely,flew with a rabbit named Marfusa
+1959-07-10,"Kusachka / Otvazhnaya,Snezhinka / Zhemchuzhnaya",R-2A,212,recovered safely,
+1960-06-15,"Kusachka / Otvazhnaya,Malyok",R-2A,212,recovered safely,flew with a rabbit named Zvezdochka (Little Star)
+1960-06-24,"Kusachka / Otvazhnaya,Snezhinka / Zhemchuzhnaya",R-2A,212,recovered safely,Otvazhnaya's participation in this flight is questioned
+1960-07-28,"Lisichka,Bars / Chaika","R-7, Vostok Prototype",was to be orbital,"exploded during launch, both dogs died",
+1960-08-19,"Belka,Strelka","R-7, Sputnik 5",orbital,"spent one day in orbit, recovered safely",
+1960-09-16,"Malyok,Palma-2",R-2A,212,recovered safely,
+1960-09-22,"Kusachka / Otvazhnaya,Neva",unknown,unknown,recovered safely,Otvazhnaya's participation in this flight is questioned
+1960-12-01,"Mushka,Pchyolka","R-7, Sputnik 6",orbital,"spent one day in orbit, capsule was destroyed, both dogs died",
+1960-12-22,"Shutka,Kometka",R-7,was to be orbital,"upper stage failed, dogs recovered after a suborbital flight",
+1961-03-09,Chernuskha,"R-7, Sputnik 9",orbital,"one orbit, recovered safely",flew with a mannequin named Ivan Ivanovic
+1961-03-25,Zvezdochka,"R-7, Sputnik 10",orbital,"one orbit, recovered safely",flew with a mannequin named Ivan Ivanovic
+1966-02-22,"Ugolyok / Snezhok,Veterok / Bzdunok","Voskhod, Cosmos 110",orbital,recovered safely after a 22-day flight,
