@@ -1,0 +1,542 @@
+state,state_id,district,GEOID
+Alabama,01,00,0100
+Alabama,01,00,0100
+Alabama,01,01,0101
+Alabama,01,02,0102
+Alabama,01,03,0103
+Alabama,01,04,0104
+Alabama,01,05,0105
+Alabama,01,06,0106
+Alabama,01,07,0107
+Alaska,02,00,0200
+Alaska,02,00,0200
+Alaska,02,00,0200
+Arizona,04,00,0400
+Arizona,04,00,0400
+Arizona,04,01,0401
+Arizona,04,02,0402
+Arizona,04,03,0403
+Arizona,04,04,0404
+Arizona,04,05,0405
+Arizona,04,06,0406
+Arizona,04,07,0407
+Arizona,04,08,0408
+Arizona,04,09,0409
+Arkansas,05,00,0500
+Arkansas,05,00,0500
+Arkansas,05,01,0501
+Arkansas,05,02,0502
+Arkansas,05,03,0503
+Arkansas,05,04,0504
+California,06,00,0600
+California,06,00,0600
+California,06,01,0601
+California,06,02,0602
+California,06,03,0603
+California,06,04,0604
+California,06,05,0605
+California,06,06,0606
+California,06,07,0607
+California,06,08,0608
+California,06,09,0609
+California,06,10,0610
+California,06,11,0611
+California,06,12,0612
+California,06,13,0613
+California,06,14,0614
+California,06,15,0615
+California,06,16,0616
+California,06,17,0617
+California,06,18,0618
+California,06,19,0619
+California,06,20,0620
+California,06,21,0621
+California,06,22,0622
+California,06,23,0623
+California,06,24,0624
+California,06,25,0625
+California,06,26,0626
+California,06,27,0627
+California,06,28,0628
+California,06,29,0629
+California,06,30,0630
+California,06,31,0631
+California,06,32,0632
+California,06,33,0633
+California,06,34,0634
+California,06,35,0635
+California,06,36,0636
+California,06,37,0637
+California,06,38,0638
+California,06,39,0639
+California,06,40,0640
+California,06,41,0641
+California,06,42,0642
+California,06,43,0643
+California,06,44,0644
+California,06,45,0645
+California,06,46,0646
+California,06,47,0647
+California,06,48,0648
+California,06,49,0649
+California,06,50,0650
+California,06,51,0651
+California,06,52,0652
+California,06,53,0653
+Colorado,08,00,0800
+Colorado,08,00,0800
+Colorado,08,01,0801
+Colorado,08,02,0802
+Colorado,08,03,0803
+Colorado,08,04,0804
+Colorado,08,05,0805
+Colorado,08,06,0806
+Colorado,08,07,0807
+Connecticut,09,00,0900
+Connecticut,09,00,0900
+Connecticut,09,01,0901
+Connecticut,09,02,0902
+Connecticut,09,03,0903
+Connecticut,09,04,0904
+Connecticut,09,05,0905
+Delaware,10,00,1000
+Delaware,10,00,1000
+Delaware,10,00,1000
+District of Columbia,11,00,1100
+Florida,12,00,1200
+Florida,12,00,1200
+Florida,12,01,1201
+Florida,12,02,1202
+Florida,12,03,1203
+Florida,12,04,1204
+Florida,12,05,1205
+Florida,12,06,1206
+Florida,12,07,1207
+Florida,12,08,1208
+Florida,12,09,1209
+Florida,12,10,1210
+Florida,12,11,1211
+Florida,12,12,1212
+Florida,12,13,1213
+Florida,12,14,1214
+Florida,12,15,1215
+Florida,12,16,1216
+Florida,12,17,1217
+Florida,12,18,1218
+Florida,12,19,1219
+Florida,12,20,1220
+Florida,12,21,1221
+Florida,12,22,1222
+Florida,12,23,1223
+Florida,12,24,1224
+Florida,12,25,1225
+Florida,12,26,1226
+Florida,12,27,1227
+Georgia,13,00,1300
+Georgia,13,00,1300
+Georgia,13,01,1301
+Georgia,13,02,1302
+Georgia,13,03,1303
+Georgia,13,04,1304
+Georgia,13,05,1305
+Georgia,13,06,1306
+Georgia,13,07,1307
+Georgia,13,08,1308
+Georgia,13,09,1309
+Georgia,13,10,1310
+Georgia,13,11,1311
+Georgia,13,12,1312
+Georgia,13,13,1313
+Georgia,13,14,1314
+Hawaii,15,00,1500
+Hawaii,15,00,1500
+Hawaii,15,01,1501
+Hawaii,15,02,1502
+Idaho,16,00,1600
+Idaho,16,00,1600
+Idaho,16,01,1601
+Idaho,16,02,1602
+Illinois,17,00,1700
+Illinois,17,00,1700
+Illinois,17,01,1701
+Illinois,17,02,1702
+Illinois,17,03,1703
+Illinois,17,04,1704
+Illinois,17,05,1705
+Illinois,17,06,1706
+Illinois,17,07,1707
+Illinois,17,08,1708
+Illinois,17,09,1709
+Illinois,17,10,1710
+Illinois,17,11,1711
+Illinois,17,12,1712
+Illinois,17,13,1713
+Illinois,17,14,1714
+Illinois,17,15,1715
+Illinois,17,16,1716
+Illinois,17,17,1717
+Illinois,17,18,1718
+Indiana,18,00,1800
+Indiana,18,00,1800
+Indiana,18,01,1801
+Indiana,18,02,1802
+Indiana,18,03,1803
+Indiana,18,04,1804
+Indiana,18,05,1805
+Indiana,18,06,1806
+Indiana,18,07,1807
+Indiana,18,08,1808
+Indiana,18,09,1809
+Iowa,19,00,1900
+Iowa,19,00,1900
+Iowa,19,01,1901
+Iowa,19,02,1902
+Iowa,19,03,1903
+Iowa,19,04,1904
+Kansas,20,00,2000
+Kansas,20,00,2000
+Kansas,20,01,2001
+Kansas,20,02,2002
+Kansas,20,03,2003
+Kansas,20,04,2004
+Kentucky,21,00,2100
+Kentucky,21,00,2100
+Kentucky,21,01,2101
+Kentucky,21,02,2102
+Kentucky,21,03,2103
+Kentucky,21,04,2104
+Kentucky,21,05,2105
+Kentucky,21,06,2106
+Louisiana,22,00,2200
+Louisiana,22,00,2200
+Louisiana,22,01,2201
+Louisiana,22,02,2202
+Louisiana,22,03,2203
+Louisiana,22,04,2204
+Louisiana,22,05,2205
+Louisiana,22,06,2206
+Maine,23,00,2300
+Maine,23,00,2300
+Maine,23,01,2301
+Maine,23,02,2302
+Maryland,24,00,2400
+Maryland,24,00,2400
+Maryland,24,01,2401
+Maryland,24,02,2402
+Maryland,24,03,2403
+Maryland,24,04,2404
+Maryland,24,05,2405
+Maryland,24,06,2406
+Maryland,24,07,2407
+Maryland,24,08,2408
+Massachusetts,25,00,2500
+Massachusetts,25,00,2500
+Massachusetts,25,01,2501
+Massachusetts,25,02,2502
+Massachusetts,25,03,2503
+Massachusetts,25,04,2504
+Massachusetts,25,05,2505
+Massachusetts,25,06,2506
+Massachusetts,25,07,2507
+Massachusetts,25,08,2508
+Massachusetts,25,09,2509
+Michigan,26,00,2600
+Michigan,26,00,2600
+Michigan,26,01,2601
+Michigan,26,02,2602
+Michigan,26,03,2603
+Michigan,26,04,2604
+Michigan,26,05,2605
+Michigan,26,06,2606
+Michigan,26,07,2607
+Michigan,26,08,2608
+Michigan,26,09,2609
+Michigan,26,10,2610
+Michigan,26,11,2611
+Michigan,26,12,2612
+Michigan,26,13,2613
+Michigan,26,14,2614
+Minnesota,27,00,2700
+Minnesota,27,00,2700
+Minnesota,27,01,2701
+Minnesota,27,02,2702
+Minnesota,27,03,2703
+Minnesota,27,04,2704
+Minnesota,27,05,2705
+Minnesota,27,06,2706
+Minnesota,27,07,2707
+Minnesota,27,08,2708
+Mississippi,28,00,2800
+Mississippi,28,00,2800
+Mississippi,28,01,2801
+Mississippi,28,01,2801
+Mississippi,28,02,2802
+Mississippi,28,03,2803
+Mississippi,28,04,2804
+Missouri,29,00,2900
+Missouri,29,00,2900
+Missouri,29,01,2901
+Missouri,29,02,2902
+Missouri,29,03,2903
+Missouri,29,04,2904
+Missouri,29,05,2905
+Missouri,29,06,2906
+Missouri,29,07,2907
+Missouri,29,08,2908
+Montana,30,00,3000
+Montana,30,00,3000
+Montana,30,00,3000
+Nebraska,31,00,3100
+Nebraska,31,00,3100
+Nebraska,31,01,3101
+Nebraska,31,02,3102
+Nebraska,31,03,3103
+Nevada,32,00,3200
+Nevada,32,00,3200
+Nevada,32,01,3201
+Nevada,32,02,3202
+Nevada,32,03,3203
+Nevada,32,04,3204
+New Hampshire,33,00,3300
+New Hampshire,33,00,3300
+New Hampshire,33,01,3301
+New Hampshire,33,02,3302
+New Jersey,34,00,3400
+New Jersey,34,00,3400
+New Jersey,34,01,3401
+New Jersey,34,02,3402
+New Jersey,34,03,3403
+New Jersey,34,04,3404
+New Jersey,34,05,3405
+New Jersey,34,06,3406
+New Jersey,34,07,3407
+New Jersey,34,08,3408
+New Jersey,34,09,3409
+New Jersey,34,10,3410
+New Jersey,34,11,3411
+New Jersey,34,12,3412
+New Mexico,35,00,3500
+New Mexico,35,00,3500
+New Mexico,35,01,3501
+New Mexico,35,02,3502
+New Mexico,35,03,3503
+New York,36,00,3600
+New York,36,00,3600
+New York,36,01,3601
+New York,36,02,3602
+New York,36,03,3603
+New York,36,04,3604
+New York,36,05,3605
+New York,36,06,3606
+New York,36,07,3607
+New York,36,08,3608
+New York,36,09,3609
+New York,36,10,3610
+New York,36,11,3611
+New York,36,12,3612
+New York,36,13,3613
+New York,36,14,3614
+New York,36,15,3615
+New York,36,16,3616
+New York,36,17,3617
+New York,36,18,3618
+New York,36,19,3619
+New York,36,20,3620
+New York,36,21,3621
+New York,36,22,3622
+New York,36,23,3623
+New York,36,24,3624
+New York,36,25,3625
+New York,36,26,3626
+New York,36,27,3627
+North Carolina,37,00,3700
+North Carolina,37,00,3700
+North Carolina,37,01,3701
+North Carolina,37,02,3702
+North Carolina,37,03,3703
+North Carolina,37,04,3704
+North Carolina,37,05,3705
+North Carolina,37,06,3706
+North Carolina,37,07,3707
+North Carolina,37,08,3708
+North Carolina,37,09,3709
+North Carolina,37,10,3710
+North Carolina,37,11,3711
+North Carolina,37,12,3712
+North Carolina,37,13,3713
+North Dakota,38,00,3800
+North Dakota,38,00,3800
+North Dakota,38,00,3800
+Ohio,39,00,3900
+Ohio,39,00,3900
+Ohio,39,01,3901
+Ohio,39,02,3902
+Ohio,39,03,3903
+Ohio,39,04,3904
+Ohio,39,05,3905
+Ohio,39,06,3906
+Ohio,39,07,3907
+Ohio,39,08,3908
+Ohio,39,09,3909
+Ohio,39,10,3910
+Ohio,39,11,3911
+Ohio,39,12,3912
+Ohio,39,13,3913
+Ohio,39,14,3914
+Ohio,39,15,3915
+Ohio,39,16,3916
+Oklahoma,40,00,4000
+Oklahoma,40,00,4000
+Oklahoma,40,01,4001
+Oklahoma,40,02,4002
+Oklahoma,40,03,4003
+Oklahoma,40,04,4004
+Oklahoma,40,05,4005
+Oregon,41,00,4100
+Oregon,41,00,4100
+Oregon,41,01,4101
+Oregon,41,02,4102
+Oregon,41,03,4103
+Oregon,41,04,4104
+Oregon,41,05,4105
+Pennsylvania,42,00,4200
+Pennsylvania,42,00,4200
+Pennsylvania,42,01,4201
+Pennsylvania,42,02,4202
+Pennsylvania,42,03,4203
+Pennsylvania,42,04,4204
+Pennsylvania,42,05,4205
+Pennsylvania,42,06,4206
+Pennsylvania,42,07,4207
+Pennsylvania,42,08,4208
+Pennsylvania,42,09,4209
+Pennsylvania,42,10,4210
+Pennsylvania,42,11,4211
+Pennsylvania,42,12,4212
+Pennsylvania,42,13,4213
+Pennsylvania,42,14,4214
+Pennsylvania,42,15,4215
+Pennsylvania,42,16,4216
+Pennsylvania,42,17,4217
+Pennsylvania,42,18,4218
+Rhode Island,44,00,4400
+Rhode Island,44,00,4400
+Rhode Island,44,01,4401
+Rhode Island,44,02,4402
+South Carolina,45,00,4500
+South Carolina,45,00,4500
+South Carolina,45,01,4501
+South Carolina,45,02,4502
+South Carolina,45,03,4503
+South Carolina,45,04,4504
+South Carolina,45,05,4505
+South Carolina,45,06,4506
+South Carolina,45,07,4507
+South Dakota,46,00,4600
+South Dakota,46,00,4600
+South Dakota,46,00,4600
+Tennessee,47,00,4700
+Tennessee,47,00,4700
+Tennessee,47,01,4701
+Tennessee,47,02,4702
+Tennessee,47,03,4703
+Tennessee,47,04,4704
+Tennessee,47,05,4705
+Tennessee,47,06,4706
+Tennessee,47,07,4707
+Tennessee,47,08,4708
+Tennessee,47,09,4709
+Texas,48,00,4800
+Texas,48,00,4800
+Texas,48,01,4801
+Texas,48,02,4802
+Texas,48,03,4803
+Texas,48,04,4804
+Texas,48,05,4805
+Texas,48,06,4806
+Texas,48,07,4807
+Texas,48,08,4808
+Texas,48,09,4809
+Texas,48,10,4810
+Texas,48,11,4811
+Texas,48,12,4812
+Texas,48,13,4813
+Texas,48,14,4814
+Texas,48,15,4815
+Texas,48,16,4816
+Texas,48,17,4817
+Texas,48,18,4818
+Texas,48,19,4819
+Texas,48,20,4820
+Texas,48,21,4821
+Texas,48,22,4822
+Texas,48,23,4823
+Texas,48,24,4824
+Texas,48,25,4825
+Texas,48,26,4826
+Texas,48,27,4827
+Texas,48,28,4828
+Texas,48,29,4829
+Texas,48,30,4830
+Texas,48,31,4831
+Texas,48,32,4832
+Texas,48,33,4833
+Texas,48,34,4834
+Texas,48,35,4835
+Texas,48,36,4836
+Utah,49,00,4900
+Utah,49,00,4900
+Utah,49,01,4901
+Utah,49,02,4902
+Utah,49,03,4903
+Utah,49,04,4904
+Vermont,50,00,5000
+Vermont,50,00,5000
+Vermont,50,00,5000
+Virginia,51,00,5100
+Virginia,51,00,5100
+Virginia,51,01,5101
+Virginia,51,02,5102
+Virginia,51,03,5103
+Virginia,51,04,5104
+Virginia,51,05,5105
+Virginia,51,06,5106
+Virginia,51,07,5107
+Virginia,51,08,5108
+Virginia,51,09,5109
+Virginia,51,10,5110
+Virginia,51,11,5111
+Washington,53,00,5300
+Washington,53,00,5300
+Washington,53,01,5301
+Washington,53,02,5302
+Washington,53,03,5303
+Washington,53,04,5304
+Washington,53,05,5305
+Washington,53,06,5306
+Washington,53,07,5307
+Washington,53,08,5308
+Washington,53,09,5309
+Washington,53,10,5310
+West Virginia,54,00,5400
+West Virginia,54,00,5400
+West Virginia,54,01,5401
+West Virginia,54,02,5402
+West Virginia,54,03,5403
+Wisconsin,55,00,5500
+Wisconsin,55,00,5500
+Wisconsin,55,01,5501
+Wisconsin,55,02,5502
+Wisconsin,55,03,5503
+Wisconsin,55,04,5504
+Wisconsin,55,05,5505
+Wisconsin,55,06,5506
+Wisconsin,55,07,5507
+Wisconsin,55,08,5508
+Wyoming,56,00,5600
+Wyoming,56,00,5600
+Wyoming,56,00,5600
+American Samoa,60,00,6000
+Guam,66,00,6600
+Northern Mariana Islands,69,00,6900
+Puerto Rico,72,00,7200
