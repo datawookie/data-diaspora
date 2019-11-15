@@ -1,7 +1,10 @@
 # Data from http://ms.mcmaster.ca/~bolker/measdata.html.
+#
 
 library(readr)
 
+# Data for reports of measles in specific cities.
+#
 measles <- read.table("http://ms.mcmaster.ca/~bolker/measdata/ewcitmeas.dat",
                       na = "*",
                       col.names = c(
@@ -15,6 +18,8 @@ measles %>%
   select(date, everything(), -yy, -mm, -dd) %>%
   write.csv("measles-cities.csv", row.names = FALSE, quote = FALSE)
 
+# Data for reports of measles in England and Wales.
+#
 measles <- read_table("http://ms.mcmaster.ca/~bolker/measdata/ewmeas.dat",
                       col_names = c(
                         "year", "count"
