@@ -22,4 +22,4 @@ ga <- google_analytics_4(
 
 ga <- ga %>% clean_names()
 
-write.csv(ga, "google-analytics.csv", quote = FALSE, row.names = FALSE)
+write.table(ga, "google-analytics.csv", quote = FALSE, row.names = FALSE, sep = ";")
