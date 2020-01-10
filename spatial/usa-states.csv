@@ -1,11 +1,11 @@
 code,name,fips
-AL,Alabama,01
-AK,Alaska,02
-AZ,Arizona,04
-AR,Arkansas,05
-CA,California,06
-CO,Colorado,08
-CT,Connecticut,09
+AL,Alabama,1
+AK,Alaska,2
+AZ,Arizona,4
+AR,Arkansas,5
+CA,California,6
+CO,Colorado,8
+CT,Connecticut,9
 DE,Delaware,10
 DC,Disctrict of Columbia,11
 FL,Florida,12
