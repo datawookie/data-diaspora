@@ -1,0 +1,37 @@
+# Data from https://ourworldindata.org/environmental-impacts-of-food.
+#
+# Land use (m²) per 100g protein
+#
+item,year,land_use
+Apples,2018,21.00
+Bananas,2018,21.44
+Beef (beef herd),2018,163.60
+Beef (dairy herd),2018,21.90
+Berries & Grapes,2018,24.10
+Brassicas,2018,5.00
+Cassava,2018,20.11
+Cheese,2018,39.76
+Citrus Fruit,2018,14.33
+Coffee,2018,27.03
+Dark Chocolate,2018,137.92
+Eggs,2018,5.65
+Fish (farmed),2018,3.69
+Grains,2018,4.60
+Groundnuts,2018,3.48
+Lamb & Mutton,2018,184.81
+Maize,2018,3.09
+Milk,2018,27.12
+Nuts,2018,7.94
+Oatmeal,2018,5.85
+Onions & Leeks,2018,3.00
+Other Pulses,2018,7.27
+Peas,2018,3.36
+Pig Meat,2018,10.73
+Potatoes,2018,5.18
+Poultry Meat,2018,7.06
+Prawns (farmed),2018,2.01
+Rice,2018,3.94
+Root Vegetables,2018,3.30
+Tofu (soybeans),2018,2.20
+Tomatoes,2018,7.27
+Wheat & Rye,2018,3.16

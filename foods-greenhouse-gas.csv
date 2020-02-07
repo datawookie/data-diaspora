@@ -1,0 +1,37 @@
+# Data from https://ourworldindata.org/environmental-impacts-of-food.
+#
+# Greenhouse gas emissions (kg CO₂ equivalent) per 100g protein
+#
+item,year,greenhouse_gas
+Apples,2018,14.33
+Bananas,2018,9.56
+Beef (beef herd),2018,49.89
+Beef (dairy herd),2018,16.87
+Berries & Grapes,2018,15.30
+Brassicas,2018,4.64
+Cassava,2018,14.67
+Cheese,2018,10.82
+Citrus Fruit,2018,6.50
+Coffee,2018,35.66
+Dark Chocolate,2018,93.30
+Eggs,2018,4.21
+Fish (farmed),2018,5.98
+Grains,2018,2.70
+Groundnuts,2018,1.23
+Lamb & Mutton,2018,19.85
+Maize,2018,1.79
+Milk,2018,9.50
+Nuts,2018,0.26
+Oatmeal,2018,1.91
+Onions & Leeks,2018,3.85
+Other Pulses,2018,0.84
+Peas,2018,0.44
+Pig Meat,2018,7.61
+Potatoes,2018,2.71
+Poultry Meat,2018,5.70
+Prawns (farmed),2018,18.19
+Rice,2018,6.27
+Root Vegetables,2018,4.30
+Tofu (soybeans),2018,1.98
+Tomatoes,2018,19.00
+Wheat & Rye,2018,1.29
