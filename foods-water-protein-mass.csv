@@ -1,0 +1,35 @@
+# Data from https://ourworldindata.org/environmental-impacts-of-food.
+#
+# Water (litre) per 100g protein
+#
+item,year,water_protein_mass
+Apples,2018,"6,003.33"
+Bananas,2018,"1,272.22"
+Beef (beef herd),2018,727.78
+Beef (dairy herd),2018,"1,375.03"
+Berries & Grapes,2018,"4,196.00"
+Brassicas,2018,"1,085.45"
+Cheese,2018,"2,538.59"
+Citrus Fruit,2018,"1,378.33"
+Coffee,2018,32.38
+Dark Chocolate,2018,"1,081.20"
+Eggs,2018,520.64
+Fish (farmed),2018,"1,618.64"
+Groundnuts,2018,707.52
+Lamb & Mutton,2018,900.95
+Maize,2018,227.05
+Milk,2018,"1,903.64"
+Nuts,2018,"2,531.41"
+Oatmeal,2018,371.08
+Onions & Leeks,2018,110.00
+Other Pulses,2018,203.50
+Peas,2018,178.49
+Pig Meat,2018,"1,109.89"
+Potatoes,2018,347.65
+Poultry Meat,2018,381.06
+Prawns (farmed),2018,"2,380.09"
+Rice,2018,"3,166.76"
+Root Vegetables,2018,284.00
+Tofu (soybeans),2018,92.88
+Tomatoes,2018,"3,361.82"
+Wheat & Rye,2018,530.74

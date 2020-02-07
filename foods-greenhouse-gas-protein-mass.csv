@@ -2,7 +2,7 @@
 #
 # Greenhouse gas emissions (kg CO₂ equivalent) per 100g protein
 #
-item,year,greenhouse_gas
+item,year,greenhouse_gas_protein_mass
 Apples,2018,14.33
 Bananas,2018,9.56
 Beef (beef herd),2018,49.89

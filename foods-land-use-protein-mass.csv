@@ -2,7 +2,7 @@
 #
 # Land use (m²) per 100g protein
 #
-item,year,land_use
+item,year,land_use_protein_mass
 Apples,2018,21.00
 Bananas,2018,21.44
 Beef (beef herd),2018,163.60
