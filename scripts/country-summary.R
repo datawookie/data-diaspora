@@ -21,6 +21,7 @@ countries <- countries %>%
   ) %>%
   select(-capital) %>%
   mutate(
+    iso_numeric = sprintf("%03d", iso_numeric),
     continent = ifelse(is.na(continent), "NA", continent),
     area = area %>% str_replace_all(",", "") %>% as.integer(),
     population = population %>% str_replace_all(",", "") %>% as.integer()
