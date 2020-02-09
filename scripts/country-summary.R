@@ -27,4 +27,4 @@ countries <- countries %>%
   )
 
 cat("# Data from ", URL, ".\n", sep = "", file = FILE)
-write_csv(countries, FILE, append = TRUE, na = "")
+write_csv(countries, FILE, append = TRUE, col_names = TRUE, na = "")
