@@ -27,5 +27,5 @@ countries <- countries %>%
     population = population %>% str_replace_all(",", "") %>% as.integer()
   )
 
-cat("# Data from ", URL, ".\n", sep = "", file = FILE)
+cat("# Data from ", URL, ".\n#\n# area - km^2\n#\n", sep = "", file = FILE)
 write_csv(countries, FILE, append = TRUE, col_names = TRUE, na = "")

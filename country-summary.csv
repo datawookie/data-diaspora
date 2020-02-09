@@ -1,4 +1,7 @@
 # Data from https://www.geonames.org/countries/.
+#
+# area - km^2
+#
 iso_alpha2,iso_alpha3,iso_numeric,fips,country,area,population,continent
 AD,AND,020,AN,Andorra,468,84000,EU
 AE,ARE,784,AE,United Arab Emirates,82880,4975593,AS
