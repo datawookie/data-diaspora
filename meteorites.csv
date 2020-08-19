@@ -1,0 +1,69 @@
+epoch,continent,count
+Pre-1400,Europe,1
+1400s,Europe,4
+1500s,Europe,2
+1600s,Europe,9
+1700s,Europe,25
+1800–1820,Europe,31
+1821–1840,Europe,26
+1841–1860,Europe,42
+1861–1880,Europe,47
+1881–1900,Europe,36
+1901–1920,Europe,27
+1921–1940,Europe,38
+1941–1960,Europe,27
+1961–1980,Europe,19
+1981–2000,Europe,12
+2001-,Europe,11
+Pre-1400,Asia,1
+1600s,Asia,3
+1700s,Asia,3
+1800–1820,Asia,7
+1821–1840,Asia,11
+1841–1860,Asia,15
+1861–1880,Asia,36
+1881–1900,Asia,27
+1901–1920,Asia,55
+1921–1940,Asia,55
+1941–1960,Asia,27
+1961–1980,Asia,42
+1981–2000,Asia,49
+2001-,Asia,15
+1800–1820,North America,3
+1821–1840,North America,9
+1841–1860,North America,12
+1861–1880,North America,14
+1881–1900,North America,20
+1901–1920,North America,21
+1921–1940,North America,32
+1941–1960,North America,18
+1961–1980,North America,22
+1981–2000,North America,19
+2001-,North America,12
+1800–1820,Africa,1
+1821–1840,Africa,1
+1841–1860,Africa,1
+1861–1880,Africa,6
+1881–1900,Africa,7
+1901–1920,Africa,10
+1921–1940,Africa,17
+1941–1960,Africa,31
+1961–1980,Africa,29
+1981–2000,Africa,24
+2001-,Africa,16
+1821–1840,South America,1
+1861–1880,South America,4
+1901–1920,South America,4
+1921–1940,South America,14
+1941–1960,South America,12
+1961–1980,South America,8
+1981–2000,South America,4
+2001-,South America,7
+1861–1880,Oceania,1
+1881–1900,Oceania,2
+1901–1920,Oceania,2
+1921–1940,Oceania,5
+1941–1960,Oceania,3
+1961–1980,Oceania,3
+1981–2000,Oceania,2
+2001-,Oceania,2
