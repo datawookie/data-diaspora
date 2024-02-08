@@ -1,6 +1,8 @@
 library(dplyr)
 library(Quandl)
 
+QUANDL_KEY <- Sys.getenv("QUANDL_KEY")
+
 Quandl.api_key(QUANDL_KEY)
 
 AAPL = Quandl.datatable('WIKI/PRICES', ticker='AAPL')
